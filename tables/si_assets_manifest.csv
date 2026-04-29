@@ -1,0 +1,7 @@
+asset_type,id,path,description
+figure,Figure S1,/datasets/joe/dataset/Border/manuscript/figures/supplement/fig_s1_pv_identification_support.pdf,Image coverage and segmentation benchmark support for rooftop PV identification.
+figure,Figure S2,/datasets/joe/dataset/Border/manuscript/figures/supplement/fig_s2_economic_uncertainty_capex_npv.pdf,Uncertainty-propagated analogue of main-text Figure 4a retained as the supplementary economic comparison.
+table,Table S1,/datasets/joe/dataset/Border/manuscript/tables/table_s1_economic_model_city_inputs.csv,City-level PV economic model inputs exported from city_solar_data_checked.
+table,Table S1-note,/datasets/joe/dataset/Border/manuscript/tables/table_s1_global_model_assumptions.csv,Global model assumptions used in the discounted cash-flow analysis.
+table,Table S2,/datasets/joe/dataset/Border/manuscript/tables/table_s2_policy_friction_codebook.csv,Policy-friction codebook and scoring rubric.
+table,Table S3,/datasets/joe/dataset/Border/manuscript/tables/table_s3_irr_match_requirements_by_pair.csv,Pair-level IRR catch-up requirements for lagging cities (required export-rate increase and equivalent PV subsidy).

@@ -1,0 +1,164 @@
+1: Check and rules
+
+Read these files first and treat them as project instructions:
+
+- `docs/AGENTS.md`
+- `docs/manuscript_blueprint.md`
+- `docs/journal_style.md`
+- `docs/figure_map.md`
+- `docs/variable_dictionary.md`
+
+Then inspect the repository structure, especially:
+- `data/`
+- `figures/main/`
+- `figures/panels/`
+- `paper/manuscript.tex`
+- `paper/supplementary.tex`
+- `script/`
+
+Do not write manuscript text yet.
+
+Create `outputs/repo_readiness_report.md` with:
+1. what each major folder appears to contain,
+2. which files are likely the main evidence sources for the manuscript,
+3. which figures appear ready for writing,
+4. which figure-map entries may still need manual completion,
+5. any obvious risks for writing consistency.
+
+Rules:
+- do not invent file contents,
+- do not modify any manuscript files,
+- use `[CHECK]` where repository evidence is unclear.
+
+Use `paper/manuscript.tex` as the source-of-truth manuscript skeleton.
+
+Read:
+- `docs/AGENTS.md`
+- `docs/manuscript_blueprint.md`
+- `docs/journal_style.md`
+- `docs/figure_map.md`
+- `docs/variable_dictionary.md`
+- `outputs/results_catalog.md`
+- `manuscript_section_plan.md`
+
+Write the first Results subsection on Border-city rooftop PV adoption diverges through three recurring patterns.
+
+Workflow:
+1. inspect the relevant main figure image first,
+2. summarize what is visibly shown overall and panel by panel,
+3. read the corresponding entry in `docs/figure_map.md`,
+4. read the listed input files,
+5. read the main script only if needed to verify analysis logic.
+
+Writing order:
+- first state what the figure shows overall,
+- then describe panel-level patterns in sequence,
+- then add only necessary quantitative support,
+- end with restrained interpretation.
+
+Rules:
+- the figure image is the narrative anchor,
+- use additional value/information from supporting CSV if neccessary,
+- do not invent numbers,
+- use exact city-pair names and directions,
+- insert `[CHECK]` where needed.
+
+Output:
+1. LaTeX-ready subsection text,
+2. a bullet list of numeric claims and their source files,
+3. a short alternative version.
+4. write into manuscript.tex and compile
+
+
+You are writing the Introduction section of a Nature-style manuscript.
+
+Context:
+- The Results, Methods, and Discussion sections are already drafted.
+- The manuscript analyzes cross-border rooftop PV adoption patterns.
+- The core findings involve economic returns, policy/administrative frictions, and sectoral heterogeneity.
+- The study uses paired border cities as a comparative design.
+- Figure 1 presents the overall study framework.
+
+Read:
+- `paper/manuscript.tex` (Results, Methods, Discussion sections)
+- `/datasets/joe/dataset/Border/manuscript/paper/supplementary.tex`
+- `/datasets/joe/dataset/Border/manuscript/docs/AGENTS.md`
+- `docs/manuscript_blueprint.md`
+- `docs/journal_style.md`
+- `docs/figure_map.md` (for Fig. 1 only)
+
+Task:
+Write a complete Introduction section that is fully aligned with the existing Results and Discussion.
+
+Follow this structure:
+
+Paragraph 1 — Broad context
+- Introduce the importance of urban energy transitions and rooftop PV.
+- Frame the problem at a global or urban-system level.
+
+Paragraph 2 — Gap / problem
+- Identify the key limitation in existing understanding (e.g., why neighboring cities differ, limits of wealth-based explanations).
+- Motivate the need for a comparative framework.
+
+Paragraph 3 — Study design
+- Introduce border-city pairs as a quasi-comparative setting.
+- Explain why this design is useful.
+
+Paragraph 4 — Approach (high-level only)
+- Describe what the study does:
+  - building-level rooftop PV mapping,
+  - integration of economic return and policy friction,
+  - cross-border comparative analysis.
+- Reference Fig. 1 as the overall framework (e.g., “Fig. 1 summarizes ...”).
+
+Paragraph 5 — Contributions
+- Clearly state what this paper contributes:
+  - empirical (new dataset / mapping),
+  - conceptual (return vs friction framework),
+  - analytical (border-city comparative lens).
+- Keep it high-level (no detailed results, no numbers).
+
+Important constraints:
+- Do NOT include detailed Methods (no model architecture, no Dice/IoU, etc.).
+- Do NOT include specific numerical results.
+- Do NOT copy text from Results or Discussion.
+- Do NOT overclaim causality.
+- Use “Fig. 1” format for references.
+- Keep paragraphs compact and information-dense.
+
+Writing style:
+- Nature-style: concise, high-impact, concept-driven
+- Emphasize mechanisms, not descriptions
+- Avoid redundancy and long background sections
+
+Output:
+1. Full Introduction (LaTeX-ready)
+2. A shorter version (more compact)
+3. The final paragraph (contribution paragraph) highlighted separately
+
+When writing the manuscript:
+
+- Do NOT insert actual citations yet.
+- Instead, identify places where a citation is needed and insert a placeholder.
+
+Use the format:
+[CITE]
+
+For more specific cases, you may use:
+[CITE: background]
+[CITE: method]
+[CITE: policy]
+[CITE: data source]
+
+Rules:
+- Insert placeholders where a claim would normally require support, including:
+  - general background statements,
+  - widely accepted facts,
+  - references to prior work,
+  - methodological precedents,
+  - policy or economic claims.
+- Do NOT invent or guess references.
+- Do NOT use \cite{} yet.
+- Do NOT overuse placeholders; only insert where scientifically necessary.
+
+Later, these placeholders will be replaced with actual references from the `.bib` file.

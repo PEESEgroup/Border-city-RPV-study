@@ -1,0 +1,13 @@
+City,cost_per_watt_usd,capex_reduction,electricity_rate_usd_per_kwh,export_rate_usd_per_kwh,pv_yield_kwh_per_kw_year,self_consumption_ratio,degradation_rate,om_rate,parameter_provenance
+Bratislava,1.9,0.1,0.194,0.173,1150,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+El Paso,2.34,0.2,0.13,0.02,1750,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Hong Kong,2.5,0.2,0.183,0.35,1350,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Johor Bahru,1.0,0.15,0.057,0.07,1450,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Juarez,1.6,0.1,0.119,0.119,1750,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Monaco,2.6,0.2,0.28,0.173,1500,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Nice,2.2,0.2,0.278,0.173,1500,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+San Diego,2.6,0.2,0.39,0.03,1650,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Shenzhen,0.6,0.15,0.077,0.07,1350,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Singapore,1.2,0.1,0.241,0.219,1450,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Tijuana,1.6,0.1,0.119,0.119,1650,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
+Vienna,2.2,0.2,0.292,0.216,1150,0.7,0.005,0.01,script/econimic_model.py:city_solar_data_checked
