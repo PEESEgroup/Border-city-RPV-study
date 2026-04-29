@@ -1,5 +1,0 @@
-geopandas
-matplotlib
-numpy
-pandas
-Pillow
