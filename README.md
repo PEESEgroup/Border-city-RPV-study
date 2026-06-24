@@ -161,17 +161,9 @@ The processed data and analysis scripts required to reproduce the reported city-
 
 Raw imagery, restricted geospatial data, and model checkpoints are not redistributed because of licensing and file-size constraints. The manuscript and supplementary information describe the data sources, processing procedures, and validation summaries used to generate the processed analytical tables.
 
-## Citation
-
-If using this repository, please cite the associated manuscript:
-
-> [Authors]. “Border cities reveal how rooftop solar opportunity becomes urban deployment.” *Nature Cities*, under review.
-
-Please update this section with the final publication details and DOI after publication.
-
 ## License
 
-Please add the appropriate license before public release or archival deposition. Suggested options are MIT License for code and CC BY 4.0 for processed data/documentation, subject to compatibility with upstream data-source terms.
+This project is covered under MIT license.
 
 ## Contact
 
