@@ -34,7 +34,6 @@ Border-city-RPV-study/
 │
 ├── scripts/
 │   ├── econimic_model.py
-│   ├── generate_si_assets.py
 │   └── plot_*.py            # Figure-generation scripts
 │
 └── README.md
