@@ -28,6 +28,11 @@ def rows(path: Path):
 
 
 errors = []
+forbidden = [ROOT / "tables/table_s_candidate_pair_screening.tex"]
+for path in forbidden:
+    if path.exists():
+        errors.append(f"superseded selection artifact retained: {path.relative_to(ROOT)}")
+
 required = [
     *(ROOT / "Source_Data/csv" / f"Fig_{i}.csv" for i in range(1, 7)),
     ROOT / "Source_Data/csv/Fig_S_grid_atlas.csv",

@@ -615,6 +615,7 @@ def draw_heatmap(
     colorbar_orientation: str = "vertical",
     show_xlabels: bool = True,
     value_decimals: int = 1,
+    small_nonzero_decimals: int | None = None,
     ytick_rotation: float = 0.0,
     xtick_rotation: float = 0.0,
     xtick_fontsize: float | None = None,
@@ -671,11 +672,15 @@ def draw_heatmap(
     for i in range(nrows):
         for j in range(ncols):
             value = float(matrix[i, j])
-            display_value = 0.0 if abs(value) < 0.055 else value
+            if small_nonzero_decimals is not None and 0.0 < abs(value) < 0.055:
+                value_text = f"{value:+.{small_nonzero_decimals}f}"
+            else:
+                display_value = 0.0 if abs(value) < 0.055 else value
+                value_text = f"{display_value:+.{value_decimals}f}"
             ax.text(
                 j,
                 i,
-                f"{display_value:+.{value_decimals}f}",
+                value_text,
                 ha="center",
                 va="center",
                 fontsize=4.9 if compact else 10.3,
@@ -720,6 +725,7 @@ def draw_panel_c(
         colorbar_orientation="vertical",
         show_xlabels=show_xlabels,
         value_decimals=1,
+        small_nonzero_decimals=2,
         ytick_rotation=0.0,
         xtick_rotation=30.0,
         xtick_fontsize=9.6,
