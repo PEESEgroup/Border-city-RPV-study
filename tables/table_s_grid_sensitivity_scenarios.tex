@@ -1,0 +1,16 @@
+\begin{tabular}{@{}llrrrrp{3.6cm}@{}}
+\toprule
+Family & Scenario & Cell size (m) & x offset (m) & y offset (m) & Min. buildings & Boundary-cell rule \\
+\midrule
+Base & 1 km, $\geq$50, all boundary cells & 1000 & 0 & 0 & 50 & all assigned boundary cells \\
+Resolution & 0.5 km, $\geq$13 & 500 & 0 & 0 & 13 & all assigned boundary cells \\
+Resolution & 2 km, $\geq$200 & 2000 & 0 & 0 & 200 & all assigned boundary cells \\
+Origin shift & x +0.5 km & 1000 & 500 & 0 & 50 & all assigned boundary cells \\
+Origin shift & y +0.5 km & 1000 & 0 & 500 & 50 & all assigned boundary cells \\
+Origin shift & x,y +0.5 km & 1000 & 500 & 500 & 50 & all assigned boundary cells \\
+Eligibility & $\geq$25 buildings & 1000 & 0 & 0 & 25 & all assigned boundary cells \\
+Eligibility & $\geq$100 buildings & 1000 & 0 & 0 & 100 & all assigned boundary cells \\
+Boundary cells & cell center inside & 1000 & 0 & 0 & 50 & cell center inside audited boundary \\
+Boundary cells & $\geq$50\% cell area inside & 1000 & 0 & 0 & 50 & at least 50\% cell area inside audited boundary \\
+\bottomrule
+\end{tabular}

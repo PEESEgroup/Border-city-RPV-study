@@ -1,0 +1,10 @@
+diagnostic,detroit,windsor,interpretation
+median_household_income_2020_usd,32498,52180.39508,aligns with Windsor PV lead
+central_scenario_irr_pct,2.677421,3.006189,aligns conditional on realized support
+irr_without_capital_support_pct,-0.312091,0.150722,direction remains Windsor-led if neither receives support
+windsor_no_grant_comparison_irr_pct,2.677421,0.150722,direction reverses when Detroit credit is realized and Windsor grant is absent
+revenue_friction_index,6,4,lower in Windsor
+administrative_friction_index,6,6,tie
+total_policy_friction_index,12,10,lower in Windsor
+pvgis_annual_irradiation_symmetric_difference_pct,0.469344,0.469344,closely matched
+pvgis_annual_pv_yield_symmetric_difference_pct,1.069864,1.069864,closely matched

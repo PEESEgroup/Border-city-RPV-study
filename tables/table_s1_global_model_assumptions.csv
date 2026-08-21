@@ -1,0 +1,4 @@
+assumption,value,unit,provenance
+system_size_kw,5.0,kW,plot_discounted_cashflow_profiles_citypair_lines.py default
+project_lifetime_years,25.0,years,plot_discounted_cashflow_profiles_citypair_lines.py default
+discount_rate,0.05,share,plot_discounted_cashflow_profiles_citypair_lines.py default

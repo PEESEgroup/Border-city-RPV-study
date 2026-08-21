@@ -1,170 +1,57 @@
-# Border-city RPV Study
+# The building-level anatomy of rooftop solar deployment gaps across border cities
 
-This repository contains the processed data and analysis scripts for the manuscript:
+This repository contains the redistributable numerical data, spatial summary data, validation summaries and analysis code supporting the manuscript **The building-level anatomy of rooftop solar deployment gaps across border cities**.
 
-**“Border cities reveal how rooftop solar opportunity becomes urban deployment”**
+## Scope
 
-The repository is provided to support peer review, reporting-summary documentation, and reproducibility of the processed-data analyses reported in the manuscript.
+The primary analysis covers 12 cities in six border-city pairs. Detroit–Windsor is retained as a separately reported Supplementary sensitivity. The repository supports numerical verification of all six main figures, all six Supplementary figures and the machine-readable Supplementary tables. Economic-return and documented-policy indicators are contextual diagnostics, not causal estimates.
 
-## Overview
-
-This study compares rooftop photovoltaic (RPV) deployment across selected neighboring border-city pairs to examine how rooftop solar opportunity is translated into urban deployment under different local economic, policy, and administrative conditions.
-
-The analyzed city pairs are:
-
-* San Diego, United States — Tijuana, Mexico
-* El Paso, United States — Ciudad Juárez, Mexico
-* Hong Kong — Shenzhen, China
-* Singapore — Johor Bahru, Malaysia
-* Vienna, Austria — Bratislava, Slovakia
-* Monaco — Nice, France
-
-The repository includes processed rooftop PV/building data, policy-friction scores, city-level economic inputs, and scripts for reproducing the main analytical summaries and figures.
-
-## Repository structure
-
-```text
-Border-city-RPV-study/
-│
-├── data/
-│   ├── Building_PVs/        # Processed rooftop PV/building tables and validation summaries
-│   ├── PV_Eco_model/        # Processed economic-model inputs and outputs
-│   ├── Policy_frictions/    # Policy-friction codebook and scoring tables
-│   └── city_economic/       # City-level economic and deployment data
-│
-├── scripts/
-│   ├── econimic_model.py
-│   └── plot_*.py            # Figure-generation scripts
-│
-└── README.md
-```
-
-Note: the filename `econimic_model.py` is retained as currently used in the repository.
-
-## Data
-
-The repository contains processed data tables used for the manuscript analyses.
-
-### `data/Building_PVs/`
-
-Processed rooftop PV and building-level summary tables, including city-level image coverage summaries, rooftop PV utilization tables, and validation/benchmark summaries.
-
-### `data/Policy_frictions/`
-
-Policy-friction scoring files used to summarize revenue and administrative barriers to rooftop PV deployment.
-
-The friction indicators are:
-
-* A: Export compensation friction
-* B: Export constraint friction
-* C: Settlement complexity friction
-* D: Policy uncertainty friction
-* E: Small-system approval friction
-* F: Building/planning approval friction
-* G: Grid study/fee friction
-* H: Professional credential friction
-
-Each indicator is scored from 0 to 3, where higher values indicate greater friction.
-
-### `data/PV_Eco_model/`
-
-Processed inputs and outputs for the standardized rooftop PV economic model, including assumptions on installed cost, electricity price, export compensation, PV yield, self-consumption, degradation, and O&M.
-
-### `data/city_economic/`
-
-City-level economic and deployment indicators used in the city-pair comparison and figure-generation scripts.
-
-## Software requirements
-
-The analysis scripts are written in Python and require a standard scientific Python environment.
-
-Recommended:
-
-```text
-Python >= 3.10
-pandas
-numpy
-matplotlib
-pillow
-```
-
-Install dependencies with:
-
-```bash
-pip install pandas numpy matplotlib pillow
-```
-
-## Reproducing the analysis
-
-Clone the repository:
+## Quick start
 
 ```bash
 git clone https://github.com/PEESEgroup/Border-city-RPV-study.git
 cd Border-city-RPV-study
+python scripts/validate_release.py
+make source-data
 ```
 
-Run the economic model:
+`validate_release.py` checks file completeness, row counts, key numerical identities, public-path hygiene and SHA-256 integrity. `make source-data` rebuilds the CSV archives, refreshes their integrity records and validates the retained submission workbooks using only the Python standard library.
 
-```bash
-python scripts/econimic_model.py
-```
+## Repository structure
 
-This generates:
+- `Source_Data/`: submission-ready CSV, GeoJSON, XLSX and ZIP Source Data package.
+- `tables/`: machine-readable Supplementary tables and the exact TeX table bodies used in the manuscript.
+- `evidence/`: frozen analysis inputs and held-out checkpoint evaluation summaries.
+- `code/revision/`: production scripts for the revised main and Supplementary panels.
+- `code/model/`: model training and checkpoint-evaluation code used for the documented 70/30 tile holdout.
+- `figures/`: final vector PDFs used in the clean manuscript.
+- `docs/`: data map, reproducibility boundary, external-file register and release audit.
 
-```text
-scripts/economic_analysis_results.csv
-scripts/economic_figures/
-```
+## Source Data
 
-The economic model reports standardized city-level rooftop PV metrics, including CAPEX, LCOE, NPV, IRR, simple payback, discounted payback, compensation ratio, and year-1 cash-flow quantities.
+The main submission artifacts are:
 
-To reproduce figures, run the relevant plotting scripts in `scripts/`. For example:
+- `Source_Data/Source_Data.xlsx`
+- `Source_Data/Source_Data_CSV.zip`
+- `Source_Data/Supplementary_Tables.xlsx`
+- `Source_Data/Supplementary_Tables_CSV.zip`
 
-```bash
-python scripts/plot_border_city_pv_friction_heatmap.py --help
-python scripts/plot_city_rpv_utilization_within_pair_hbar.py --help
-python scripts/plot_city_roofsize_pv_adoption.py --help
-python scripts/plot_capex_vs_profitability_citypair_scatter.py --help
-```
+Panel-specific CSV files remain the authoritative machine-readable records. The workbook is a convenience container. Exact plotted grid squares are supplied as GeoJSON.
 
-Use the `--help` flag to check the required input and output arguments for each script.
+## Reproducibility boundary
 
-## Reproducibility notes
+The repository includes the derived data required to audit the reported values and recreate numerical figure content. It does not redistribute third-party orthophotos, full building-footprint layers or citywide prediction rasters. The 324-MB checkpoint is also excluded from the GitHub archive because it exceeds GitHub's ordinary single-file limit. Its exact filename, size and SHA-256 checksum are recorded in `docs/external_files.md`. Full citywide inference therefore requires separately obtained imagery, building data and checkpoint weights. This limitation does not affect reproduction of the published numerical figures from the retained Source Data.
 
-The included scripts are deterministic when run with the provided processed input tables. No random sampling, stochastic model training, or GPU computation is required for the processed-data analyses included here.
+Several final composite figures were assembled in Adobe Illustrator from the vector panels. The final PDFs are included as the authoritative publication artwork. Production scripts regenerate their numerical panels, but minor typography and panel placement may differ without the licensed fonts and Illustrator assembly.
 
-For reproducibility, users are encouraged to record:
+## Environment
 
-```bash
-python --version
-pip freeze > environment_freeze.txt
-git rev-parse HEAD
-```
+Python 3.10 or later is recommended. Core figure scripts use pandas, NumPy, Matplotlib, Pillow, GeoPandas, Shapely and PyProj. See `environment.yml` and `requirements.txt`.
 
-## Scope and limitations
+## Citation
 
-This repository is a trimmed reproducibility package. It includes reusable processed data and code, but does not include all raw upstream materials.
+Please cite the associated paper and this repository release. Citation metadata are provided in `CITATION.cff`.
 
-Not included:
+## Licensing
 
-* raw high-resolution aerial or satellite imagery;
-* trained segmentation checkpoints;
-* large intermediate geospatial files;
-* provider-restricted datasets that cannot be redistributed;
-* raw annotation files if restricted by license or size.
-
-The economic model is intended as a standardized comparative diagnostic across cities, not as site-specific financial advice. Policy-friction scores summarize conditions at the time of analysis and should be updated if regulations change.
-
-## Data and code availability
-
-The processed data and analysis scripts required to reproduce the reported city-level comparisons, policy-friction summaries, economic diagnostics, and figure-generation workflows are available in this repository.
-
-Raw imagery, restricted geospatial data, and model checkpoints are not redistributed because of licensing and file-size constraints. The manuscript and supplementary information describe the data sources, processing procedures, and validation summaries used to generate the processed analytical tables.
-
-## License
-
-This project is covered under MIT license.
-
-## Contact
-
-For questions about the data, code, or manuscript, please contact the corresponding author listed in the manuscript.
+Code is released under the MIT License. Author-generated tabular Source Data are released under CC BY 4.0, subject to the third-party rights and source terms listed in `DATA_LICENSE.md` and the retained provenance fields.

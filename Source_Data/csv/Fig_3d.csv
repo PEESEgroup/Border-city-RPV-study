@@ -1,0 +1,37 @@
+pair_order,pair,display_pair,city_1,city_2,class_order,building_class_key,building_class,city_1_prevalence_pct,city_2_prevalence_pct,prevalence_gap_pp,low_count_flag,label_completeness_flag,reliability_hatch
+1,Vienna--Bratislava,VIE - BRA,vienna,bratislava,1,single-residential,Single-res,6.85107989841476,3.41231006953386,3.4387698288808997,False,False,False
+1,Vienna--Bratislava,VIE - BRA,vienna,bratislava,2,multi-residential,Multi-res,4.7469627484109695,1.54059543270421,3.2063673157067596,False,False,False
+1,Vienna--Bratislava,VIE - BRA,vienna,bratislava,3,commercial,Commercial,10.793505602561169,1.9945929708621202,8.798912631699048,False,False,False
+1,Vienna--Bratislava,VIE - BRA,vienna,bratislava,4,industrial,Industrial,7.0133963750985,2.41696113074204,4.59643524435646,False,False,False
+1,Vienna--Bratislava,VIE - BRA,vienna,bratislava,5,public & infrastructure,Public/Infra,14.78968792401628,2.84825667048616,11.94143125353012,False,False,False
+1,Vienna--Bratislava,VIE - BRA,vienna,bratislava,6,others,Others,6.803892515317759,2.04004533434076,4.763847180976999,False,True,True
+2,Singapore--Johor Bahru,SIN - JB,singapore,johorbahru,1,single-residential,Single-res,5.38695499590568,0.81822865281851,4.56872634308717,False,False,False
+2,Singapore--Johor Bahru,SIN - JB,singapore,johorbahru,2,multi-residential,Multi-res,9.47990780639342,4.20904945633111,5.27085835006231,True,False,True
+2,Singapore--Johor Bahru,SIN - JB,singapore,johorbahru,3,commercial,Commercial,4.11879736005866,2.02328382175833,2.09551353830033,False,False,False
+2,Singapore--Johor Bahru,SIN - JB,singapore,johorbahru,4,industrial,Industrial,3.81782584374417,1.73903766136775,2.07878818237642,False,False,False
+2,Singapore--Johor Bahru,SIN - JB,singapore,johorbahru,5,public & infrastructure,Public/Infra,4.387340837792951,0.76859406408892,3.6187467737040304,False,False,False
+2,Singapore--Johor Bahru,SIN - JB,singapore,johorbahru,6,others,Others,2.91179269043488,0.60739782009406,2.30439487034082,False,True,True
+3,San Diego--Tijuana,SD - TIJ,sandiego,tijuana,1,single-residential,Single-res,16.53336529660463,0.24506896508207998,16.28829633152255,False,False,False
+3,San Diego--Tijuana,SD - TIJ,sandiego,tijuana,2,multi-residential,Multi-res,5.07644648745877,0.54644808743169,4.52999840002708,True,False,True
+3,San Diego--Tijuana,SD - TIJ,sandiego,tijuana,3,commercial,Commercial,6.5301800211789605,0.9655725567620901,5.56460746441687,False,False,False
+3,San Diego--Tijuana,SD - TIJ,sandiego,tijuana,4,industrial,Industrial,2.7420736932305,0.73627320435497,2.00580048887553,False,False,False
+3,San Diego--Tijuana,SD - TIJ,sandiego,tijuana,5,public & infrastructure,Public/Infra,5.125148986889149,0.9120039438008299,4.2131450430883195,False,False,False
+3,San Diego--Tijuana,SD - TIJ,sandiego,tijuana,6,others,Others,14.17250854080257,0.53376478872482,13.63874375207775,False,True,True
+4,El Paso--Juarez,EP - JUA,elpaso,juarez,1,single-residential,Single-res,4.7729406242666,2.81393388894091,1.9590067353256906,False,True,True
+4,El Paso--Juarez,EP - JUA,elpaso,juarez,2,multi-residential,Multi-res,3.6697247706422,8.21917808219178,-4.5494533115495805,True,True,True
+4,El Paso--Juarez,EP - JUA,elpaso,juarez,3,commercial,Commercial,2.10727969348659,3.74293785310734,-1.6356581596207498,False,True,True
+4,El Paso--Juarez,EP - JUA,elpaso,juarez,4,industrial,Industrial,1.05492906511458,1.50375939849624,-0.4488303333816601,False,True,True
+4,El Paso--Juarez,EP - JUA,elpaso,juarez,5,public & infrastructure,Public/Infra,1.6110902959909998,1.54464009885696,0.06645019713403988,False,True,True
+4,El Paso--Juarez,EP - JUA,elpaso,juarez,6,others,Others,3.36061852952804,0.7647514151668,2.59586711436124,False,True,True
+5,Hong Kong--Shenzhen,HK - SZ,hongkong,shenzhen,1,single-residential,Single-res,4.00844972157263,1.32912957467853,2.6793201468940997,False,False,False
+5,Hong Kong--Shenzhen,HK - SZ,hongkong,shenzhen,2,multi-residential,Multi-res,2.0913331443445,2.9057206375050804,-0.8143874931605803,False,False,False
+5,Hong Kong--Shenzhen,HK - SZ,hongkong,shenzhen,3,commercial,Commercial,3.56682423721529,8.99133562203694,-5.424511384821651,False,False,False
+5,Hong Kong--Shenzhen,HK - SZ,hongkong,shenzhen,4,industrial,Industrial,4.76781542056074,9.29446239386881,-4.526646973308071,False,False,False
+5,Hong Kong--Shenzhen,HK - SZ,hongkong,shenzhen,5,public & infrastructure,Public/Infra,1.88640151344534,11.84647929888183,-9.96007778543649,False,False,False
+5,Hong Kong--Shenzhen,HK - SZ,hongkong,shenzhen,6,others,Others,2.66846816416145,5.62145435791645,-2.952986193755,False,True,True
+6,Monaco--Nice,MON - NIC,monaco,nice,1,single-residential,Single-res,1.4336917562724,1.29903372368336,0.13465803258904008,True,False,True
+6,Monaco--Nice,MON - NIC,monaco,nice,2,multi-residential,Multi-res,3.6231884057971,1.7263025737602002,1.8968858320369,True,False,True
+6,Monaco--Nice,MON - NIC,monaco,nice,3,commercial,Commercial,2.1897810218978098,2.46179966044142,-0.2720186385436101,True,False,True
+6,Monaco--Nice,MON - NIC,monaco,nice,4,industrial,Industrial,0.0,1.5760441292356102,-1.5760441292356102,True,False,True
+6,Monaco--Nice,MON - NIC,monaco,nice,5,public & infrastructure,Public/Infra,10.52631578947368,3.6199095022624403,6.906406287211239,True,False,True
+6,Monaco--Nice,MON - NIC,monaco,nice,6,others,Others,1.65975103734439,1.84380152900614,-0.18405049166175003,True,True,True

@@ -1,0 +1,7 @@
+Pair,Baseline lower total,Revenue-only lower,Admin-only lower,Leave-one-component stable,One-point perturbation stable,Stable share
+Vienna--Bratislava,C1,C1,C1,8/8,29/29,100.0%
+Singapore--Johor Bahru,C1,C1,C1,8/8,26/26,100.0%
+San Diego--Tijuana,C1,C2,C1,5/8,14/27,51.9%
+El Paso--Juarez,C2,C2,Tie,8/8,29/29,100.0%
+Hong Kong--Shenzhen,C1,C1,C2,8/8,25/25,100.0%
+Monaco--Nice,C1,C1,C2,8/8,27/27,100.0%

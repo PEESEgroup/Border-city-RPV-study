@@ -1,0 +1,12 @@
+name: border-city-rooftop-pv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=2.0
+  - pandas>=2.2
+  - matplotlib>=3.9
+  - pillow>=10
+  - geopandas>=1.0
+  - shapely>=2.0
+  - pyproj>=3.6

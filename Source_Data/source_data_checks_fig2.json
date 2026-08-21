@@ -1,0 +1,30 @@
+{
+  "status": "combined_figure_ready",
+  "primary_pairs": 6,
+  "primary_cities": 12,
+  "panel_a_city_segment_rows": 36,
+  "panel_b_pair_rows": 6,
+  "shared_y_coordinates": true,
+  "shared_marker_legend": true,
+  "shared_small_denominator_note": true,
+  "marker_legend_location": "inside panel a lower right in two rows",
+  "small_denominator_note_location": "two lines below Nice and above the panel-a x-axis label",
+  "panel_b_column_headers": "regular-weight x tick labels aligned with panel-a x tick labels",
+  "reduced_top_whitespace": true,
+  "panel_labels": "regular Myriad Pro a, and b,",
+  "panel_b_cell_fills": [
+    "#d9d9d9",
+    "#efefef"
+  ],
+  "panel_b_grid_lines": false,
+  "panel_b_contextual_diagnostic_columns": 0,
+  "panel_b_attributes": [
+    "sector_leadership",
+    "income_ordering"
+  ],
+  "shaded_groups": 0,
+  "svg_generated": false,
+  "detroit_windsor_excluded": true,
+  "output_pdf": "figures/main/revision/fig_2.pdf",
+  "source_data": "Source_Data/csv/Fig_2.csv"
+}

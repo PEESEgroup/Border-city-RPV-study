@@ -1,0 +1,24 @@
+{\scriptsize
+\begin{tabular}{p{0.30\linewidth}p{0.62\linewidth}}
+\toprule
+Component & Setting \\
+\midrule
+Model & SegFormer semantic-segmentation model loaded through the local model wrapper with multi-dataset pretrained weights \\
+Task & Binary rooftop PV segmentation \\
+Input tiles & Orthophoto image tiles; no resizing during fine-tuning or inference normalization \\
+Label construction & Grayscale annotation pixels $>127$ treated as PV; remaining pixels treated as background \\
+Reconstructed checkpoint split & 0.7/0.3 global random train/test split after filtering; seed 42; 397 training and 171 test tiles \\
+Loss & $(1-w_{\mathrm{Dice}})$ binary cross-entropy with logits + $w_{\mathrm{Dice}}$ Dice loss; $w_{\mathrm{Dice}}=0.5$ \\
+Class weighting & Positive-pixel weight $=4.0$ in binary cross-entropy \\
+Optimizer and schedule & AdamW; weight decay $=0.01$; cosine learning-rate schedule with 5\% warm-up \\
+Training batch structure & Batch size $=2$; gradient accumulation $=16$; 40 epochs \\
+Encoder schedule & Encoder frozen for the first 10 epochs, then unfrozen \\
+Learning rates & Decode head $=6\times10^{-5}$; encoder $=4\times10^{-5}$ after unfreezing \\
+Checkpoint evaluated & Author-specified \texttt{cities\_12\_\_best\_student\_dice.pth}; citywide masks were generated after the checkpoint weights \\
+Inference threshold & Sigmoid probability threshold $=0.5$ \\
+Inference batch structure & Batch size $=8$; 16 workers where available \\
+Mask vectorization & Raster-to-polygon conversion from Mercator tile bounds to WGS84 polygons; invalid geometries repaired and overlapping polygons dissolved \\
+Building assignment & Segments $<2.5$~m$^{2}$ removed; nearest-building assignment in EPSG:3857 within 5~m \\
+\bottomrule
+\end{tabular}
+}

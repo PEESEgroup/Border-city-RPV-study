@@ -1,0 +1,13 @@
+panel,record_type,City,Net CAPEX ($),NPV ($),IRR (%),city_order
+a,central_standardized_5kw,Vienna,8800.0,10461.0,15.4,0
+a,central_standardized_5kw,Bratislava,8550.0,4622.0,10.05,1
+a,central_standardized_5kw,Singapore,5400.0,16603.0,29.8,2
+a,central_standardized_5kw,Johor Bahru,4250.0,5833.0,16.85,3
+a,central_standardized_5kw,San Diego,10400.0,10662.0,14.09,4
+a,central_standardized_5kw,Tijuana,7200.0,2496.0,8.33,5
+a,central_standardized_5kw,El Paso,9360.0,-1154.0,3.7,6
+a,central_standardized_5kw,Ciudad Juarez,7200.0,4503.0,10.78,7
+a,central_standardized_5kw,Hong Kong,10000.0,9393.0,13.39,8
+a,central_standardized_5kw,Shenzhen,2550.0,5642.0,23.31,9
+a,central_standardized_5kw,Monaco,10400.0,9088.0,12.86,10
+a,central_standardized_5kw,Nice,8800.0,9375.0,14.42,11

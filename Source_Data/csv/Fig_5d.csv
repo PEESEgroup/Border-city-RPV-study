@@ -1,0 +1,16 @@
+indicator,outcome,matched_pairs,valid_pairs,match_fraction
+Income,All-building PV,3,6,0.5
+Income,Residential PV,5,6,0.8333333333333334
+Income,Non-residential PV,3,6,0.5
+GDP per capita PPP,All-building PV,3,6,0.5
+GDP per capita PPP,Residential PV,5,6,0.8333333333333334
+GDP per capita PPP,Non-residential PV,3,6,0.5
+Standardized IRR,All-building PV,6,6,1.0
+Standardized IRR,Residential PV,4,6,0.6666666666666666
+Standardized IRR,Non-residential PV,6,6,1.0
+Administrative friction,All-building PV,5,5,1.0
+Administrative friction,Residential PV,3,5,0.6
+Administrative friction,Non-residential PV,5,5,1.0
+Revenue friction,All-building PV,3,6,0.5
+Revenue friction,Residential PV,5,6,0.8333333333333334
+Revenue friction,Non-residential PV,3,6,0.5

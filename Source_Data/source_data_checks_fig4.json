@@ -1,0 +1,16 @@
+{
+  "primary_city_count": 12,
+  "primary_pair_count": 6,
+  "eligible_grid_count": 5238,
+  "expected_eligible_grid_count": 5238,
+  "max_quantile_error_percentage_points": 9.880984919163893e-15,
+  "aggregate_vs_median_direction_disagreement_count": 3,
+  "direction_disagreement_pairs": [
+    "El Paso--Juarez",
+    "Hong Kong--Shenzhen",
+    "Monaco--Nice"
+  ],
+  "top_decile_share_min_pct": 20.25504102785887,
+  "top_decile_share_max_pct": 64.46853855602795,
+  "detroit_or_windsor_present": false
+}

@@ -1,0 +1,31 @@
+panel,pair_index,pair_key,city_role,city_key,city,eligible_grid_count,zero_pv_grid_count,p10,p25,median,p75,p90,eligible_cell_count,top_decile_cell_count,top_decile_pv_area_share_pct,zero_pv_eligible_cell_share_pct,top_decile_cutoff_utilization,cutoff_tie_cell_count,cutoff_tie_cells_selected,cutoff_tie_cells_excluded,pair,pair_label,city1_key,city2_key,aggregate_gap_pp,grid_median_gap_pp,same_direction_aggregate_vs_grid_median,leader_direction_differs,aggregate_leader_key,median_grid_leader_key,pairwise_probability_city1_gt_city2
+Fig. 4a,0,Vienna--Bratislava,1.0,vienna,Vienna,349.0,3.0,0.6224427073589661,1.24204762525354,2.17596730741771,3.8724264946231997,6.790024573094806,,,,,,,,,,,,,,,,,,,
+Fig. 4a,0,Vienna--Bratislava,2.0,bratislava,Bratislava,202.0,9.0,0.08017188914214002,0.2577856768614175,0.67838742561105,1.2879516341921975,2.0031214981346204,,,,,,,,,,,,,,,,,,,
+Fig. 4a,1,Singapore--Johor Bahru,1.0,singapore,Singapore,669.0,77.0,0.0,0.72057218642043,2.72539590773986,8.73640850435495,16.48739356508569,,,,,,,,,,,,,,,,,,,
+Fig. 4a,1,Singapore--Johor Bahru,2.0,johorbahru,Johor Bahru,749.0,173.0,0.0,0.009581547072029222,0.16439323333964,0.81041287510141,3.1871534672735433,,,,,,,,,,,,,,,,,,,
+Fig. 4a,2,San Diego--Tijuana,1.0,sandiego,San Diego,708.0,10.0,0.7103168204546101,1.309351502441735,2.2317199952982296,3.806782356125222,5.784861424280437,,,,,,,,,,,,,,,,,,,
+Fig. 4a,2,San Diego--Tijuana,2.0,tijuana,Tijuana,429.0,69.0,0.0,0.02404281792868,0.08722147338882,0.33766526827976,1.2195769440770639,,,,,,,,,,,,,,,,,,,
+Fig. 4a,3,El Paso--Juarez,1.0,elpaso,El Paso,453.0,14.0,0.09765823293043001,0.25214411523397,0.45763418766926994,0.70522915221548,1.015783763486526,,,,,,,,,,,,,,,,,,,
+Fig. 4a,3,El Paso--Juarez,2.0,juarez,Juarez,404.0,32.0,0.01847927604793501,0.0752933494494725,0.20322558393719997,0.849272428110355,2.3505404399177867,,,,,,,,,,,,,,,,,,,
+Fig. 4a,4,Hong Kong--Shenzhen,1.0,hongkong,Hong Kong,722.0,147.0,0.0,0.09412972034103499,0.705643636112125,2.18569053300115,4.965107930675088,,,,,,,,,,,,,,,,,,,
+Fig. 4a,4,Hong Kong--Shenzhen,2.0,shenzhen,Shenzhen,465.0,45.0,0.004183632738831291,0.09682443433551001,0.45497461507004006,1.7875857452845498,4.892579901780131,,,,,,,,,,,,,,,,,,,
+Fig. 4a,5,Monaco--Nice,1.0,monaco,Monaco,5.0,0.0,0.09140549217157799,0.13910341136447998,0.77854399704163,0.97098583451175,1.0488584922983462,,,,,,,,,,,,,,,,,,,
+Fig. 4a,5,Monaco--Nice,2.0,nice,Nice,83.0,3.0,0.07646856441264603,0.19094488664344,0.44962749766192,0.85091497773159,1.7953589571365378,,,,,,,,,,,,,,,,,,,
+Fig. 4b,0,Vienna--Bratislava,1.0,vienna,Vienna,,,,,,,,349.0,35.0,31.179516517973347,0.85959885386819,0.0689530801598368,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,0,Vienna--Bratislava,2.0,bratislava,Bratislava,,,,,,,,202.0,21.0,26.00409646959064,4.45544554455445,0.0200812082511758,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,1,Singapore--Johor Bahru,1.0,singapore,Singapore,,,,,,,,669.0,67.0,37.57498853008351,11.50971599402092,0.1656734527861443,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,1,Singapore--Johor Bahru,2.0,johorbahru,Johor Bahru,,,,,,,,749.0,75.0,63.22380232050335,23.09746328437917,0.0321238340069695,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,2,San Diego--Tijuana,1.0,sandiego,San Diego,,,,,,,,708.0,71.0,20.25504102785887,1.41242937853107,0.0579677964909414,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,2,San Diego--Tijuana,2.0,tijuana,Tijuana,,,,,,,,429.0,43.0,64.46853855602795,16.08391608391608,0.0123647910123868,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,3,El Paso--Juarez,1.0,elpaso,El Paso,,,,,,,,453.0,46.0,24.41116672586709,3.09050772626931,0.0101710493857798,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,3,El Paso--Juarez,2.0,juarez,Juarez,,,,,,,,404.0,41.0,44.07833413696203,7.92079207920792,0.0236204484187766,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,4,Hong Kong--Shenzhen,1.0,hongkong,Hong Kong,,,,,,,,722.0,73.0,39.47745247078587,20.3601108033241,0.0496651481821454,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,4,Hong Kong--Shenzhen,2.0,shenzhen,Shenzhen,,,,,,,,465.0,47.0,59.45440410849464,9.67741935483871,0.0490236130787703,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,5,Monaco--Nice,1.0,monaco,Monaco,,,,,,,,5.0,1.0,62.339964729494866,0.0,0.0110077359748941,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4b,5,Monaco--Nice,2.0,nice,Nice,,,,,,,,83.0,9.0,61.281100941800325,3.6144578313252995,0.0180460223079186,1.0,1.0,0.0,,,,,,,,,,,
+Fig. 4c,0,,,,,,,,,,,,,,,,,,,,Vienna--Bratislava,VIE–BRA,vienna,bratislava,1.9584056451210523,1.49757988180666,True,False,vienna,vienna,0.8248531873244631
+Fig. 4c,1,,,,,,,,,,,,,,,,,,,,Singapore--Johor Bahru,SIN–JB,singapore,johorbahru,5.982750390658391,2.56100267440022,True,False,singapore,singapore,0.7718861820743552
+Fig. 4c,2,,,,,,,,,,,,,,,,,,,,San Diego--Tijuana,SD–TIJ,sandiego,tijuana,1.9656428667347043,2.14449852190941,True,False,sandiego,sandiego,0.9142105540410626
+Fig. 4c,3,,,,,,,,,,,,,,,,,,,,El Paso--Juarez,EP–JUA,elpaso,juarez,-0.2097138841673808,0.2544086037320699,False,True,juarez,elpaso,0.6024522982099534
+Fig. 4c,4,,,,,,,,,,,,,,,,,,,,Hong Kong--Shenzhen,HK–SZ,hongkong,shenzhen,-0.9372307936993372,0.250669021042085,False,True,shenzhen,hongkong,0.5211107139665804
+Fig. 4c,5,,,,,,,,,,,,,,,,,,,,Monaco--Nice,MON–NIC,monaco,nice,-0.0455541878887617,0.32891649937971,False,True,nice,monaco,0.5180722891566265

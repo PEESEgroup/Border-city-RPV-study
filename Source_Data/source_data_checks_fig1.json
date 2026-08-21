@@ -1,0 +1,18 @@
+{
+  "status": "pass",
+  "figure": "Fig. 1",
+  "primary_pairs": 6,
+  "primary_cities": 12,
+  "detroit_windsor_excluded_from_main_figure": true,
+  "totals": {
+    "primary_cities": 12,
+    "primary_pairs": 6,
+    "unique_orthophotos": 326790,
+    "mapped_area_km2": 5812.528531629437,
+    "buildings": 4709656,
+    "building_footprint_area_km2": 784.8896703373625,
+    "mapped_pv_area_km2": 19.2508271900072
+  },
+  "fig1_csv_rows": 109,
+  "image_count_note": "326,790 is the unique source-orthophoto total. The 623 labelled tiles are a subset and are not added again."
+}

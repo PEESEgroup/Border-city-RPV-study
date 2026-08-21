@@ -1,0 +1,35 @@
+{
+  "status": "pass",
+  "primary_city_rows_panel_a": 12,
+  "primary_city_keys": [
+    "vienna",
+    "bratislava",
+    "singapore",
+    "johorbahru",
+    "sandiego",
+    "tijuana",
+    "elpaso",
+    "juarez",
+    "hongkong",
+    "shenzhen",
+    "monaco",
+    "nice"
+  ],
+  "detroit_windsor_excluded": true,
+  "pair_rows_panel_a_summary": 6,
+  "panel_b_detail_rows": 96,
+  "panel_b_expected_rows": 96,
+  "panel_b_factor_summary_rows": 8,
+  "valid_pairs_per_factor_segment": 6,
+  "factor_weights_sum_to_one": true,
+  "ordinal_score_range": [
+    0,
+    3
+  ],
+  "component_sums_match_frozen_indices": true,
+  "locked_style_master": "figures/main/fig_5.pdf",
+  "locked_style_master_sha256": "809c40d31cef0e9d23542526e97effc38d13cb458e6103052a11cf0b9cce4a85",
+  "final_pdf_sha256": "809c40d31cef0e9d23542526e97effc38d13cb458e6103052a11cf0b9cce4a85",
+  "final_pdf_matches_locked_style_master": true,
+  "reconstructed_vector_composite": "figures/supplement/panels/fig_s_policy_reconstructed_composite.pdf"
+}

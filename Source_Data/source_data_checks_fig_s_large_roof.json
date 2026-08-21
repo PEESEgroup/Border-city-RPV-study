@@ -1,0 +1,11 @@
+{
+  "status": "pass",
+  "primary_city_count": 12,
+  "primary_pair_count": 6,
+  "illustrative_benchmark_row_count": 6,
+  "maximum_all_utilization_error_percentage_points": 2.1316282072803006e-14,
+  "maximum_benchmark_formula_error": 0.0,
+  "detroit_windsor_excluded": true,
+  "source_row_count": 18,
+  "current_supplementary_figure": "S5"
+}

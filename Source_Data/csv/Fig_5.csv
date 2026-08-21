@@ -1,0 +1,76 @@
+panel,pair,c1,c2,all_pv_gap_c1_minus_c2_pp,irr_gap_c1_minus_c2_pp,total_friction_advantage_c1,pair_color,pair_short,bubble_size_points2,indicator,indicator_value,indicator_unit_divisor,all_pv_gap_pp,metric,value,unit,outcome,matched_pairs,valid_pairs,match_fraction
+a,Vienna--Bratislava,Vienna,Bratislava,1.958405645121053,5.35,3.0,#6c8a3b,VIE–BRA,257.7723181158153,,,,,,,,,,,
+a,Singapore--Johor Bahru,Singapore,Johor Bahru,5.982750390658387,12.95,11.0,#d29a2e,SIN–JB,695.0,,,,,,,,,,,
+a,San Diego--Tijuana,San Diego,Tijuana,1.9656428667347043,5.76,1.0,#2f7f6f,SD–TIJ,258.5586109981355,,,,,,,,,,,
+a,El Paso--Juarez,El Paso,Juarez,-0.2097138841673816,-7.079999999999999,-3.0,#4f7cac,EP–JUA,67.78450809541413,,,,,,,,,,,
+a,Hong Kong--Shenzhen,Hong Kong,Shenzhen,-0.9372307936993376,-9.919999999999998,3.0,#b07bac,HK–SZ,146.82607933230665,,,,,,,,,,,
+a,Monaco--Nice,Monaco,Nice,-0.0455541878887618,-1.5600000000000005,5.0,#d16d8a,MON–NIC,49.94926583832234,,,,,,,,,,,
+b,Vienna--Bratislava,,,,,,,,,income_gap_c1_minus_c2_usd,22.926,1000.0,1.958405645121053,,,,,,,
+b,Singapore--Johor Bahru,,,,,,,,,income_gap_c1_minus_c2_usd,38.154,1000.0,5.982750390658387,,,,,,,
+b,San Diego--Tijuana,,,,,,,,,income_gap_c1_minus_c2_usd,53.676,1000.0,1.9656428667347043,,,,,,,
+b,El Paso--Juarez,,,,,,,,,income_gap_c1_minus_c2_usd,31.56,1000.0,-0.2097138841673816,,,,,,,
+b,Hong Kong--Shenzhen,,,,,,,,,income_gap_c1_minus_c2_usd,20.424,1000.0,-0.9372307936993376,,,,,,,
+b,Monaco--Nice,,,,,,,,,income_gap_c1_minus_c2_usd,70.629,1000.0,-0.0455541878887618,,,,,,,
+b,Vienna--Bratislava,,,,,,,,,gdp_gap_c1_minus_c2_usd,31.271,1000.0,1.958405645121053,,,,,,,
+b,Singapore--Johor Bahru,,,,,,,,,gdp_gap_c1_minus_c2_usd,111.96,1000.0,5.982750390658387,,,,,,,
+b,San Diego--Tijuana,,,,,,,,,gdp_gap_c1_minus_c2_usd,60.122,1000.0,1.9656428667347043,,,,,,,
+b,El Paso--Juarez,,,,,,,,,gdp_gap_c1_minus_c2_usd,60.122,1000.0,-0.2097138841673816,,,,,,,
+b,Hong Kong--Shenzhen,,,,,,,,,gdp_gap_c1_minus_c2_usd,48.111,1000.0,-0.9372307936993376,,,,,,,
+b,Monaco--Nice,,,,,,,,,gdp_gap_c1_minus_c2_usd,208.778,1000.0,-0.0455541878887618,,,,,,,
+b,Vienna--Bratislava,,,,,,,,,irr_gap_c1_minus_c2_pp,5.35,1.0,1.958405645121053,,,,,,,
+b,Singapore--Johor Bahru,,,,,,,,,irr_gap_c1_minus_c2_pp,12.95,1.0,5.982750390658387,,,,,,,
+b,San Diego--Tijuana,,,,,,,,,irr_gap_c1_minus_c2_pp,5.76,1.0,1.9656428667347043,,,,,,,
+b,El Paso--Juarez,,,,,,,,,irr_gap_c1_minus_c2_pp,-7.079999999999999,1.0,-0.2097138841673816,,,,,,,
+b,Hong Kong--Shenzhen,,,,,,,,,irr_gap_c1_minus_c2_pp,-9.919999999999998,1.0,-0.9372307936993376,,,,,,,
+b,Monaco--Nice,,,,,,,,,irr_gap_c1_minus_c2_pp,-1.5600000000000005,1.0,-0.0455541878887618,,,,,,,
+b,Vienna--Bratislava,,,,,,,,,total_friction_advantage_c1,3.0,1.0,1.958405645121053,,,,,,,
+b,Singapore--Johor Bahru,,,,,,,,,total_friction_advantage_c1,11.0,1.0,5.982750390658387,,,,,,,
+b,San Diego--Tijuana,,,,,,,,,total_friction_advantage_c1,1.0,1.0,1.9656428667347043,,,,,,,
+b,El Paso--Juarez,,,,,,,,,total_friction_advantage_c1,-3.0,1.0,-0.2097138841673816,,,,,,,
+b,Hong Kong--Shenzhen,,,,,,,,,total_friction_advantage_c1,3.0,1.0,-0.9372307936993376,,,,,,,
+b,Monaco--Nice,,,,,,,,,total_friction_advantage_c1,5.0,1.0,-0.0455541878887618,,,,,,,
+c,Vienna--Bratislava,,,,,,,,,,,,,irr_gap_c1_minus_c2_pp,5.35,pp,,,,
+c,Singapore--Johor Bahru,,,,,,,,,,,,,irr_gap_c1_minus_c2_pp,12.95,pp,,,,
+c,San Diego--Tijuana,,,,,,,,,,,,,irr_gap_c1_minus_c2_pp,5.76,pp,,,,
+c,El Paso--Juarez,,,,,,,,,,,,,irr_gap_c1_minus_c2_pp,-7.079999999999999,pp,,,,
+c,Hong Kong--Shenzhen,,,,,,,,,,,,,irr_gap_c1_minus_c2_pp,-9.919999999999998,pp,,,,
+c,Monaco--Nice,,,,,,,,,,,,,irr_gap_c1_minus_c2_pp,-1.5600000000000005,pp,,,,
+c,Vienna--Bratislava,,,,,,,,,,,,,administrative_friction_advantage_c1,1.0,score,,,,
+c,Singapore--Johor Bahru,,,,,,,,,,,,,administrative_friction_advantage_c1,3.0,score,,,,
+c,San Diego--Tijuana,,,,,,,,,,,,,administrative_friction_advantage_c1,4.0,score,,,,
+c,El Paso--Juarez,,,,,,,,,,,,,administrative_friction_advantage_c1,0.0,score,,,,
+c,Hong Kong--Shenzhen,,,,,,,,,,,,,administrative_friction_advantage_c1,-4.0,score,,,,
+c,Monaco--Nice,,,,,,,,,,,,,administrative_friction_advantage_c1,-1.0,score,,,,
+c,Vienna--Bratislava,,,,,,,,,,,,,revenue_friction_advantage_c1,2.0,score,,,,
+c,Singapore--Johor Bahru,,,,,,,,,,,,,revenue_friction_advantage_c1,8.0,score,,,,
+c,San Diego--Tijuana,,,,,,,,,,,,,revenue_friction_advantage_c1,-3.0,score,,,,
+c,El Paso--Juarez,,,,,,,,,,,,,revenue_friction_advantage_c1,-3.0,score,,,,
+c,Hong Kong--Shenzhen,,,,,,,,,,,,,revenue_friction_advantage_c1,7.0,score,,,,
+c,Monaco--Nice,,,,,,,,,,,,,revenue_friction_advantage_c1,6.0,score,,,,
+c,Vienna--Bratislava,,,,,,,,,,,,,residential_pv_gap_c1_minus_c2_pp,1.0792269536554384,pp,,,,
+c,Singapore--Johor Bahru,,,,,,,,,,,,,residential_pv_gap_c1_minus_c2_pp,3.788547766916259,pp,,,,
+c,San Diego--Tijuana,,,,,,,,,,,,,residential_pv_gap_c1_minus_c2_pp,2.432924943521248,pp,,,,
+c,El Paso--Juarez,,,,,,,,,,,,,residential_pv_gap_c1_minus_c2_pp,-0.6248247172822836,pp,,,,
+c,Hong Kong--Shenzhen,,,,,,,,,,,,,residential_pv_gap_c1_minus_c2_pp,0.4184463739471991,pp,,,,
+c,Monaco--Nice,,,,,,,,,,,,,residential_pv_gap_c1_minus_c2_pp,0.7735959541807055,pp,,,,
+c,Vienna--Bratislava,,,,,,,,,,,,,nonresidential_pv_gap_c1_minus_c2_pp,2.9819477040603384,pp,,,,
+c,Singapore--Johor Bahru,,,,,,,,,,,,,nonresidential_pv_gap_c1_minus_c2_pp,6.825740766127954,pp,,,,
+c,San Diego--Tijuana,,,,,,,,,,,,,nonresidential_pv_gap_c1_minus_c2_pp,1.2466608422434875,pp,,,,
+c,El Paso--Juarez,,,,,,,,,,,,,nonresidential_pv_gap_c1_minus_c2_pp,-0.1687570266215272,pp,,,,
+c,Hong Kong--Shenzhen,,,,,,,,,,,,,nonresidential_pv_gap_c1_minus_c2_pp,-1.2104521371733807,pp,,,,
+c,Monaco--Nice,,,,,,,,,,,,,nonresidential_pv_gap_c1_minus_c2_pp,-0.469572117798693,pp,,,,
+d,,,,,,,,,,Income,,,,,,,All-building PV,3.0,6.0,0.5
+d,,,,,,,,,,Income,,,,,,,Residential PV,5.0,6.0,0.8333333333333334
+d,,,,,,,,,,Income,,,,,,,Non-residential PV,3.0,6.0,0.5
+d,,,,,,,,,,GDP per capita PPP,,,,,,,All-building PV,3.0,6.0,0.5
+d,,,,,,,,,,GDP per capita PPP,,,,,,,Residential PV,5.0,6.0,0.8333333333333334
+d,,,,,,,,,,GDP per capita PPP,,,,,,,Non-residential PV,3.0,6.0,0.5
+d,,,,,,,,,,Standardized IRR,,,,,,,All-building PV,6.0,6.0,1.0
+d,,,,,,,,,,Standardized IRR,,,,,,,Residential PV,4.0,6.0,0.6666666666666666
+d,,,,,,,,,,Standardized IRR,,,,,,,Non-residential PV,6.0,6.0,1.0
+d,,,,,,,,,,Administrative friction,,,,,,,All-building PV,5.0,5.0,1.0
+d,,,,,,,,,,Administrative friction,,,,,,,Residential PV,3.0,5.0,0.6
+d,,,,,,,,,,Administrative friction,,,,,,,Non-residential PV,5.0,5.0,1.0
+d,,,,,,,,,,Revenue friction,,,,,,,All-building PV,3.0,6.0,0.5
+d,,,,,,,,,,Revenue friction,,,,,,,Residential PV,5.0,6.0,0.8333333333333334
+d,,,,,,,,,,Revenue friction,,,,,,,Non-residential PV,3.0,6.0,0.5

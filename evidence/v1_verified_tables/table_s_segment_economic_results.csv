@@ -1,0 +1,37 @@
+City,Segment,Electricity Rate ($/kWh),Export Rate ($/kWh),Blended Value of Solar ($/kWh),LCOE ($/kWh),NPV ($),IRR (%),Discounted Payback (Years)
+Vienna,All-building baseline,0.292,0.216,0.269,0.1339,10461.0,15.4,7.64
+Vienna,Residential tariff proxy,0.313,0.216,0.284,0.1339,11609.0,16.44,7.12
+Vienna,Non-residential tariff proxy,0.232,0.216,0.227,0.1339,7214.0,12.41,9.67
+Bratislava,All-building baseline,0.194,0.173,0.188,0.1279,4622.0,10.05,12.12
+Bratislava,Residential tariff proxy,0.209,0.173,0.198,0.1279,5423.0,10.85,11.16
+Bratislava,Non-residential tariff proxy,0.186,0.173,0.182,0.1279,4167.0,9.58,12.74
+Singapore,All-building baseline,0.241,0.219,0.234,0.0641,16603.0,29.8,3.72
+Singapore,Residential tariff proxy,0.232,0.219,0.228,0.0641,15955.0,28.9,3.84
+Singapore,Non-residential tariff proxy,0.212,0.219,0.214,0.0641,14658.0,27.1,4.12
+Johor Bahru,All-building baseline,0.128,0.07,0.111,0.0508,5833.0,16.85,6.93
+Johor Bahru,Residential tariff proxy,0.129,0.07,0.111,0.0508,5888.0,16.95,6.88
+Johor Bahru,Non-residential tariff proxy,0.127,0.07,0.11,0.0508,5785.0,16.76,6.96
+San Diego,All-building baseline,0.282,0.03,0.206,0.1103,10662.0,14.09,8.42
+San Diego,Residential tariff proxy,0.32,0.03,0.233,0.1103,13589.0,16.34,7.17
+San Diego,Non-residential tariff proxy,0.244,0.03,0.18,0.1103,7735.0,11.78,10.22
+Tijuana,All-building baseline,0.088,0.119,0.098,0.0751,2496.0,8.33,14.76
+Tijuana,Residential tariff proxy,0.122,0.119,0.121,0.0751,5113.0,11.49,10.5
+Tijuana,Non-residential tariff proxy,0.055,0.119,0.074,0.0751,-120.0,4.83,No payback
+El Paso,All-building baseline,0.111,0.02,0.084,0.0936,-1154.0,3.7,No payback
+El Paso,Residential tariff proxy,0.149,0.02,0.111,0.0936,2000.0,7.1,17.42
+El Paso,Non-residential tariff proxy,0.073,0.02,0.057,0.0936,-4300.0,-0.46,No payback
+Juarez,All-building baseline,0.105,0.119,0.109,0.0708,4503.0,10.78,11.25
+Juarez,Residential tariff proxy,0.122,0.119,0.121,0.0708,5927.0,12.44,9.64
+Juarez,Non-residential tariff proxy,0.087,0.119,0.097,0.0708,3078.0,9.05,13.53
+Hong Kong,All-building baseline,0.183,0.35,0.233,0.1296,9393.0,13.39,8.9
+Hong Kong,Residential tariff proxy,0.179,0.35,0.231,0.1296,9164.0,13.21,9.03
+Hong Kong,Non-residential tariff proxy,0.191,0.35,0.239,0.1296,9927.0,13.83,8.6
+Shenzhen,All-building baseline,0.106,0.07,0.095,0.0328,5642.0,23.31,4.86
+Shenzhen,Residential tariff proxy,0.097,0.07,0.089,0.0328,5076.0,21.63,5.27
+Shenzhen,Non-residential tariff proxy,0.115,0.07,0.101,0.0328,6207.0,24.99,4.5
+Monaco,All-building baseline,0.228,0.173,0.211,0.1213,9088.0,12.86,9.3
+Monaco,Residential tariff proxy,0.228,0.173,0.211,0.1213,9088.0,12.86,9.3
+Monaco,Non-residential tariff proxy,0.228,0.173,0.211,0.1213,9088.0,12.86,9.3
+Nice,All-building baseline,0.205,0.173,0.196,0.1026,9375.0,14.42,8.22
+Nice,Residential tariff proxy,0.225,0.173,0.209,0.1026,10765.0,15.68,7.5
+Nice,Non-residential tariff proxy,0.186,0.173,0.182,0.1026,7984.0,13.13,9.09

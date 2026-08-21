@@ -1,0 +1,18 @@
+metric,detroit,windsor,pair_interpretation
+imagery_date,2025-05-15,2025-06-06,22-day offset
+orthophoto_tiles,29716,12707,same imagery workflow
+municipal_boundary_area_km2,370.69785,159.05267,OSM municipal relations
+buildings,336389,81876,building-linked analysis
+building_footprint_area_m2,48178639.0637,17466233.3443,utilization denominator
+mapped_linked_pv_area_m2,29081.83996,137539.82741,full linked polygons
+pv_positive_buildings,866,746,5-m building linkage
+pv_positive_building_prevalence_pct,0.257440,0.911134,Windsor higher
+all_building_pv_utilization_pct,0.060363,0.787461,Windsor higher
+residential_pv_utilization_pct,0.029188,0.192886,Windsor higher
+nonresidential_pv_utilization_pct,0.082560,1.765469,Windsor higher
+roof_size_selection_factor,12.192571,7.031301,Detroit higher
+conditional_pv_intensity_pct,1.923074,12.291681,Windsor higher
+eligible_1km_cells_50plus,395,125,grid comparison base
+median_eligible_cell_utilization_pct,0.015695,0.232318,Windsor higher
+top_decile_share_city_pv_area_pct,61.8428,47.9850,Detroit more concentrated
+zero_pv_eligible_cell_share_pct,28.8608,2.4000,Detroit higher

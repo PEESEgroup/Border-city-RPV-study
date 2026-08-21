@@ -1,0 +1,25 @@
+pair,indicator,indicator_value,indicator_unit_divisor,all_pv_gap_pp
+Vienna--Bratislava,income_gap_c1_minus_c2_usd,22.926,1000.0,1.958405645121053
+Singapore--Johor Bahru,income_gap_c1_minus_c2_usd,38.154,1000.0,5.982750390658387
+San Diego--Tijuana,income_gap_c1_minus_c2_usd,53.676,1000.0,1.9656428667347043
+El Paso--Juarez,income_gap_c1_minus_c2_usd,31.56,1000.0,-0.2097138841673816
+Hong Kong--Shenzhen,income_gap_c1_minus_c2_usd,20.424,1000.0,-0.9372307936993376
+Monaco--Nice,income_gap_c1_minus_c2_usd,70.629,1000.0,-0.0455541878887618
+Vienna--Bratislava,gdp_gap_c1_minus_c2_usd,31.271,1000.0,1.958405645121053
+Singapore--Johor Bahru,gdp_gap_c1_minus_c2_usd,111.96,1000.0,5.982750390658387
+San Diego--Tijuana,gdp_gap_c1_minus_c2_usd,60.122,1000.0,1.9656428667347043
+El Paso--Juarez,gdp_gap_c1_minus_c2_usd,60.122,1000.0,-0.2097138841673816
+Hong Kong--Shenzhen,gdp_gap_c1_minus_c2_usd,48.111,1000.0,-0.9372307936993376
+Monaco--Nice,gdp_gap_c1_minus_c2_usd,208.778,1000.0,-0.0455541878887618
+Vienna--Bratislava,irr_gap_c1_minus_c2_pp,5.35,1.0,1.958405645121053
+Singapore--Johor Bahru,irr_gap_c1_minus_c2_pp,12.95,1.0,5.982750390658387
+San Diego--Tijuana,irr_gap_c1_minus_c2_pp,5.76,1.0,1.9656428667347043
+El Paso--Juarez,irr_gap_c1_minus_c2_pp,-7.079999999999999,1.0,-0.2097138841673816
+Hong Kong--Shenzhen,irr_gap_c1_minus_c2_pp,-9.919999999999998,1.0,-0.9372307936993376
+Monaco--Nice,irr_gap_c1_minus_c2_pp,-1.5600000000000005,1.0,-0.0455541878887618
+Vienna--Bratislava,total_friction_advantage_c1,3.0,1.0,1.958405645121053
+Singapore--Johor Bahru,total_friction_advantage_c1,11.0,1.0,5.982750390658387
+San Diego--Tijuana,total_friction_advantage_c1,1.0,1.0,1.9656428667347043
+El Paso--Juarez,total_friction_advantage_c1,-3.0,1.0,-0.2097138841673816
+Hong Kong--Shenzhen,total_friction_advantage_c1,3.0,1.0,-0.9372307936993376
+Monaco--Nice,total_friction_advantage_c1,5.0,1.0,-0.0455541878887618

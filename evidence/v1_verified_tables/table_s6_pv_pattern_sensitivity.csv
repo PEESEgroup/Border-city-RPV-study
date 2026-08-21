@@ -1,0 +1,8 @@
+pair_order,pair,c1,c2,all_pv_gap_c1_minus_c2_pp,residential_pv_gap_c1_minus_c2_pp,nonresidential_pv_gap_c1_minus_c2_pp,income_gap_c1_minus_c2_usd,irr_gap_c1_minus_c2_pp,total_friction_advantage_c1,revenue_friction_advantage_c1,administrative_friction_advantage_c1,sectoral_direction_attribute,income_relation_attribute
+1,Vienna--Bratislava,Vienna,Bratislava,1.958405645121053,1.0792269536554384,2.9819477040603384,22926.0,5.35,3.0,2.0,1.0,same-side leadership,income-aligned
+2,Singapore--Johor Bahru,Singapore,Johor Bahru,5.982750390658387,3.788547766916259,6.825740766127954,38154.0,12.95,11.0,8.0,3.0,same-side leadership,income-aligned
+3,San Diego--Tijuana,San Diego,Tijuana,1.9656428667347043,2.4329249435212477,1.2466608422434875,53676.0,5.76,1.0,-3.0,4.0,same-side leadership,income-aligned
+4,Detroit--Windsor,Detroit,Windsor,-0.7270987771296343,-0.16369738232115041,-1.6829082455504407,-19682.395080000002,-0.3287684553700996,-2.0,-2.0,0.0,same-side leadership,income-aligned
+5,El Paso--Juarez,El Paso,Juarez,-0.20971388416738168,-0.6248247172822836,-0.16875702662152725,31560.0,-7.079999999999999,-3.0,-3.0,0.0,same-side leadership,income reversal
+6,Hong Kong--Shenzhen,Hong Kong,Shenzhen,-0.9372307936993376,0.4184463739471991,-1.2104521371733807,20424.0,-9.919999999999998,3.0,7.0,-4.0,segmental divergence,income reversal
+7,Monaco--Nice,Monaco,Nice,-0.045554187888761866,0.7735959541807055,-0.469572117798693,70629.0,-1.5600000000000005,5.0,6.0,-1.0,segmental divergence,income reversal

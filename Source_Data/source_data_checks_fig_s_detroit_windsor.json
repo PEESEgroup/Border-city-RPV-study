@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "candidate_pair_only": true,
+  "eligible_grid_cells_detroit": 395,
+  "eligible_grid_cells_windsor": 125,
+  "maximum_eligible_cell_count_error": 0,
+  "maximum_zero_pv_share_error_percentage_points": 3.552713678800501e-15,
+  "roof_size_rows": 12,
+  "irr_scenario_rows": 6,
+  "central_grant_realized_irr_detroit_pct": 2.677420752186806,
+  "central_grant_realized_irr_windsor_pct": 3.006189207556905,
+  "central_scenario_alignment_with_windsor_pv_lead": true,
+  "windsor_no_grant_reverses_order_relative_to_detroit_credit": true,
+  "combined_source_rows": 538,
+  "current_supplementary_figure": "S6"
+}

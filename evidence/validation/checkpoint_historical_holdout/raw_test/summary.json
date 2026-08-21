@@ -1,0 +1,72 @@
+{
+  "created_at_utc": "2026-08-16T18:45:08.088115+00:00",
+  "checkpoint": "external/checkpoints/cities_12__best_student_dice.pth",
+  "checkpoint_bytes": 338887653,
+  "dataset_root": "external/annotation_dataset",
+  "index_csv": "evidence/validation/checkpoint_historical_holdout/historical_training_split_568.csv",
+  "samples": 171,
+  "split": "test",
+  "image_sizes": {
+    "512x512": 171
+  },
+  "mask_sizes": {
+    "512x512": 171
+  },
+  "image_mask_size_pairs": {
+    "512x512->512x512": 171
+  },
+  "threshold": 0.5,
+  "evaluation_resolution": "native_annotation_resolution",
+  "normalization": {
+    "mean": [
+      0.48500001430511475,
+      0.4560000002384186,
+      0.4059999883174896
+    ],
+    "std": [
+      0.2290000021457672,
+      0.2240000069141388,
+      0.22499999403953552
+    ]
+  },
+  "device": "cuda:0",
+  "device_name": "NVIDIA GeForce RTX 3080",
+  "amp": true,
+  "batch_size": 4,
+  "num_workers": 4,
+  "parameters": 84594113,
+  "inference_seconds": 3.2343801769893616,
+  "wall_seconds": 3.5405114510213025,
+  "inference_images_per_second": 52.86948059370401,
+  "end_to_end_images_per_second": 48.29810674688625,
+  "peak_cuda_memory_bytes": 2686403072,
+  "software": {
+    "python": "3.10.18",
+    "torch": "2.7.1+cu118",
+    "transformers": "4.57.1",
+    "numpy": "2.2.6",
+    "pillow": "12.1.1"
+  },
+  "overall_metrics": {
+    "samples": 171,
+    "positive_samples": 58,
+    "negative_samples": 113,
+    "pixel_dice": 0.8732094832723764,
+    "pixel_iou": 0.7749528153718525,
+    "pixel_precision": 0.8509448424279945,
+    "pixel_recall": 0.89667051865106,
+    "pixel_specificity": 0.9988639180498461,
+    "pixel_accuracy": 0.9981300398620249,
+    "mean_image_dice": 0.8843677889663404,
+    "mean_image_iou": 0.8512612071365545,
+    "tile_precision": 0.9016393442622951,
+    "tile_recall": 0.9482758620689655,
+    "tile_f1": 0.9243697478991597,
+    "tile_specificity": 0.9469026548672567,
+    "tile_accuracy": 0.9473684210526315
+  },
+  "outputs": {
+    "metrics_csv": "evidence/validation/checkpoint_historical_holdout/raw_test/metrics.csv",
+    "per_sample_csv": "evidence/validation/checkpoint_historical_holdout/raw_test/per_sample.csv"
+  }
+}

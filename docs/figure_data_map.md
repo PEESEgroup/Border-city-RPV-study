@@ -1,0 +1,19 @@
+# Figure and table data map
+
+| Item | Status | Machine-readable files | Content |
+|---|---|---|---|
+| Fig_1 | final_lock | Fig_1.csv | Displayed study totals, 12-city mapping summaries, panel-c metric definitions and six-pair overlapping attributes |
+| Fig_2 | final_lock | Fig_2.csv, Fig_2a.csv, Fig_2b.csv | Six-pair all-building, residential and non-residential utilization dumbbells plus explicit sector leaders and overlapping sector/income attributes |
+| Fig_3 | final_lock | Fig_3.csv, Fig_3a.csv, Fig_3b.csv, Fig_3c.csv, Fig_3d.csv | Twelve-city prevalence, roof selection and conditional intensity; roof-size profiles; exact six-pair utilization-gap decomposition; building-use PV-positive-building prevalence gaps |
+| Fig_4 | final_lock | Fig_4.csv, Fig_4a.csv, Fig_4b.csv, Fig_4c.csv | Twelve-city eligible 1-km grid utilization distributions; top-decile PV-area and zero-PV eligible-grid shares; six-pair aggregate versus median-grid gap comparison |
+| Fig_5 | final_lock | Fig_5.csv, Fig_5a.csv, Fig_5b.csv, Fig_5c.csv, Fig_5d.csv | Six-pair return-friction diagnostic map; four contextual gap scatters; signed IRR, policy-friction and sector-gap bars; matched-over-valid directional agreement counts |
+| Fig_6 | final_lock | Fig_6.csv, Fig_6_uncertainty_summary.csv, Fig_6a.csv, Fig_6b.csv, Fig_6c.csv | Twelve-city standardized 5-kW net CAPEX, NPV and IRR; six-pair 25-year discounted-cash-flow profiles with propagated uncertainty summaries; all-building value, LCOE and rate diagnostics |
+| Fig_S_policy | final_lock | Fig_S_policy.csv, Fig_S_policy_a.csv, Fig_S_policy_a_pair_summary.csv, Fig_S_policy_b.csv, Fig_S_policy_b_factor_summary.csv | Twelve-city documented-policy component scores and six-pair factor-by-segment directional alignment |
+| Table_S_boundaries | final_lock | Table_S_boundaries.csv | Fourteen-city boundary definitions, containment audit, source records and contextual-jurisdiction caveats |
+| Table_S_solar_resource | final_lock | Table_S_solar_resource_14cities.csv, Table_S_solar_resource_pair_matching.csv | Fourteen-city PVGIS-ERA5 solar-resource audit and seven-pair resource-proximity screen |
+| Fig_S_grid_atlas | final_lock | Fig_S_grid_atlas.csv | Twelve-primary-city eligible-grid rooftop PV-utilization atlas with zero-PV cells, one common bin rule and exact plotted-square geometries |
+| Fig_S_grid_sensitivity | final_lock | Fig_S_grid_sensitivity_city.csv, Fig_S_grid_sensitivity_pair.csv, Fig_S_grid_sensitivity_scenarios.csv | Ten spatial specifications covering resolution, origin, eligibility and boundary-cell rules; 120 city summaries, 60 pair comparisons and 10 scenario definitions |
+| Fig_S_large_roof | final_lock | Fig_S_large_roof.csv, Fig_S_large_roof_original_metrics.csv | Twelve observed primary-city large-roof records and six illustrative within-pair observed-benchmark sensitivities |
+| Fig_S_detroit_windsor | final_lock | Fig_S_detroit_windsor.csv, Fig_S_detroit_windsor_a.csv, Fig_S_detroit_windsor_b.csv, Fig_S_detroit_windsor_c.csv | Candidate-pair eligible-grid maps, roof-size utilization and three standardized IRR scenario comparisons |
+| Table_S_evidence_boundaries | final_lock | Table_S_evidence_boundaries.csv | Non-prescriptive evidence boundaries for observed deployment quantities and contextual diagnostics |
+| Fig_S_economic_uncertainty | final_lock | Fig_S_economic_uncertainty.csv | Twelve-city propagated net-CAPEX, NPV, IRR, blended-value and LCOE scenario summaries |

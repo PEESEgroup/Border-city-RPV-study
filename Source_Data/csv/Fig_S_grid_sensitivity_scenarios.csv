@@ -1,0 +1,11 @@
+scenario_id,family,display_label,grid_size_m,origin_x_m,origin_y_m,minimum_buildings,boundary_rule,plot_order
+base_1km_50_all,Base,"1 km, >=50, all boundary cells",1000,0,0,50,all assigned boundary cells,0
+resolution_500m_13,Resolution,"0.5 km, >=13",500,0,0,13,all assigned boundary cells,1
+resolution_2000m_200,Resolution,"2 km, >=200",2000,0,0,200,all assigned boundary cells,2
+origin_x500,Origin shift,x +0.5 km,1000,500,0,50,all assigned boundary cells,3
+origin_y500,Origin shift,y +0.5 km,1000,0,500,50,all assigned boundary cells,4
+origin_xy500,Origin shift,"x,y +0.5 km",1000,500,500,50,all assigned boundary cells,5
+eligibility_25,Eligibility,>=25 buildings,1000,0,0,25,all assigned boundary cells,6
+eligibility_100,Eligibility,>=100 buildings,1000,0,0,100,all assigned boundary cells,7
+boundary_center_inside,Boundary cells,cell center inside,1000,0,0,50,cell center inside audited boundary,8
+boundary_half_area_inside,Boundary cells,>=50% cell area inside,1000,0,0,50,at least 50% cell area inside audited boundary,9

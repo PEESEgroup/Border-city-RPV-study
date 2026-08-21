@@ -1,0 +1,3 @@
+Pair,IRR gap SC=0.4,IRR gap SC=0.7,IRR gap SC=0.9,IRR sign stable,NPV leader stable across discount/size,NPV leader range,Direct export scenario,Lagging baseline export rate,Harmonized export rate,Lagging baseline IRR,Lagging IRR after export harmonization,Leading baseline IRR,Remaining IRR gap after export harmonization
+Singapore--Johor Bahru,15.25,12.96,11.48,Y,Y,C1,Johor Bahru export = Singapore export,0.070,0.219,16.84,24.70,29.80,5.10
+El Paso--Juarez,-11.95,-7.11,-4.35,Y,Y,C2,El Paso export = Juarez export,0.020,0.119,3.69,7.43,10.80,3.36
