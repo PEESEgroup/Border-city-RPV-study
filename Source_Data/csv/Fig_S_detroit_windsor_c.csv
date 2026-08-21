@@ -1,0 +1,11 @@
+scenario_id,scenario_label,scenario_order,city_key,City,irr_pct,panel
+central_support_realized,"Both supports realized
+(central)",0,detroit,Detroit,2.677420752186806,c
+central_support_realized,"Both supports realized
+(central)",0,windsor,Windsor,3.006189207556905,c
+neither_capital_support,No capital support,1,detroit,Detroit,-0.3120908338572474,c
+neither_capital_support,No capital support,1,windsor,Windsor,0.1507221609088819,c
+detroit_credit_windsor_no_grant,"Detroit credit;
+Windsor no grant",2,detroit,Detroit,2.677420752186806,c
+detroit_credit_windsor_no_grant,"Detroit credit;
+Windsor no grant",2,windsor,Windsor,0.1507221609088819,c

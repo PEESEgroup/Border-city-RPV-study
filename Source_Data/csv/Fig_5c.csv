@@ -1,0 +1,31 @@
+pair,metric,value,unit
+Vienna--Bratislava,irr_gap_c1_minus_c2_pp,5.35,pp
+Singapore--Johor Bahru,irr_gap_c1_minus_c2_pp,12.95,pp
+San Diego--Tijuana,irr_gap_c1_minus_c2_pp,5.76,pp
+El Paso--Juarez,irr_gap_c1_minus_c2_pp,-7.079999999999999,pp
+Hong Kong--Shenzhen,irr_gap_c1_minus_c2_pp,-9.919999999999998,pp
+Monaco--Nice,irr_gap_c1_minus_c2_pp,-1.5600000000000005,pp
+Vienna--Bratislava,administrative_friction_advantage_c1,1.0,score
+Singapore--Johor Bahru,administrative_friction_advantage_c1,3.0,score
+San Diego--Tijuana,administrative_friction_advantage_c1,4.0,score
+El Paso--Juarez,administrative_friction_advantage_c1,0.0,score
+Hong Kong--Shenzhen,administrative_friction_advantage_c1,-4.0,score
+Monaco--Nice,administrative_friction_advantage_c1,-1.0,score
+Vienna--Bratislava,revenue_friction_advantage_c1,2.0,score
+Singapore--Johor Bahru,revenue_friction_advantage_c1,8.0,score
+San Diego--Tijuana,revenue_friction_advantage_c1,-3.0,score
+El Paso--Juarez,revenue_friction_advantage_c1,-3.0,score
+Hong Kong--Shenzhen,revenue_friction_advantage_c1,7.0,score
+Monaco--Nice,revenue_friction_advantage_c1,6.0,score
+Vienna--Bratislava,residential_pv_gap_c1_minus_c2_pp,1.0792269536554384,pp
+Singapore--Johor Bahru,residential_pv_gap_c1_minus_c2_pp,3.788547766916259,pp
+San Diego--Tijuana,residential_pv_gap_c1_minus_c2_pp,2.432924943521248,pp
+El Paso--Juarez,residential_pv_gap_c1_minus_c2_pp,-0.6248247172822836,pp
+Hong Kong--Shenzhen,residential_pv_gap_c1_minus_c2_pp,0.4184463739471991,pp
+Monaco--Nice,residential_pv_gap_c1_minus_c2_pp,0.7735959541807055,pp
+Vienna--Bratislava,nonresidential_pv_gap_c1_minus_c2_pp,2.9819477040603384,pp
+Singapore--Johor Bahru,nonresidential_pv_gap_c1_minus_c2_pp,6.825740766127954,pp
+San Diego--Tijuana,nonresidential_pv_gap_c1_minus_c2_pp,1.2466608422434875,pp
+El Paso--Juarez,nonresidential_pv_gap_c1_minus_c2_pp,-0.1687570266215272,pp
+Hong Kong--Shenzhen,nonresidential_pv_gap_c1_minus_c2_pp,-1.2104521371733807,pp
+Monaco--Nice,nonresidential_pv_gap_c1_minus_c2_pp,-0.469572117798693,pp

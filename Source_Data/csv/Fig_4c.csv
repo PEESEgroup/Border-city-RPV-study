@@ -1,0 +1,7 @@
+pair_index,pair,pair_label,city1_key,city2_key,aggregate_gap_pp,grid_median_gap_pp,same_direction_aggregate_vs_grid_median,leader_direction_differs,aggregate_leader_key,median_grid_leader_key,pairwise_probability_city1_gt_city2
+0,Vienna--Bratislava,VIE–BRA,vienna,bratislava,1.9584056451210523,1.49757988180666,True,False,vienna,vienna,0.8248531873244631
+1,Singapore--Johor Bahru,SIN–JB,singapore,johorbahru,5.982750390658391,2.56100267440022,True,False,singapore,singapore,0.7718861820743552
+2,San Diego--Tijuana,SD–TIJ,sandiego,tijuana,1.9656428667347043,2.14449852190941,True,False,sandiego,sandiego,0.9142105540410626
+3,El Paso--Juarez,EP–JUA,elpaso,juarez,-0.2097138841673808,0.2544086037320699,False,True,juarez,elpaso,0.6024522982099534
+4,Hong Kong--Shenzhen,HK–SZ,hongkong,shenzhen,-0.9372307936993372,0.250669021042085,False,True,shenzhen,hongkong,0.5211107139665804
+5,Monaco--Nice,MON–NIC,monaco,nice,-0.0455541878887617,0.32891649937971,False,True,nice,monaco,0.5180722891566265

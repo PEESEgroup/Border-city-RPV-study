@@ -1,0 +1,743 @@
+file,column,inferred_type,unit_or_scale,non_empty_values,example,definition_source
+csv/Fig_1.csv,panel,text,see figure note or column label,109,a,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,record_type,text,see figure note or column label,109,displayed_summary,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,pair_order,numeric,see figure note or column label,96,1,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,pair,text,see figure note or column label,96,Vienna--Bratislava,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,city,text,see figure note or column label,96,Vienna,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,city_role,text,see figure note or column label,96,city_1,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,metric,text,see figure note or column label,109,primary_cities,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,value,numeric,see figure note or column label,91,12,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,unit,text,see figure note or column label,91,cities,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,attribute_value,text,see figure note or column label,12,same-side leadership,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,definition,text,see figure note or column label,18,Mapped PV area divided by total building-footprint area.,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,source_file,text,see figure note or column label,109,main_figure_pair_manifest_6pairs,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_1.csv,notes,text,see figure note or column label,86,Labelled validation tiles are a subset and are not added to the source-image total.,figure_notes/Fig_1_notes.md or associated figure caption
+csv/Fig_2.csv,panel,text,see figure note or column label,42,a,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,record_type,text,see figure note or column label,42,city_segment_utilization,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,city_key,text,see figure note or column label,36,vienna,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,City,text,see figure note or column label,36,Vienna,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,Segment,text,see figure note or column label,36,All buildings,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,PV utilization (%),numeric,see figure note or column label,36,2.767616492403235,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,PV area (m2),numeric,see figure note or column label,36,1666256.7744951348,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,Building footprint area (m2),numeric,see figure note or column label,36,60205479.302092746,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,Buildings,numeric,count,36,261797.0,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,PV-positive buildings,numeric,count,36,16620.0,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,PV prevalence (%),numeric,see figure note or column label,36,6.3484302723102255,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,pair_order,numeric,see figure note or column label,42,1,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,city_role,text,see figure note or column label,36,city_1,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,pair,text,see figure note or column label,42,Vienna--Bratislava,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,segment_order,numeric,see figure note or column label,36,0.0,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,city_1,text,see figure note or column label,6,Vienna,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,city_2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,all_building_leader,text,see figure note or column label,6,Vienna,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,all_building_leader_role,text,see figure note or column label,6,city_1,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,all_buildings_city_1_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,2.767616492403235,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,all_buildings_city_2_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.809210847282182,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,residential_leader,text,see figure note or column label,6,Vienna,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,residential_leader_role,text,see figure note or column label,6,city_1,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,residential_city_1_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,1.7333139909397517,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,residential_city_2_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.6540870372843133,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,nonresidential_leader,text,see figure note or column label,6,Vienna,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,nonresidential_leader_role,text,see figure note or column label,6,city_1,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,nonresidential_city_1_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,3.892775732010443,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,nonresidential_city_2_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.9108280279501044,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,sector_leadership,text,see figure note or column label,6,same-side,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2.csv,income_ordering,text,see figure note or column label,6,aligned,figure_notes/Fig_2_notes.md or associated figure caption
+csv/Fig_2a.csv,pair_order,numeric,see figure note or column label,36,1,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,pair,text,see figure note or column label,36,Vienna--Bratislava,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,city_role,text,see figure note or column label,36,city_1,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,city_key,text,see figure note or column label,36,vienna,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,City,text,see figure note or column label,36,Vienna,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,Segment,text,see figure note or column label,36,All buildings,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,PV utilization (%),numeric,see figure note or column label,36,2.767616492403235,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,PV area (m2),numeric,see figure note or column label,36,1666256.7744951348,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,Building footprint area (m2),numeric,see figure note or column label,36,60205479.302092746,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,Buildings,numeric,count,36,261797,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2a.csv,PV-positive buildings,numeric,count,36,16620,figure_notes/Fig_2a_notes.md or associated figure caption
+csv/Fig_2b.csv,pair_order,numeric,see figure note or column label,6,1,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,pair,text,see figure note or column label,6,Vienna--Bratislava,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,city_1,text,see figure note or column label,6,Vienna,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,city_2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,all_building_leader,text,see figure note or column label,6,Vienna,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,all_building_leader_role,text,see figure note or column label,6,city_1,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,all_buildings_city_1_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,2.767616492403235,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,all_buildings_city_2_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.809210847282182,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,residential_leader,text,see figure note or column label,6,Vienna,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,residential_leader_role,text,see figure note or column label,6,city_1,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,residential_city_1_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,1.7333139909397517,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,residential_city_2_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.6540870372843133,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,nonresidential_leader,text,see figure note or column label,6,Vienna,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,nonresidential_leader_role,text,see figure note or column label,6,city_1,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,nonresidential_city_1_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,3.892775732010443,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,nonresidential_city_2_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.9108280279501044,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,sector_leadership,text,see figure note or column label,6,same-side,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_2b.csv,income_ordering,text,see figure note or column label,6,aligned,figure_notes/Fig_2b_notes.md or associated figure caption
+csv/Fig_3.csv,panel,text,see figure note or column label,126,a,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,record_type,text,see figure note or column label,126,city_anatomy,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_key,text,see figure note or column label,12,vienna,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,City,text,see figure note or column label,12,Vienna,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,building_count,numeric,count,84,261797.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_positive_buildings,numeric,count,12,16620.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,footprint_area_m2,numeric,m2 unless explicitly labelled otherwise,12,60205479.30209275,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_positive_footprint_m2,numeric,m2 unless explicitly labelled otherwise,12,11088690.09383351,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,84,1666256.7744951348,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,mean_footprint_all_m2,numeric,m2 unless explicitly labelled otherwise,12,229.97008866447192,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,mean_footprint_pv_positive_m2,numeric,m2 unless explicitly labelled otherwise,12,667.1895363317393,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,mean_pv_area_per_positive_building_m2,numeric,m2 unless explicitly labelled otherwise,12,100.2561236158324,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,building_area_scale_to_central,numeric,see figure note or column label,12,0.9999999977991212,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_area_scale_to_central,numeric,see figure note or column label,12,0.9999999888393932,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,prevalence,numeric,see figure note or column label,12,0.0634843027231022,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,roof_size_selection,numeric,see figure note or column label,12,2.901201370171118,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,conditional_intensity,numeric,see figure note or column label,12,0.1502663308646122,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_utilization,numeric,see figure note or column label,12,0.0276761649240323,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,factor_product,numeric,see figure note or column label,12,0.0276761649240323,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,factor_identity_error,numeric,see figure note or column label,12,-6.938893903907228e-18,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,84,2.7676164924032345,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,prevalence_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,6.3484302723102255,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,conditional_intensity_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,15.026633086461228,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,factor_identity_error_pp,numeric,see figure note or column label,12,-6.938893903907228e-16,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_order,numeric,see figure note or column label,84,1.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pair_order,numeric,see figure note or column label,126,1,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_role,text,see figure note or column label,84,city_1,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,plot_color,text,see figure note or column label,12,#c97c5d,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,prevalence_pct_bar_fraction,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.3918784118710016,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,roof_size_selection_bar_fraction,numeric,see figure note or column label,12,0.2266563570446186,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,conditional_intensity_pct_bar_fraction,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.46235794112188394,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city,text,see figure note or column label,72,vienna,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,roof_size_bin,text,see figure note or column label,72,0-50,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,bin_left_m2,numeric,m2 unless explicitly labelled otherwise,72,0.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,bin_right_m2,text,m2 unless explicitly labelled otherwise,72,50.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_building_count,numeric,count,72,814.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_adoption,numeric,see figure note or column label,72,0.0086474312667318,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,building_area_m2,numeric,m2 unless explicitly labelled otherwise,72,1812902.468198748,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_area_ratio,numeric,see definition; percentages and fractions are distinguished in the source field,72,0.008372186969875,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,roof_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,72,3.011191820435749,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,low_building_count_bin,text,count,72,False,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pair,text,see figure note or column label,42,Vienna--Bratislava,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,c1,text,see figure note or column label,6,Vienna,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,c2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,pv_utilization_gap_pp,numeric,see figure note or column label,6,1.958405645121053,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,prevalence_contribution_pp,numeric,see figure note or column label,6,1.3889590114435415,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,roof_size_selection_contribution_pp,numeric,see figure note or column label,6,-0.1663446072546116,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,conditional_intensity_contribution_pp,numeric,see figure note or column label,6,0.7357912409321221,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,decomposition_sum_pp,numeric,see figure note or column label,6,1.9584056451210523,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,decomposition_error_pp,numeric,see figure note or column label,6,-6.938893903907228e-16,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,prevalence_absolute_share,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.6062424720675618,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,roof_size_selection_absolute_share,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.0726048537691082,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,conditional_intensity_absolute_share,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.32115267416333,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,display_pair,text,see figure note or column label,42,VIE - BRA,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,recalculated_gap_pp,numeric,see figure note or column label,6,1.958405645121052,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,recalculated_error_pp,numeric,see figure note or column label,6,-8.881784197001252e-16,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_1,text,see figure note or column label,36,vienna,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_2,text,see figure note or column label,36,bratislava,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,class_order,numeric,see figure note or column label,36,1.0,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,building_class_key,text,see figure note or column label,36,single-residential,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,building_class,text,see figure note or column label,36,Single-res,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_1_prevalence_pct,numeric,see definition; percentages and fractions are distinguished in the source field,36,6.85107989841476,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,city_2_prevalence_pct,numeric,see definition; percentages and fractions are distinguished in the source field,36,3.41231006953386,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,prevalence_gap_pp,numeric,see figure note or column label,36,3.4387698288808997,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,low_count_flag,text,count,36,False,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,label_completeness_flag,text,see figure note or column label,36,False,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3.csv,reliability_hatch,text,see figure note or column label,36,False,figure_notes/Fig_3_notes.md or associated figure caption
+csv/Fig_3a.csv,city_key,text,see figure note or column label,12,vienna,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,City,text,see figure note or column label,12,Vienna,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,building_count,numeric,count,12,261797,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pv_positive_buildings,numeric,count,12,16620,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,footprint_area_m2,numeric,m2 unless explicitly labelled otherwise,12,60205479.30209275,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pv_positive_footprint_m2,numeric,m2 unless explicitly labelled otherwise,12,11088690.09383351,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,12,1666256.7744951348,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,mean_footprint_all_m2,numeric,m2 unless explicitly labelled otherwise,12,229.97008866447192,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,mean_footprint_pv_positive_m2,numeric,m2 unless explicitly labelled otherwise,12,667.1895363317393,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,mean_pv_area_per_positive_building_m2,numeric,m2 unless explicitly labelled otherwise,12,100.2561236158324,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,building_area_scale_to_central,numeric,see figure note or column label,12,0.9999999977991212,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pv_area_scale_to_central,numeric,see figure note or column label,12,0.9999999888393932,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,prevalence,numeric,see figure note or column label,12,0.0634843027231022,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,roof_size_selection,numeric,see figure note or column label,12,2.901201370171118,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,conditional_intensity,numeric,see figure note or column label,12,0.1502663308646122,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pv_utilization,numeric,see figure note or column label,12,0.0276761649240323,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,factor_product,numeric,see figure note or column label,12,0.0276761649240323,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,factor_identity_error,numeric,see figure note or column label,12,-6.938893903907228e-18,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,2.7676164924032345,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,prevalence_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,6.3484302723102255,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,conditional_intensity_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,15.026633086461228,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,factor_identity_error_pp,numeric,see figure note or column label,12,-6.938893903907228e-16,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,city_order,numeric,see figure note or column label,12,1,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,pair_order,numeric,see figure note or column label,12,1,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,city_role,text,see figure note or column label,12,city_1,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,plot_color,text,see figure note or column label,12,#c97c5d,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,prevalence_pct_bar_fraction,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.3918784118710016,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,roof_size_selection_bar_fraction,numeric,see figure note or column label,12,0.2266563570446186,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3a.csv,conditional_intensity_pct_bar_fraction,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.46235794112188394,figure_notes/Fig_3a_notes.md or associated figure caption
+csv/Fig_3b.csv,city,text,see figure note or column label,72,vienna,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,roof_size_bin,text,see figure note or column label,72,0-50,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,bin_left_m2,numeric,m2 unless explicitly labelled otherwise,72,0.0,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,bin_right_m2,text,m2 unless explicitly labelled otherwise,72,50.0,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,building_count,numeric,count,72,94132,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,pv_building_count,numeric,count,72,814,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,pv_adoption,numeric,see figure note or column label,72,0.0086474312667318,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,building_area_m2,numeric,m2 unless explicitly labelled otherwise,72,1812902.468198748,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,72,15177.958421907852,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,pv_area_ratio,numeric,see definition; percentages and fractions are distinguished in the source field,72,0.008372186969875,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,pair_order,numeric,see figure note or column label,72,1,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,city_role,text,see figure note or column label,72,city_1,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,city_order,numeric,see figure note or column label,72,1,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,roof_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,72,3.011191820435749,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,72,0.8372186969875,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3b.csv,low_building_count_bin,text,count,72,False,figure_notes/Fig_3b_notes.md or associated figure caption
+csv/Fig_3c.csv,pair,text,see figure note or column label,6,Vienna--Bratislava,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,c1,text,see figure note or column label,6,Vienna,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,c2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,pv_utilization_gap_pp,numeric,see figure note or column label,6,1.958405645121053,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,prevalence_contribution_pp,numeric,see figure note or column label,6,1.3889590114435415,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,roof_size_selection_contribution_pp,numeric,see figure note or column label,6,-0.1663446072546116,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,conditional_intensity_contribution_pp,numeric,see figure note or column label,6,0.7357912409321221,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,decomposition_sum_pp,numeric,see figure note or column label,6,1.9584056451210523,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,decomposition_error_pp,numeric,see figure note or column label,6,-6.938893903907228e-16,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,prevalence_absolute_share,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.6062424720675618,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,roof_size_selection_absolute_share,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.0726048537691082,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,conditional_intensity_absolute_share,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.32115267416333,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,pair_order,numeric,see figure note or column label,6,1,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,display_pair,text,see figure note or column label,6,VIE - BRA,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,recalculated_gap_pp,numeric,see figure note or column label,6,1.958405645121052,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3c.csv,recalculated_error_pp,numeric,see figure note or column label,6,-8.881784197001252e-16,figure_notes/Fig_3c_notes.md or associated figure caption
+csv/Fig_3d.csv,pair_order,numeric,see figure note or column label,36,1,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,pair,text,see figure note or column label,36,Vienna--Bratislava,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,display_pair,text,see figure note or column label,36,VIE - BRA,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,city_1,text,see figure note or column label,36,vienna,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,city_2,text,see figure note or column label,36,bratislava,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,class_order,numeric,see figure note or column label,36,1,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,building_class_key,text,see figure note or column label,36,single-residential,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,building_class,text,see figure note or column label,36,Single-res,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,city_1_prevalence_pct,numeric,see definition; percentages and fractions are distinguished in the source field,36,6.85107989841476,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,city_2_prevalence_pct,numeric,see definition; percentages and fractions are distinguished in the source field,36,3.41231006953386,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,prevalence_gap_pp,numeric,see figure note or column label,36,3.4387698288808997,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,low_count_flag,text,count,36,False,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,label_completeness_flag,text,see figure note or column label,36,False,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_3d.csv,reliability_hatch,text,see figure note or column label,36,False,figure_notes/Fig_3d_notes.md or associated figure caption
+csv/Fig_4.csv,panel,text,see figure note or column label,30,Fig. 4a,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,pair_index,numeric,see figure note or column label,30,0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,pair_key,text,see figure note or column label,24,Vienna--Bratislava,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,city_role,numeric,see figure note or column label,24,1.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,city_key,text,see figure note or column label,24,vienna,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,city,text,see figure note or column label,24,Vienna,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,eligible_grid_count,numeric,count,12,349.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,zero_pv_grid_count,numeric,count,12,3.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,p10,numeric,see figure note or column label,12,0.6224427073589661,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,p25,numeric,see figure note or column label,12,1.24204762525354,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,median,numeric,see figure note or column label,12,2.17596730741771,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,p75,numeric,see figure note or column label,12,3.8724264946231997,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,p90,numeric,see figure note or column label,12,6.790024573094806,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,eligible_cell_count,numeric,count,12,349.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,top_decile_cell_count,numeric,count,12,35.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,top_decile_pv_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,31.179516517973347,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,zero_pv_eligible_cell_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.85959885386819,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,top_decile_cutoff_utilization,numeric,see figure note or column label,12,0.0689530801598368,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,cutoff_tie_cell_count,numeric,count,12,1.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,cutoff_tie_cells_selected,numeric,count,12,1.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,cutoff_tie_cells_excluded,numeric,count,12,0.0,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,pair,text,see figure note or column label,6,Vienna--Bratislava,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,pair_label,text,see figure note or column label,6,VIE–BRA,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,city1_key,text,see figure note or column label,6,vienna,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,city2_key,text,see figure note or column label,6,bratislava,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,aggregate_gap_pp,numeric,see figure note or column label,6,1.9584056451210523,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,grid_median_gap_pp,numeric,see figure note or column label,6,1.49757988180666,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,same_direction_aggregate_vs_grid_median,text,see figure note or column label,6,True,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,leader_direction_differs,text,see figure note or column label,6,False,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,aggregate_leader_key,text,see figure note or column label,6,vienna,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,median_grid_leader_key,text,see figure note or column label,6,vienna,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4.csv,pairwise_probability_city1_gt_city2,numeric,see figure note or column label,6,0.8248531873244631,figure_notes/Fig_4_notes.md or associated figure caption
+csv/Fig_4a.csv,pair_index,numeric,see figure note or column label,12,0,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,pair_key,text,see figure note or column label,12,Vienna--Bratislava,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,city_role,numeric,see figure note or column label,12,1,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,city_key,text,see figure note or column label,12,vienna,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,city,text,see figure note or column label,12,Vienna,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,eligible_grid_count,numeric,count,12,349,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,zero_pv_grid_count,numeric,count,12,3,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,p10,numeric,see figure note or column label,12,0.6224427073589661,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,p25,numeric,see figure note or column label,12,1.24204762525354,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,median,numeric,see figure note or column label,12,2.17596730741771,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,p75,numeric,see figure note or column label,12,3.8724264946231997,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4a.csv,p90,numeric,see figure note or column label,12,6.790024573094806,figure_notes/Fig_4a_notes.md or associated figure caption
+csv/Fig_4b.csv,pair_index,numeric,see figure note or column label,12,0,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,pair_key,text,see figure note or column label,12,Vienna--Bratislava,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,city_role,numeric,see figure note or column label,12,1,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,city_key,text,see figure note or column label,12,vienna,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,city,text,see figure note or column label,12,Vienna,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,eligible_cell_count,numeric,count,12,349,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,top_decile_cell_count,numeric,count,12,35,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,top_decile_pv_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,31.179516517973347,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,zero_pv_eligible_cell_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.85959885386819,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,top_decile_cutoff_utilization,numeric,see figure note or column label,12,0.0689530801598368,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,cutoff_tie_cell_count,numeric,count,12,1,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,cutoff_tie_cells_selected,numeric,count,12,1,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4b.csv,cutoff_tie_cells_excluded,numeric,count,12,0,figure_notes/Fig_4b_notes.md or associated figure caption
+csv/Fig_4c.csv,pair_index,numeric,see figure note or column label,6,0,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,pair,text,see figure note or column label,6,Vienna--Bratislava,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,pair_label,text,see figure note or column label,6,VIE–BRA,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,city1_key,text,see figure note or column label,6,vienna,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,city2_key,text,see figure note or column label,6,bratislava,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,aggregate_gap_pp,numeric,see figure note or column label,6,1.9584056451210523,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,grid_median_gap_pp,numeric,see figure note or column label,6,1.49757988180666,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,same_direction_aggregate_vs_grid_median,text,see figure note or column label,6,True,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,leader_direction_differs,text,see figure note or column label,6,False,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,aggregate_leader_key,text,see figure note or column label,6,vienna,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,median_grid_leader_key,text,see figure note or column label,6,vienna,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_4c.csv,pairwise_probability_city1_gt_city2,numeric,see figure note or column label,6,0.8248531873244631,figure_notes/Fig_4c_notes.md or associated figure caption
+csv/Fig_5.csv,panel,text,see figure note or column label,75,a,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,pair,text,see figure note or column label,60,Vienna--Bratislava,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,c1,text,see figure note or column label,6,Vienna,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,c2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,all_pv_gap_c1_minus_c2_pp,numeric,see figure note or column label,6,1.958405645121053,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,irr_gap_c1_minus_c2_pp,numeric,%,6,5.35,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,total_friction_advantage_c1,numeric,see figure note or column label,6,3.0,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,pair_color,text,see figure note or column label,6,#6c8a3b,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,pair_short,text,see figure note or column label,6,VIE–BRA,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,bubble_size_points2,numeric,see figure note or column label,6,257.7723181158153,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,indicator,text,see figure note or column label,39,income_gap_c1_minus_c2_usd,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,indicator_value,numeric,see figure note or column label,24,22.926,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,indicator_unit_divisor,numeric,see figure note or column label,24,1000.0,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,all_pv_gap_pp,numeric,see figure note or column label,24,1.958405645121053,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,metric,text,see figure note or column label,30,irr_gap_c1_minus_c2_pp,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,value,numeric,see figure note or column label,30,5.35,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,unit,text,see figure note or column label,30,pp,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,outcome,text,see figure note or column label,15,All-building PV,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,matched_pairs,numeric,see figure note or column label,15,3.0,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,valid_pairs,numeric,see figure note or column label,15,6.0,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5.csv,match_fraction,numeric,see figure note or column label,15,0.5,figure_notes/Fig_5_notes.md or associated figure caption
+csv/Fig_5a.csv,pair,text,see figure note or column label,6,Vienna--Bratislava,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,c1,text,see figure note or column label,6,Vienna,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,c2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,all_pv_gap_c1_minus_c2_pp,numeric,see figure note or column label,6,1.958405645121053,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,irr_gap_c1_minus_c2_pp,numeric,%,6,5.35,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,total_friction_advantage_c1,numeric,see figure note or column label,6,3.0,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,pair_color,text,see figure note or column label,6,#6c8a3b,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,pair_short,text,see figure note or column label,6,VIE–BRA,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5a.csv,bubble_size_points2,numeric,see figure note or column label,6,257.7723181158153,figure_notes/Fig_5a_notes.md or associated figure caption
+csv/Fig_5b.csv,pair,text,see figure note or column label,24,Vienna--Bratislava,figure_notes/Fig_5b_notes.md or associated figure caption
+csv/Fig_5b.csv,indicator,text,see figure note or column label,24,income_gap_c1_minus_c2_usd,figure_notes/Fig_5b_notes.md or associated figure caption
+csv/Fig_5b.csv,indicator_value,numeric,see figure note or column label,24,22.926,figure_notes/Fig_5b_notes.md or associated figure caption
+csv/Fig_5b.csv,indicator_unit_divisor,numeric,see figure note or column label,24,1000.0,figure_notes/Fig_5b_notes.md or associated figure caption
+csv/Fig_5b.csv,all_pv_gap_pp,numeric,see figure note or column label,24,1.958405645121053,figure_notes/Fig_5b_notes.md or associated figure caption
+csv/Fig_5c.csv,pair,text,see figure note or column label,30,Vienna--Bratislava,figure_notes/Fig_5c_notes.md or associated figure caption
+csv/Fig_5c.csv,metric,text,see figure note or column label,30,irr_gap_c1_minus_c2_pp,figure_notes/Fig_5c_notes.md or associated figure caption
+csv/Fig_5c.csv,value,numeric,see figure note or column label,30,5.35,figure_notes/Fig_5c_notes.md or associated figure caption
+csv/Fig_5c.csv,unit,text,see figure note or column label,30,pp,figure_notes/Fig_5c_notes.md or associated figure caption
+csv/Fig_5d.csv,indicator,text,see figure note or column label,15,Income,figure_notes/Fig_5d_notes.md or associated figure caption
+csv/Fig_5d.csv,outcome,text,see figure note or column label,15,All-building PV,figure_notes/Fig_5d_notes.md or associated figure caption
+csv/Fig_5d.csv,matched_pairs,numeric,see figure note or column label,15,3,figure_notes/Fig_5d_notes.md or associated figure caption
+csv/Fig_5d.csv,valid_pairs,numeric,see figure note or column label,15,6,figure_notes/Fig_5d_notes.md or associated figure caption
+csv/Fig_5d.csv,match_fraction,numeric,see figure note or column label,15,0.5,figure_notes/Fig_5d_notes.md or associated figure caption
+csv/Fig_6.csv,panel,text,see figure note or column label,336,a,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,record_type,text,see figure note or column label,336,central_standardized_5kw,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,City,text,see figure note or column label,24,Vienna,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,Net CAPEX ($),numeric,USD unless explicitly labelled otherwise,12,8800.0,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,NPV ($),numeric,USD unless explicitly labelled otherwise,12,10461.0,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,IRR (%),numeric,%,12,15.4,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,city_order,numeric,see figure note or column label,24,0.0,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,city,text,see figure note or column label,312,Vienna,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,year,numeric,year or model year index,312,0.0,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,annual_cashflow_usd,numeric,USD unless explicitly labelled otherwise,300,1437.9,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,discounted_cashflow_usd,numeric,USD unless explicitly labelled otherwise,300,1369.428571428571,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,cumulative_discounted_cashflow_usd,numeric,USD unless explicitly labelled otherwise,312,-8800.0,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,cumulative_cashflow_p2_5_usd,numeric,USD unless explicitly labelled otherwise,312,-10687.893424144955,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,cumulative_cashflow_median_usd,numeric,USD unless explicitly labelled otherwise,312,-8828.194471523615,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,cumulative_cashflow_p97_5_usd,numeric,USD unless explicitly labelled otherwise,312,-7006.974677567001,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,blended_value_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.22656340982373827,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,blended_value_usd_per_kwh_median,numeric,USD kWh-1,12,0.269726448174474,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,blended_value_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.316714327718189,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,lcoe_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.10476545386726364,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,lcoe_usd_per_kwh_median,numeric,USD kWh-1,12,0.13411515539326813,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,lcoe_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.16785432584204818,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,electricity_rate_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.23714119178419074,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,electricity_rate_usd_per_kwh_median,numeric,USD kWh-1,12,0.2927072098729469,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,electricity_rate_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.3501296690852925,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,export_rate_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.15087139964255789,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,export_rate_usd_per_kwh_median,numeric,USD kWh-1,12,0.2153095666891703,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6.csv,export_rate_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.27840126435980034,figure_notes/Fig_6_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,City,text,see figure note or column label,12,San Diego,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,Net CAPEX median ($),numeric,USD unless explicitly labelled otherwise,12,10423.624203395939,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,Net CAPEX 2.5% ($),numeric,USD unless explicitly labelled otherwise,12,8288.238500847376,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,Net CAPEX 97.5% ($),numeric,USD unless explicitly labelled otherwise,12,12618.811561059956,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,NPV median ($),numeric,USD unless explicitly labelled otherwise,12,10597.7055157951,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,NPV 2.5% ($),numeric,USD unless explicitly labelled otherwise,12,4811.380663467003,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,NPV 97.5% ($),numeric,USD unless explicitly labelled otherwise,12,17105.61823244375,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,IRR median (%),numeric,%,12,14.090119590323678,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,IRR 2.5% (%),numeric,%,12,8.99265942685956,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,IRR 97.5% (%),numeric,%,12,20.489253793753196,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,Blended value median ($/kWh),numeric,USD kWh-1,12,0.20528634923689462,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,Blended value 2.5% ($/kWh),numeric,USD kWh-1,12,0.16348229300116168,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,Blended value 97.5% ($/kWh),numeric,USD kWh-1,12,0.25456729334119294,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,LCOE median ($/kWh),numeric,USD kWh-1,12,0.11005127094845558,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,LCOE 2.5% ($/kWh),numeric,USD kWh-1,12,0.08721311685779203,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6_uncertainty_summary.csv,LCOE 97.5% ($/kWh),numeric,USD kWh-1,12,0.13563144424722112,figure_notes/Fig_6_uncertainty_summary_notes.md or associated figure caption
+csv/Fig_6a.csv,panel,text,see figure note or column label,12,a,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6a.csv,record_type,text,see figure note or column label,12,central_standardized_5kw,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6a.csv,City,text,see figure note or column label,12,Vienna,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6a.csv,Net CAPEX ($),numeric,USD unless explicitly labelled otherwise,12,8800.0,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6a.csv,NPV ($),numeric,USD unless explicitly labelled otherwise,12,10461.0,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6a.csv,IRR (%),numeric,%,12,15.4,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6a.csv,city_order,numeric,see figure note or column label,12,0,figure_notes/Fig_6a_notes.md or associated figure caption
+csv/Fig_6b.csv,panel,text,see figure note or column label,312,b,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,record_type,text,see figure note or column label,312,central_and_propagated_uncertainty_summary,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,city,text,see figure note or column label,312,Vienna,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,year,numeric,year or model year index,312,0,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,annual_cashflow_usd,numeric,USD unless explicitly labelled otherwise,300,1437.9,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,discounted_cashflow_usd,numeric,USD unless explicitly labelled otherwise,300,1369.428571428571,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,cumulative_discounted_cashflow_usd,numeric,USD unless explicitly labelled otherwise,312,-8800.0,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,cumulative_cashflow_p2_5_usd,numeric,USD unless explicitly labelled otherwise,312,-10687.893424144955,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,cumulative_cashflow_median_usd,numeric,USD unless explicitly labelled otherwise,312,-8828.194471523615,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6b.csv,cumulative_cashflow_p97_5_usd,numeric,USD unless explicitly labelled otherwise,312,-7006.974677567001,figure_notes/Fig_6b_notes.md or associated figure caption
+csv/Fig_6c.csv,panel,text,see figure note or column label,12,c,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,record_type,text,see figure note or column label,12,propagated_median_and_percentile_summary,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,City,text,see figure note or column label,12,Vienna,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,city_order,numeric,see figure note or column label,12,0,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,blended_value_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.22656340982373827,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,blended_value_usd_per_kwh_median,numeric,USD kWh-1,12,0.269726448174474,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,blended_value_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.316714327718189,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,lcoe_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.10476545386726364,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,lcoe_usd_per_kwh_median,numeric,USD kWh-1,12,0.13411515539326813,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,lcoe_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.16785432584204818,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,electricity_rate_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.23714119178419074,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,electricity_rate_usd_per_kwh_median,numeric,USD kWh-1,12,0.2927072098729469,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,electricity_rate_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.3501296690852925,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,export_rate_usd_per_kwh_p2_5,numeric,USD kWh-1,12,0.15087139964255789,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,export_rate_usd_per_kwh_median,numeric,USD kWh-1,12,0.2153095666891703,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_6c.csv,export_rate_usd_per_kwh_p97_5,numeric,USD kWh-1,12,0.27840126435980034,figure_notes/Fig_6c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,city_key,text,see figure note or column label,526,detroit,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,City,text,see figure note or column label,526,Detroit,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,grid_id,text,see figure note or column label,520,detroit_-8037_4940,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,building_count,numeric,count,532,62.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_positive_buildings,numeric,count,520,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,footprint_area_m2,numeric,m2 unless explicitly labelled otherwise,520,5410.786361855977,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_positive_footprint_m2,numeric,m2 unless explicitly labelled otherwise,520,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,532,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,prevalence,numeric,see figure note or column label,520,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,roof_size_selection,numeric,see figure note or column label,403,0.2106769624888844,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,conditional_intensity,numeric,see figure note or column label,403,0.12960786967511054,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_utilization,numeric,see figure note or column label,520,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,eligible_50_buildings,text,count,520,True,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,532,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,zero_pv_eligible_cell,text,see figure note or column label,520,True,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,color_bin,text,see figure note or column label,520,zero,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,imagery_date,text,see figure note or column label,520,15 May 2025,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,panel,text,see figure note or column label,538,a,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,record_type,text,see figure note or column label,538,eligible_grid_cell,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,city,text,see figure note or column label,12,detroit,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,roof_size_bin,text,see figure note or column label,12,0-50,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,bin_left_m2,numeric,m2 unless explicitly labelled otherwise,12,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,bin_right_m2,text,m2 unless explicitly labelled otherwise,12,50.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_building_count,numeric,count,12,26.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_adoption,numeric,see figure note or column label,12,0.0003620363150272,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,building_area_m2,numeric,m2 unless explicitly labelled otherwise,12,2526887.883629113,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_area_ratio,numeric,see definition; percentages and fractions are distinguished in the source field,12,8.895531235553767e-05,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,footprint_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,5.244830349584932,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,pv_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.7729225567802773,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,scenario_id,text,see figure note or column label,6,central_support_realized,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,scenario_label,text,see figure note or column label,6,"Both supports realized
+(central)",figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,scenario_order,numeric,see figure note or column label,6,0.0,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor.csv,irr_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,2.677420752186806,figure_notes/Fig_S_detroit_windsor_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,city_key,text,see figure note or column label,520,detroit,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,City,text,see figure note or column label,520,Detroit,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,grid_id,text,see figure note or column label,520,detroit_-8037_4940,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,building_count,numeric,count,520,62,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,pv_positive_buildings,numeric,count,520,0,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,footprint_area_m2,numeric,m2 unless explicitly labelled otherwise,520,5410.786361855977,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,pv_positive_footprint_m2,numeric,m2 unless explicitly labelled otherwise,520,0.0,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,520,0.0,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,prevalence,numeric,see figure note or column label,520,0.0,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,roof_size_selection,numeric,see figure note or column label,403,0.2106769624888844,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,conditional_intensity,numeric,see figure note or column label,403,0.12960786967511054,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,pv_utilization,numeric,see figure note or column label,520,0.0,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,eligible_50_buildings,text,count,520,True,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,520,0.0,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,zero_pv_eligible_cell,text,see figure note or column label,520,True,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,color_bin,text,see figure note or column label,520,zero,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,imagery_date,text,see figure note or column label,520,15 May 2025,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_a.csv,panel,text,see figure note or column label,520,a,figure_notes/Fig_S_detroit_windsor_a_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,city,text,see figure note or column label,12,detroit,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,roof_size_bin,text,see figure note or column label,12,0-50,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,bin_left_m2,numeric,m2 unless explicitly labelled otherwise,12,0.0,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,bin_right_m2,text,m2 unless explicitly labelled otherwise,12,50.0,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,building_count,numeric,count,12,71816,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,pv_building_count,numeric,count,12,26,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,pv_adoption,numeric,see figure note or column label,12,0.0003620363150272,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,building_area_m2,numeric,m2 unless explicitly labelled otherwise,12,2526887.883629113,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,12,224.7801009756513,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,pv_area_ratio,numeric,see definition; percentages and fractions are distinguished in the source field,12,8.895531235553767e-05,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.008895531235553767,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,footprint_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,5.244830349584932,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,pv_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.7729225567802773,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_b.csv,panel,text,see figure note or column label,12,b,figure_notes/Fig_S_detroit_windsor_b_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,scenario_id,text,see figure note or column label,6,central_support_realized,figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,scenario_label,text,see figure note or column label,6,"Both supports realized
+(central)",figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,scenario_order,numeric,see figure note or column label,6,0,figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,city_key,text,see figure note or column label,6,detroit,figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,City,text,see figure note or column label,6,Detroit,figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,irr_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,2.677420752186806,figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_detroit_windsor_c.csv,panel,text,see figure note or column label,6,c,figure_notes/Fig_S_detroit_windsor_c_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,City,text,see figure note or column label,12,San Diego,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,Net CAPEX median ($),numeric,USD unless explicitly labelled otherwise,12,10423.624203395939,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,Net CAPEX 2.5% ($),numeric,USD unless explicitly labelled otherwise,12,8288.238500847376,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,Net CAPEX 97.5% ($),numeric,USD unless explicitly labelled otherwise,12,12618.811561059956,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,NPV median ($),numeric,USD unless explicitly labelled otherwise,12,10597.7055157951,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,NPV 2.5% ($),numeric,USD unless explicitly labelled otherwise,12,4811.380663467003,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,NPV 97.5% ($),numeric,USD unless explicitly labelled otherwise,12,17105.61823244375,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,IRR median (%),numeric,%,12,14.090119590323678,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,IRR 2.5% (%),numeric,%,12,8.99265942685956,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,IRR 97.5% (%),numeric,%,12,20.489253793753196,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,Blended value median ($/kWh),numeric,USD kWh-1,12,0.20528634923689462,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,Blended value 2.5% ($/kWh),numeric,USD kWh-1,12,0.16348229300116168,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,Blended value 97.5% ($/kWh),numeric,USD kWh-1,12,0.25456729334119294,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,LCOE median ($/kWh),numeric,USD kWh-1,12,0.11005127094845558,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,LCOE 2.5% ($/kWh),numeric,USD kWh-1,12,0.08721311685779203,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_economic_uncertainty.csv,LCOE 97.5% ($/kWh),numeric,USD kWh-1,12,0.13563144424722112,figure_notes/Fig_S_economic_uncertainty_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,city_key,text,see figure note or column label,5238,vienna,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,City,text,see figure note or column label,5238,Vienna,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,grid_x,numeric,see figure note or column label,5238,1562,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,grid_y,numeric,see figure note or column label,5238,5464,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,building_count,numeric,count,5238,299,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,pv_positive_buildings,numeric,count,5238,14,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,footprint_area_m2,numeric,m2 unless explicitly labelled otherwise,5238,21366.18340572111,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,pv_positive_footprint_m2,numeric,m2 unless explicitly labelled otherwise,5238,2151.705438094118,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,pv_area_m2,numeric,m2 unless explicitly labelled otherwise,5238,514.4625374034672,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,grid_id,text,see figure note or column label,5238,vienna_1562_5464,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,center_x_m,numeric,see figure note or column label,5238,1562500.0,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,center_y_m,numeric,see figure note or column label,5238,5464500.0,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,eligible_50_buildings,text,count,5238,True,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,prevalence,numeric,see figure note or column label,5238,0.0468227424749163,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,roof_size_selection,numeric,see figure note or column label,4656,2.1507949995207056,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,conditional_intensity,numeric,see figure note or column label,4656,0.2390952443096274,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,pv_utilization,numeric,see figure note or column label,5238,0.0240783544554668,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,factor_product,numeric,see figure note or column label,4656,0.0240783544554668,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,factor_identity_error,numeric,see figure note or column label,4656,0.0,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,pv_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,5238,2.40783544554668,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,zero_pv_eligible_cell,text,see figure note or column label,5238,False,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,x_min_m,numeric,see figure note or column label,5238,1562000,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,y_min_m,numeric,see figure note or column label,5238,5464000,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,x_max_m,numeric,see figure note or column label,5238,1563000,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,y_max_m,numeric,see figure note or column label,5238,5465000,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,color_bin,text,see figure note or column label,5238,>1 to 2.5,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,grid_crs,text,see figure note or column label,5238,EPSG:6933,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_atlas.csv,assignment_rule,text,see figure note or column label,5238,building representative point; complete footprint and linked PV area follow assigned building,figure_notes/Fig_S_grid_atlas_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,scenario_id,text,see figure note or column label,120,base_1km_50_all,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,family,text,see figure note or column label,120,Base,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,display_label,text,see figure note or column label,120,"1 km, >=50, all boundary cells",figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,grid_size_m,numeric,see figure note or column label,120,1000,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,origin_x_m,numeric,see figure note or column label,120,0,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,origin_y_m,numeric,see figure note or column label,120,0,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,minimum_buildings,numeric,count,120,50,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,boundary_rule,text,see figure note or column label,120,all assigned boundary cells,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,plot_order,numeric,see figure note or column label,120,0,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,city_key,text,see figure note or column label,120,bratislava,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,City,text,see figure note or column label,120,Bratislava,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,occupied_cell_count,numeric,count,120,342,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,eligible_cell_count,numeric,count,120,202,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,eligible_building_count,numeric,count,120,100302,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,eligible_building_share,numeric,see definition; percentages and fractions are distinguished in the source field,120,0.9842600043177046,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,eligible_footprint_share,numeric,see definition; percentages and fractions are distinguished in the source field,120,0.9582786466915287,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,median_grid_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,120,0.6783874256110529,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,p10_grid_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,120,0.08017188914214617,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,p90_grid_utilization_pct,numeric,see definition; percentages and fractions are distinguished in the source field,120,2.0031214981346284,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,zero_pv_eligible_cell_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,120,4.455445544554455,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,top_decile_cell_count,numeric,count,120,21,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_city.csv,top_decile_pv_area_share_pct,numeric,see definition; percentages and fractions are distinguished in the source field,120,26.00409646959065,figure_notes/Fig_S_grid_sensitivity_city_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,scenario_id,text,see figure note or column label,60,base_1km_50_all,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,family,text,see figure note or column label,60,Base,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,display_label,text,see figure note or column label,60,"1 km, >=50, all boundary cells",figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,grid_size_m,numeric,see figure note or column label,60,1000,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,origin_x_m,numeric,see figure note or column label,60,0,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,origin_y_m,numeric,see figure note or column label,60,0,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,minimum_buildings,numeric,count,60,50,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,boundary_rule,text,see figure note or column label,60,all assigned boundary cells,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,plot_order,numeric,see figure note or column label,60,0,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,pair_index,numeric,see figure note or column label,60,0,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,pair,text,see figure note or column label,60,Vienna--Bratislava,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,pair_short,text,see figure note or column label,60,VIE--BRA,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,city1_key,text,see figure note or column label,60,vienna,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,city2_key,text,see figure note or column label,60,bratislava,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,eligible_cells_city1,numeric,count,60,349,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,eligible_cells_city2,numeric,count,60,202,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,aggregate_gap_pp,numeric,see figure note or column label,60,1.9584056451210525,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,median_grid_gap_pp,numeric,see figure note or column label,60,1.4975798818066623,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,probability_city1_grid_exceeds_city2,numeric,see figure note or column label,60,0.8248531873244632,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,aggregate_median_same_direction,text,see figure note or column label,60,True,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,direction_disagreement,text,see figure note or column label,60,False,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_pair.csv,comparison_available,text,see figure note or column label,60,True,figure_notes/Fig_S_grid_sensitivity_pair_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,scenario_id,text,see figure note or column label,10,base_1km_50_all,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,family,text,see figure note or column label,10,Base,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,display_label,text,see figure note or column label,10,"1 km, >=50, all boundary cells",figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,grid_size_m,numeric,see figure note or column label,10,1000,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,origin_x_m,numeric,see figure note or column label,10,0,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,origin_y_m,numeric,see figure note or column label,10,0,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,minimum_buildings,numeric,count,10,50,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,boundary_rule,text,see figure note or column label,10,all assigned boundary cells,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_grid_sensitivity_scenarios.csv,plot_order,numeric,see figure note or column label,10,0,figure_notes/Fig_S_grid_sensitivity_scenarios_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,city,text,see figure note or column label,18,bratislava,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,area_share_1000,numeric,see definition; percentages and fractions are distinguished in the source field,18,0.4263424521716867,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,pv_utilization_1000,numeric,see figure note or column label,12,0.0092687352921708,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,absolute_contribution_1000,numeric,see figure note or column label,12,0.0039516553329943535,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,pv_area_share_1000,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.48833444908288304,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,all_utilization_current,numeric,see figure note or column label,18,0.008092108472821834,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,kind,text,see figure note or column label,18,observed_city,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,pair,text,see figure note or column label,18,vienna--bratislava,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,area_share_1000_pct,numeric,see definition; percentages and fractions are distinguished in the source field,18,42.63424521716867,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,pv_utilization_1000_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.92687352921708,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,absolute_contribution_1000_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.3951655332994354,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,pv_area_share_1000_pct,numeric,see definition; percentages and fractions are distinguished in the source field,12,48.83344490828831,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,all_utilization_current_pct,numeric,see definition; percentages and fractions are distinguished in the source field,18,0.8092108472821834,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,uplift_all,numeric,see figure note or column label,6,0.015323683380364687,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,relative_uplift_all,numeric,see figure note or column label,6,1.893657682893257,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,all_utilization_counterfactual,numeric,count,6,0.02341579185318652,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,frontier_utilization_1000,numeric,see figure note or column label,6,0.0452109298878755,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,current_utilization_1000,numeric,see figure note or column label,6,0.0092687352921708,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,current_utilization_1000_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,0.92687352921708,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,frontier_utilization_1000_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,4.52109298878755,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,uplift_all_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,1.5323683380364688,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,all_utilization_counterfactual_pct,numeric,see definition; percentages and fractions are distinguished in the source field,6,2.341579185318652,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,scope,text,see figure note or column label,18,six primary pairs,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof.csv,interpretation,text,see figure note or column label,18,observed mapped-PV and footprint quantities,figure_notes/Fig_S_large_roof_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,kind,text,see figure note or column label,18,actual,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,city,text,see figure note or column label,18,vienna,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,area_share_1000,numeric,see definition; percentages and fractions are distinguished in the source field,18,0.3967132471207119,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,pv_utilization_1000,numeric,see figure note or column label,18,0.0452109298878755,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,absolute_contribution_1000,numeric,see figure note or column label,12,0.01793577480116593,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,pv_area_share_1000,numeric,see definition; percentages and fractions are distinguished in the source field,12,0.6480585316064333,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,all_utilization_current,numeric,see figure note or column label,18,0.027676164924032447,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,uplift_all,numeric,see figure note or column label,6,0.015323683380364687,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,relative_uplift_all,numeric,see figure note or column label,6,1.893657682893257,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,all_utilization_counterfactual,numeric,count,6,0.02341579185318652,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_large_roof_original_metrics.csv,frontier_utilization_1000,numeric,see figure note or column label,6,0.0452109298878755,figure_notes/Fig_S_large_roof_original_metrics_notes.md or associated figure caption
+csv/Fig_S_policy.csv,panel,text,see figure note or column label,122,a,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,record_type,text,see figure note or column label,122,city_component_scores,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Pair,text,see figure note or column label,18,Vienna–Bratislava,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,City,text,see figure note or column label,12,Vienna,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Comparison City,text,see figure note or column label,12,Bratislava,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,A: Export compensation friction,numeric,see figure note or column label,12,1.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,B: Export constraint friction,numeric,see figure note or column label,12,0.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,C: Settlement complexity friction,numeric,see figure note or column label,12,1.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,D: Policy uncertainty friction,numeric,see figure note or column label,12,1.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,E: Small-system approval friction,numeric,see figure note or column label,12,0.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,F: Building/planning approval friction,numeric,see figure note or column label,12,1.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,G: Grid study/fee friction,numeric,see figure note or column label,12,1.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,H: Professional credential friction,numeric,see figure note or column label,12,2.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Revenue Friction Index,numeric,see figure note or column label,12,3.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Administrative Friction Index,numeric,see figure note or column label,12,4.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Total Friction Index,numeric,see figure note or column label,12,7.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Evidence status,text,see figure note or column label,12,High,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Key note,text,see figure note or column label,12,"Small systems face low planning friction, although grid access and certified installation still matter.",figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Primary source URL 1,text,see figure note or column label,12,https://www.wienernetze.at/photovoltaik,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Primary source URL 2,text,see figure note or column label,12,https://www.oem-ag.at/de/foerderungen/photovoltaik/,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,city_key,text,see figure note or column label,12,vienna,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,City1,text,see figure note or column label,6,Vienna,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,City2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Lower Rev.,text,see figure note or column label,6,C1,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Lower Adm.,text,see figure note or column label,6,C1,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,Lower Total,text,see figure note or column label,6,C1,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,factor,text,see figure note or column label,104,A,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,factor_group,text,see figure note or column label,104,Revenue frictions,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,segment,text,see figure note or column label,96,Residential,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,city_pair,text,see figure note or column label,96,Vienna–Bratislava,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,first_city,text,see figure note or column label,96,Vienna,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,second_city,text,see figure note or column label,96,Bratislava,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,component_advantage,numeric,see figure note or column label,96,0.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,pv_advantage,numeric,see figure note or column label,96,1.0792269536554384,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,signed_alignment_contribution,numeric,see figure note or column label,96,0.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,contribution_magnitude,numeric,see figure note or column label,96,0.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,same_direction,text,see figure note or column label,96,False,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,res_weight_for_factor,numeric,see figure note or column label,96,0.7272727272727273,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,nonres_weight_for_factor,numeric,see figure note or column label,96,0.2727272727272727,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,residential_total_alignment,numeric,see figure note or column label,8,8.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,nonresidential_total_alignment,numeric,see figure note or column label,8,3.0,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,residential_weight,numeric,see figure note or column label,8,0.7272727272727273,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy.csv,nonresidential_weight,numeric,see figure note or column label,8,0.2727272727272727,figure_notes/Fig_S_policy_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Pair,text,see figure note or column label,12,Vienna–Bratislava,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,City,text,see figure note or column label,12,Vienna,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Comparison City,text,see figure note or column label,12,Bratislava,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,A: Export compensation friction,numeric,see figure note or column label,12,1,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,B: Export constraint friction,numeric,see figure note or column label,12,0,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,C: Settlement complexity friction,numeric,see figure note or column label,12,1,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,D: Policy uncertainty friction,numeric,see figure note or column label,12,1,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,E: Small-system approval friction,numeric,see figure note or column label,12,0,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,F: Building/planning approval friction,numeric,see figure note or column label,12,1,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,G: Grid study/fee friction,numeric,see figure note or column label,12,1,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,H: Professional credential friction,numeric,see figure note or column label,12,2,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Revenue Friction Index,numeric,see figure note or column label,12,3,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Administrative Friction Index,numeric,see figure note or column label,12,4,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Total Friction Index,numeric,see figure note or column label,12,7,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Evidence status,text,see figure note or column label,12,High,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Key note,text,see figure note or column label,12,"Small systems face low planning friction, although grid access and certified installation still matter.",figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Primary source URL 1,text,see figure note or column label,12,https://www.wienernetze.at/photovoltaik,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,Primary source URL 2,text,see figure note or column label,12,https://www.oem-ag.at/de/foerderungen/photovoltaik/,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a.csv,city_key,text,see figure note or column label,12,vienna,figure_notes/Fig_S_policy_a_notes.md or associated figure caption
+csv/Fig_S_policy_a_pair_summary.csv,Pair,text,see figure note or column label,6,Vienna–Bratislava,figure_notes/Fig_S_policy_a_pair_summary_notes.md or associated figure caption
+csv/Fig_S_policy_a_pair_summary.csv,City1,text,see figure note or column label,6,Vienna,figure_notes/Fig_S_policy_a_pair_summary_notes.md or associated figure caption
+csv/Fig_S_policy_a_pair_summary.csv,City2,text,see figure note or column label,6,Bratislava,figure_notes/Fig_S_policy_a_pair_summary_notes.md or associated figure caption
+csv/Fig_S_policy_a_pair_summary.csv,Lower Rev.,text,see figure note or column label,6,C1,figure_notes/Fig_S_policy_a_pair_summary_notes.md or associated figure caption
+csv/Fig_S_policy_a_pair_summary.csv,Lower Adm.,text,see figure note or column label,6,C1,figure_notes/Fig_S_policy_a_pair_summary_notes.md or associated figure caption
+csv/Fig_S_policy_a_pair_summary.csv,Lower Total,text,see figure note or column label,6,C1,figure_notes/Fig_S_policy_a_pair_summary_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,factor,text,see figure note or column label,96,A,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,factor_group,text,see figure note or column label,96,Revenue frictions,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,segment,text,see figure note or column label,96,Residential,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,city_pair,text,see figure note or column label,96,Vienna–Bratislava,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,first_city,text,see figure note or column label,96,Vienna,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,second_city,text,see figure note or column label,96,Bratislava,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,component_advantage,numeric,see figure note or column label,96,0.0,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,pv_advantage,numeric,see figure note or column label,96,1.0792269536554384,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,signed_alignment_contribution,numeric,see figure note or column label,96,0.0,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,contribution_magnitude,numeric,see figure note or column label,96,0.0,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,same_direction,text,see figure note or column label,96,False,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,res_weight_for_factor,numeric,see figure note or column label,96,0.7272727272727273,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b.csv,nonres_weight_for_factor,numeric,see figure note or column label,96,0.2727272727272727,figure_notes/Fig_S_policy_b_notes.md or associated figure caption
+csv/Fig_S_policy_b_factor_summary.csv,factor,text,see figure note or column label,8,A,figure_notes/Fig_S_policy_b_factor_summary_notes.md or associated figure caption
+csv/Fig_S_policy_b_factor_summary.csv,factor_group,text,see figure note or column label,8,Revenue frictions,figure_notes/Fig_S_policy_b_factor_summary_notes.md or associated figure caption
+csv/Fig_S_policy_b_factor_summary.csv,residential_total_alignment,numeric,see figure note or column label,8,8.0,figure_notes/Fig_S_policy_b_factor_summary_notes.md or associated figure caption
+csv/Fig_S_policy_b_factor_summary.csv,nonresidential_total_alignment,numeric,see figure note or column label,8,3.0,figure_notes/Fig_S_policy_b_factor_summary_notes.md or associated figure caption
+csv/Fig_S_policy_b_factor_summary.csv,residential_weight,numeric,see figure note or column label,8,0.7272727272727273,figure_notes/Fig_S_policy_b_factor_summary_notes.md or associated figure caption
+csv/Fig_S_policy_b_factor_summary.csv,nonresidential_weight,numeric,see figure note or column label,8,0.2727272727272727,figure_notes/Fig_S_policy_b_factor_summary_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,city_key,text,see figure note or column label,14,vienna,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,City,text,see figure note or column label,14,Vienna,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,Pair,text,see figure note or column label,14,Vienna--Bratislava,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,analytical_mapping_unit,text,see figure note or column label,14,City of Vienna administrative boundary,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,boundary_source_class,text,see figure note or column label,14,official administrative boundary,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,boundary_source,text,see figure note or column label,14,City of Vienna/BEV boundary record; local layer updated 2 June 2025,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,boundary_source_url,text,see figure note or column label,12,https://www.data.gv.at/katalog/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,boundary_area_km2,numeric,km2,14,414.8666896544625,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,building_footprint_coverage_pct,numeric,see definition; percentages and fractions are distinguished in the source field,14,100.0,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,linked_pv_area_coverage_pct,numeric,see definition; percentages and fractions are distinguished in the source field,14,100.0,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,contextual_jurisdiction,text,see figure note or column label,14,City of Vienna / Wiener Netze,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,boundary_caveat,text,see figure note or column label,14,Municipal and distribution-utility territories need not be coextensive.,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_boundaries.csv,audit_interpretation,text,see figure note or column label,14,analytical files are effectively contained by the declared polygon,figure_notes/Table_S_boundaries_notes.md or associated figure caption
+csv/Table_S_evidence_boundaries.csv,observed_quantity,text,see figure note or column label,6,Citywide and sector-specific PV utilization,figure_notes/Table_S_evidence_boundaries_notes.md or associated figure caption
+csv/Table_S_evidence_boundaries.csv,what_it_establishes,text,see figure note or column label,6,Direction and magnitude of mapped PV area relative to the building-footprint denominator for each city or rooftop segment,figure_notes/Table_S_evidence_boundaries_notes.md or associated figure caption
+csv/Table_S_evidence_boundaries.csv,what_it_does_not_establish,text,see figure note or column label,6,"Installed capacity, electricity contribution, usable-roof saturation or the cause of a city or sector gap",figure_notes/Table_S_evidence_boundaries_notes.md or associated figure caption
+csv/Table_S_evidence_boundaries.csv,additional_evidence_needed,text,see figure note or column label,6,"Harmonized capacity records, usable-roof estimates, installation dates and sector-specific project histories",figure_notes/Table_S_evidence_boundaries_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,city_key,text,see figure note or column label,14,vienna,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,City,text,see figure note or column label,14,Vienna,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,Pair,text,see figure note or column label,14,Vienna--Bratislava,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,study_scope,text,see figure note or column label,14,primary,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,latitude,numeric,decimal degrees unless CRS is stated,14,48.220173,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,longitude,numeric,decimal degrees unless CRS is stated,14,16.371198,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,H_i_y_kWh_per_m2_per_year,numeric,m2 unless explicitly labelled otherwise,14,1527.93,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,E_y_kWh_per_kWp_per_year,numeric,year or model year index,14,1236.12,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,standard_deviation_kWh_per_kWp,numeric,see figure note or column label,14,39.94,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,optimal_slope_deg,numeric,see figure note or column label,14,41,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,optimal_azimuth_deg,numeric,see figure note or column label,14,0,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,elevation_m,numeric,see figure note or column label,14,160.0,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,radiation_database,text,see figure note or column label,14,PVGIS-ERA5,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,database_period,text,see figure note or column label,14,2005--2023,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,peakpower_kWp,numeric,see figure note or column label,14,1,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,system_loss_pct,numeric,see definition; percentages and fractions are distinguished in the source field,14,14,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,pv_technology,text,see figure note or column label,14,crystalline silicon,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,mounting,text,see figure note or column label,14,"free-standing, optimum inclination",figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_14cities.csv,location_rule,text,see figure note or column label,14,boundary representative point,figure_notes/Table_S_solar_resource_14cities_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,Pair,text,see figure note or column label,7,Vienna--Bratislava,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,City_A,text,see figure note or column label,7,Vienna,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,City_B,text,see figure note or column label,7,Bratislava,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,study_scope,text,see figure note or column label,7,primary,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,H_i_y_symmetric_difference_pct,numeric,see definition; percentages and fractions are distinguished in the source field,7,0.690701,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,E_y_symmetric_difference_pct,numeric,see definition; percentages and fractions are distinguished in the source field,7,0.156012,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,maximum_symmetric_difference_pct,numeric,see definition; percentages and fractions are distinguished in the source field,7,0.690701,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,descriptive_5pct_screen,text,see definition; percentages and fractions are distinguished in the source field,7,within 5%,figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption
+csv/Table_S_solar_resource_pair_matching.csv,interpretation,text,see figure note or column label,7,"descriptive resource-proximity screen, not a causal matching criterion",figure_notes/Table_S_solar_resource_pair_matching_notes.md or associated figure caption

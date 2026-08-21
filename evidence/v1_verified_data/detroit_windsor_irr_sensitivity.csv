@@ -1,0 +1,7 @@
+scenario,city,IRR (%),NPV (USD),note
+Detroit central: credit realized,Detroit,2.677420752186806,-2823.364765453685,Michigan 2023 market-cost benchmark; 30% federal credit realized; corrected 2024 DTE tariff screen
+Detroit no federal credit,Detroit,-0.31209083385724745,-8478.364765453687,No federal credit
+Windsor central: quote + grant,Windsor,3.0061892075569054,-1706.6217517403002,"Early-2023 southern-Ontario 5.46-kW tax-included quote; CAD 5,000 grant realized; 2024 ENWIN variable-credit value"
+"Windsor quote, no grant",Windsor,0.15072216090888196,-5356.789659464055,"Windsor quote, no grant"
+"Windsor quote + grant, 90% credit realization",Windsor,1.8183358807975356,-2638.323191025086,"Windsor quote + grant, 90% credit realization"
+"Windsor quote + grant, 80% credit realization",Windsor,0.5320610327097577,-3570.024630309873,"Windsor quote + grant, 80% credit realization"

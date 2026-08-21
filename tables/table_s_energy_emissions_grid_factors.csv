@@ -1,0 +1,7 @@
+lagging_city,source_entity,year,grid_factor_gco2e_per_kwh,grid_factor_tco2e_per_mwh,source,source_url,note
+Bratislava,Slovakia,2025,94.85,0.09484999999999999,"Ember (2026), with major processing by Our World in Data",https://ourworldindata.org/grapher/carbon-intensity-electricity,Country average generation intensity used for Bratislava.
+Johor Bahru,Malaysia,2025,601.97,0.60197,"Ember (2026), with major processing by Our World in Data",https://ourworldindata.org/grapher/carbon-intensity-electricity,Country average generation intensity used for Johor Bahru.
+Tijuana,Mexico,2025,474.02,0.47402,"Ember (2026), with major processing by Our World in Data",https://ourworldindata.org/grapher/carbon-intensity-electricity,Country average generation intensity used for Tijuana.
+El Paso,United States,2025,384.4,0.38439999999999996,"Ember (2026), with major processing by Our World in Data",https://ourworldindata.org/grapher/carbon-intensity-electricity,National average generation intensity used for El Paso; not an eGRID subregion factor.
+Hong Kong,Hong Kong,2024,675.48,0.67548,"Ember (2026), with major processing by Our World in Data",https://ourworldindata.org/grapher/carbon-intensity-electricity,Latest available Hong Kong value in the OWID/Ember series.
+Monaco,France,2025,41.44,0.04144,"Ember (2026), with major processing by Our World in Data",https://ourworldindata.org/grapher/carbon-intensity-electricity,France used as a proxy for Monaco because Monaco is not separately reported in the series.

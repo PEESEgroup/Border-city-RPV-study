@@ -1,0 +1,15 @@
+City Pairs,City,"Annual Income USD (net, Numbeo)",GDP per Capita PPP USD (2024),Avg Rent 1BR Center USD/mo,Property Price Center USD/sqm,city_key,Income source/type
+AT-SK Border,"Vienna, AT",44143.0,71618.0,1268.0,12871.0,vienna,Numbeo annual net-income input
+AT-SK Border,"Bratislava, SK",21217.0,40347.0,1054.0,6040.0,bratislava,Numbeo annual net-income input
+SG-MY Border,Singapore,52054.0,150689.0,2789.0,23538.0,singapore,Numbeo annual net-income input
+SG-MY Border,"Johor Bahru, MY",13900.0,38729.0,500.0,2104.0,johorbahru,Numbeo annual net-income input
+US-MX Border,"San Diego, US",65915.0,85810.0,3145.0,8613.0,sandiego,Numbeo annual net-income input
+US-MX Border,"Tijuana, MX",12239.0,25688.0,904.0,3292.0,tijuana,Numbeo annual net-income input
+US-CA Border,Detroit,32498.0,,,,detroit,2020 ACS median total household income
+US-CA Border,Windsor,52180.39508,,,,windsor,2020 Census median total household income; CAD converted to USD
+US-MX Border,"El Paso, US",38856.0,85810.0,1121.0,1783.0,elpaso,Numbeo annual net-income input
+US-MX Border,"Ciudad Juarez, MX",7296.0,25688.0,641.0,1012.0,juarez,Numbeo annual net-income input
+CN-HK Border,"Hong Kong, CN",39873.0,75216.0,2224.0,25318.0,hongkong,Numbeo annual net-income input
+CN-HK Border,"Shenzhen, CN",19449.0,27105.0,724.0,13260.0,shenzhen,Numbeo annual net-income input
+FR-MC Border,Monaco,102998.0,270100.0,9638.0,71397.0,monaco,Numbeo annual net-income input
+FR-MC Border,"Nice, FR",32369.0,61322.0,1158.0,7619.0,nice,Numbeo annual net-income input

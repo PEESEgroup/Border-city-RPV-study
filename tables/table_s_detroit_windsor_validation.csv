@@ -1,0 +1,4 @@
+scope,test_tiles,pv_positive_tiles,dice,iou,precision,recall
+All 12 annotated cities,171,58,0.873209,0.774953,0.850945,0.896671
+Detroit,18,2,0.745790,0.594629,0.850091,0.664286
+Windsor,14,2,0.835968,0.718166,0.728046,0.981454

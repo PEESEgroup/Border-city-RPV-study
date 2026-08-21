@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the associated paper and this repository."
+title: "The building-level anatomy of rooftop solar deployment gaps across border cities"
+type: software
+authors:
+  - family-names: Zhuo
+    given-names: Yue
+  - family-names: You
+    given-names: Fengqi
+version: 1.0.0
+date-released: 2026-08-21
+license: MIT
+repository-code: "https://github.com/PEESEgroup/Border-city-RPV-study"
+url: "https://github.com/PEESEgroup/Border-city-RPV-study"

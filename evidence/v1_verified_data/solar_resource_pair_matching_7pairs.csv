@@ -1,0 +1,8 @@
+Pair,City_A,City_B,H_i_y_symmetric_difference_pct,E_y_symmetric_difference_pct,maximum_symmetric_difference_pct,descriptive_5pct_screen,interpretation
+Vienna--Bratislava,Vienna,Bratislava,0.6907009734383355,0.15601191510688947,0.6907009734383355,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"
+Singapore--Johor Bahru,Singapore,Johor Bahru,3.3048893830779504,4.212760625870602,4.212760625870602,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"
+San Diego--Tijuana,San Diego,Tijuana,2.890284224924346,2.4300023551904317,2.890284224924346,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"
+Detroit--Windsor,Detroit,Windsor,0.46934368500058066,1.0698638642079676,1.0698638642079676,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"
+El Paso--Juarez,El Paso,Juarez,0.939370806380333,0.8236541381978163,0.939370806380333,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"
+Hong Kong--Shenzhen,Hong Kong,Shenzhen,3.5093016234294105,3.6248507733588866,3.6248507733588866,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"
+Monaco--Nice,Monaco,Nice,1.8486983601264406,3.108876056945922,3.108876056945922,within 5%,"descriptive resource-proximity screen, not a causal matching criterion"

@@ -1,0 +1,24 @@
+{
+  "status": "pass",
+  "city_rows": 14,
+  "unique_city_keys": 14,
+  "primary_cities": 12,
+  "supplementary_cities": ["detroit", "windsor"],
+  "maximum_boundary_area_difference_from_verified_audit": 0.0,
+  "maximum_building_footprint_coverage_difference_from_verified_audit": 0.0,
+  "maximum_linked_pv_area_coverage_difference_from_verified_audit": 0.0,
+  "san_diego": {
+    "official_boundary_area_km2": 887.2067841568665,
+    "retained_buildings": 414749,
+    "pv_positive_buildings": 59463,
+    "building_footprint_area_km2": 100.8161479005692,
+    "linked_pv_area_km2": 2.5824588688552463,
+    "pv_utilization_pct": 2.561552809379524,
+    "sdge_geometry_used_as_mapping_boundary": false
+  },
+  "current_table_numbers": {
+    "boundary_definition": "S1",
+    "boundary_containment_audit": "S2",
+    "boundary_sources": "S3"
+  }
+}

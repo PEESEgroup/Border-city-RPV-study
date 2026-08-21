@@ -1,0 +1,58 @@
+{
+  "interpretation": "independent held-out tile test evaluation reconstructed from the author-confirmed 70/30 global split; same-city tiles, not a city-external or spatial-block holdout",
+  "training_command_source": "code/model/train_border_supervised.py",
+  "training_script_sha256": "993f397171cb5beffbe32936bafdd0c0b499eebe3c90a59439ad99fd459f2d00",
+  "recorded_training_cities": [
+    "detroit",
+    "elpaso",
+    "hongkong",
+    "johorbahru",
+    "juarez",
+    "monaco",
+    "nice",
+    "sandiego",
+    "shenzhen",
+    "singapore",
+    "tijuana",
+    "windsor"
+  ],
+  "confirmed_split_parameters": {
+    "train_ratio": 0.7,
+    "test_ratio_by_remainder": 0.3,
+    "seed": 42
+  },
+  "source_index": "external/annotation_dataset",
+  "source_index_sha256": "a660daa9cc660743c5b8e1861f71f399a92842a85e34f74bb2258230ff7e04ad",
+  "reconstructed_index": "evidence/validation/checkpoint_historical_holdout/historical_training_split_568.csv",
+  "reconstructed_index_sha256": "4bf016961353f8429f131613d42687406e9b5aed05766c37d55ff02faa939760",
+  "checkpoint": "external/checkpoints/cities_12__best_student_dice.pth",
+  "checkpoint_sha256": "98eee5099afa635790521d4be566a003e40ca11fb3af58a0b83492926c6d2a2c",
+  "split_algorithm": "random.Random(42).shuffle over CSV-order 568-tile dataset; int(0.7*n), remainder test",
+  "split_counts": {
+    "train": 397,
+    "test": 171
+  },
+  "detroit_counts": {
+    "train": 42,
+    "test": 18
+  },
+  "windsor_counts": {
+    "train": 28,
+    "test": 14
+  },
+  "primary_test_metrics": {
+    "all_12_cities_pixel_dice": 0.8732094832723764,
+    "detroit_pixel_dice": 0.7457898957497995,
+    "windsor_pixel_dice": 0.8359680515725357
+  },
+  "author_confirmed_production_chronology": {
+    "checkpoint_weights_generated_before_citywide_masks": true,
+    "note": "Copied project-file modification times are not original generation timestamps."
+  },
+  "limitations": [
+    "The original global segmentation_labels.csv is no longer present; row order is reconstructed from its imported unified-index rows.",
+    "The split is tile-random within the 12-city pool, not a spatial-block or leave-city-out test.",
+    "City-specific estimates depend on the number and composition of PV-positive test tiles.",
+    "No existing prediction file or building-linkage output is used in this image--mask benchmark."
+  ]
+}

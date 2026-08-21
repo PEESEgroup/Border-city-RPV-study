@@ -1,0 +1,5 @@
+quantity,value,unit,source_or_role
+Gap-closure scenario,Lagging city reaches paired higher all-building PV utilization,descriptive counterfactual,Computed from Table S1 city-level PV utilization and building-footprint denominators
+PV capacity density,0.15--0.25; central 0.2,kW m-2 mapped PV area,Sensitivity range and central benchmark for converting mapped PV module area to DC capacity
+Annual PV yield,city-specific,kWh kW-1 yr-1,Table~\ref{tab:s1_economic_model_city_inputs} city-level economic inputs
+Average grid-emissions factor,lagging-city source entity specific,gCO2e kWh-1; tCO2e MWh-1,Ember/Our World in Data lifecycle carbon intensity of electricity generation; see grid-factor table

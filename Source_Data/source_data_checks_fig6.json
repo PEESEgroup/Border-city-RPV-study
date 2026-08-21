@@ -1,0 +1,76 @@
+{
+  "figure": "Fig. 6",
+  "construction": "original Fig. 4 scripts, panels and Illustrator assembly",
+  "primary_city_count": 12,
+  "primary_pair_count": 6,
+  "detroit_or_windsor_present": false,
+  "panel_checks": {
+    "a": {
+      "same_raster_shape": true,
+      "pixel_identical_at_150_dpi": true,
+      "mean_absolute_pixel_difference": 0.0,
+      "first_shape": [
+        587,
+        893,
+        3
+      ],
+      "second_shape": [
+        587,
+        893,
+        3
+      ]
+    },
+    "b": {
+      "same_raster_shape": true,
+      "pixel_identical_at_150_dpi": true,
+      "mean_absolute_pixel_difference": 0.0,
+      "first_shape": [
+        868,
+        496,
+        3
+      ],
+      "second_shape": [
+        868,
+        496,
+        3
+      ]
+    },
+    "c": {
+      "same_raster_shape": true,
+      "pixel_identical_at_150_dpi": true,
+      "mean_absolute_pixel_difference": 0.0,
+      "first_shape": [
+        755,
+        1098,
+        3
+      ],
+      "second_shape": [
+        755,
+        1098,
+        3
+      ]
+    }
+  },
+  "all_regenerated_panels_pixel_identical_to_original": true,
+  "main_pdf_byte_identical_to_original_fig4": false,
+  "expected_main_difference": "only the a, b and c panel identifiers were replaced",
+  "panel_identifier_style": "same traced Myriad Pro vector glyphs and 9.49-pt height used in revised Fig. 5",
+  "guide_caption_title_synchronized": true,
+  "guide_standard_model_scope_synchronized": {
+    "system_size_kw": 5,
+    "project_lifetime_years": 25,
+    "real_discount_rate": 0.05
+  },
+  "guide_fixed_pair_order_stated": true,
+  "guide_uncertainty_terminology": "2.5th to 97.5th percentile propagated uncertainty summaries",
+  "guide_segment_model_limitations_stated": true,
+  "source_data_rows": {
+    "Fig_6a": 12,
+    "Fig_6b": 312,
+    "Fig_6c": 12,
+    "Fig_6": 336
+  },
+  "guide_audit_status": "pass",
+  "original_main_sha256": "d982ee3ca550863fcd047e197345062323da1582dd43bf46d4cad0eeb01a1d54",
+  "revision_main_sha256": "69df0f43065a84b5d5133a00f33786478f49776d70d8d7b45a96d19f108f86b7"
+}

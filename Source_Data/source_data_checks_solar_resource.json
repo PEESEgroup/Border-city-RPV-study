@@ -1,0 +1,49 @@
+{
+  "status": "pass",
+  "city_rows": 14,
+  "unique_city_keys": 14,
+  "primary_cities": 12,
+  "supplementary_cities": [
+    "detroit",
+    "windsor"
+  ],
+  "pair_rows": 7,
+  "primary_pairs": 6,
+  "supplementary_pairs": [
+    "Detroit--Windsor"
+  ],
+  "common_query": {
+    "radiation_database": "PVGIS-ERA5",
+    "database_period": "2005--2023",
+    "peakpower_kWp": 1,
+    "system_loss_pct": 14,
+    "pv_technology": "crystalline silicon",
+    "mounting": "free-standing, optimum inclination",
+    "location_rule": "boundary representative point"
+  },
+  "maximum_abs_city_numeric_difference_from_verified_data": {
+    "latitude": 4.890790989975358e-07,
+    "longitude": 4.999880509615195e-07,
+    "H_i_y_kWh_per_m2_per_year": 0.0,
+    "E_y_kWh_per_kWp_per_year": 0.0,
+    "standard_deviation_kWh_per_kWp": 0.0,
+    "optimal_slope_deg": 0.0,
+    "optimal_azimuth_deg": 0.0,
+    "elevation_m": 0.0
+  },
+  "maximum_abs_pair_difference_from_verified_data": {
+    "H_i_y_symmetric_difference_pct": 3.8307795025005476e-07,
+    "E_y_symmetric_difference_pct": 3.741293985726202e-07,
+    "maximum_symmetric_difference_pct": 3.741293985726202e-07
+  },
+  "primary_pair_maximum_difference_range_pct": [
+    0.690701,
+    4.212761
+  ],
+  "detroit_windsor_maximum_difference_pct": 1.069864,
+  "all_pairs_within_descriptive_5pct_screen": true,
+  "current_table_numbers": {
+    "solar_resource_14cities": "S4",
+    "solar_resource_pair_matching": "S5"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "primary_pair_count": 6,
+  "detroit_or_windsor_present": false,
+  "all_building_alignment": {
+    "income": "3/6",
+    "standardized_irr": "6/6",
+    "total_policy_friction": "4/6",
+    "administrative_friction": "5/5",
+    "revenue_friction": "3/6"
+  },
+  "san_diego_tijuana": {
+    "all_pv_gap_c1_minus_c2_pp": 1.9656428667347043,
+    "residential_pv_gap_c1_minus_c2_pp": 2.432924943521248,
+    "nonresidential_pv_gap_c1_minus_c2_pp": 1.2466608422434875
+  },
+  "panel_labels": [
+    "a,",
+    "b,",
+    "c,",
+    "d,"
+  ],
+  "bubble_legend_layout": "custom vertically separated circles",
+  "exclusive_pair_shading_present": false
+}

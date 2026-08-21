@@ -1,0 +1,97 @@
+factor,factor_group,segment,city_pair,first_city,second_city,component_advantage,pv_advantage,signed_alignment_contribution,contribution_magnitude,same_direction,res_weight_for_factor,nonres_weight_for_factor
+A,Revenue frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,0.0,1.0792269536554384,0.0,0.0,False,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,2.0,3.788547766916259,7.577095533832518,7.577095533832518,True,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,-1.0,2.4329249435212477,-2.4329249435212477,2.4329249435212477,False,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.6248247172822836,0.6248247172822836,0.6248247172822836,True,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,2.0,0.4184463739471992,0.8368927478943984,0.8368927478943984,True,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Residential,Monaco–Nice,Monaco,Nice,3.0,0.7735959541807056,2.320787862542117,2.320787862542117,True,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,0.0,2.9819477040603384,0.0,0.0,False,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,2.0,6.825740766127952,13.651481532255904,13.651481532255904,True,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,-1.0,1.2466608422434875,-1.2466608422434875,1.2466608422434875,False,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.16875702662152722,0.16875702662152722,0.16875702662152722,True,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,2.0,-1.210452137173381,-2.420904274346762,2.420904274346762,False,0.7272727272727273,0.2727272727272727
+A,Revenue frictions,Non-residential,Monaco–Nice,Monaco,Nice,3.0,-0.46957211779869296,-1.408716353396079,1.408716353396079,False,0.7272727272727273,0.2727272727272727
+B,Revenue frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,2.0,1.0792269536554384,2.158453907310877,2.158453907310877,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,3.0,3.788547766916259,11.365643300748776,11.365643300748776,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,-1.0,2.4329249435212477,-2.4329249435212477,2.4329249435212477,False,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.6248247172822836,0.6248247172822836,0.6248247172822836,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,1.0,0.4184463739471992,0.4184463739471992,0.4184463739471992,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Residential,Monaco–Nice,Monaco,Nice,0.0,0.7735959541807056,0.0,0.0,False,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,2.0,2.9819477040603384,5.963895408120677,5.963895408120677,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,3.0,6.825740766127952,20.477222298383857,20.477222298383857,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,-1.0,1.2466608422434875,-1.2466608422434875,1.2466608422434875,False,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.16875702662152722,0.16875702662152722,0.16875702662152722,True,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,1.0,-1.210452137173381,-1.210452137173381,1.210452137173381,False,0.5384615384615384,0.46153846153846156
+B,Revenue frictions,Non-residential,Monaco–Nice,Monaco,Nice,0.0,-0.46957211779869296,-0.0,0.0,False,0.5384615384615384,0.46153846153846156
+C,Revenue frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,0.0,1.0792269536554384,0.0,0.0,False,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,1.0,3.788547766916259,3.788547766916259,3.788547766916259,True,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,-1.0,2.4329249435212477,-2.4329249435212477,2.4329249435212477,False,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.6248247172822836,0.6248247172822836,0.6248247172822836,True,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,2.0,0.4184463739471992,0.8368927478943984,0.8368927478943984,True,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Residential,Monaco–Nice,Monaco,Nice,1.0,0.7735959541807056,0.7735959541807056,0.7735959541807056,True,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,0.0,2.9819477040603384,0.0,0.0,False,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,1.0,6.825740766127952,6.825740766127952,6.825740766127952,True,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,-1.0,1.2466608422434875,-1.2466608422434875,1.2466608422434875,False,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.16875702662152722,0.16875702662152722,0.16875702662152722,True,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,2.0,-1.210452137173381,-2.420904274346762,2.420904274346762,False,0.7142857142857143,0.2857142857142857
+C,Revenue frictions,Non-residential,Monaco–Nice,Monaco,Nice,1.0,-0.46957211779869296,-0.46957211779869296,0.46957211779869296,False,0.7142857142857143,0.2857142857142857
+D,Revenue frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,0.0,1.0792269536554384,0.0,0.0,False,0.75,0.25
+D,Revenue frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,2.0,3.788547766916259,7.577095533832518,7.577095533832518,True,0.75,0.25
+D,Revenue frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,0.0,2.4329249435212477,0.0,0.0,False,0.75,0.25
+D,Revenue frictions,Residential,El Paso–Juarez,El Paso,Juarez,0.0,-0.6248247172822836,-0.0,0.0,False,0.75,0.25
+D,Revenue frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,2.0,0.4184463739471992,0.8368927478943984,0.8368927478943984,True,0.75,0.25
+D,Revenue frictions,Residential,Monaco–Nice,Monaco,Nice,2.0,0.7735959541807056,1.5471919083614112,1.5471919083614112,True,0.75,0.25
+D,Revenue frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,0.0,2.9819477040603384,0.0,0.0,False,0.75,0.25
+D,Revenue frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,2.0,6.825740766127952,13.651481532255904,13.651481532255904,True,0.75,0.25
+D,Revenue frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,0.0,1.2466608422434875,0.0,0.0,False,0.75,0.25
+D,Revenue frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,0.0,-0.16875702662152722,-0.0,0.0,False,0.75,0.25
+D,Revenue frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,2.0,-1.210452137173381,-2.420904274346762,2.420904274346762,False,0.75,0.25
+D,Revenue frictions,Non-residential,Monaco–Nice,Monaco,Nice,2.0,-0.46957211779869296,-0.9391442355973859,0.9391442355973859,False,0.75,0.25
+E,Administrative frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,2.0,1.0792269536554384,2.158453907310877,2.158453907310877,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,1.0,3.788547766916259,3.788547766916259,3.788547766916259,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,2.0,2.4329249435212477,4.865849887042495,4.865849887042495,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Residential,El Paso–Juarez,El Paso,Juarez,1.0,-0.6248247172822836,-0.6248247172822836,0.6248247172822836,False,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,0.4184463739471992,-0.4184463739471992,0.4184463739471992,False,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Residential,Monaco–Nice,Monaco,Nice,0.0,0.7735959541807056,0.0,0.0,False,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,2.0,2.9819477040603384,5.963895408120677,5.963895408120677,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,1.0,6.825740766127952,6.825740766127952,6.825740766127952,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,2.0,1.2466608422434875,2.493321684486975,2.493321684486975,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,1.0,-0.16875702662152722,-0.16875702662152722,0.16875702662152722,False,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,-1.210452137173381,1.210452137173381,1.210452137173381,True,0.45454545454545453,0.5454545454545454
+E,Administrative frictions,Non-residential,Monaco–Nice,Monaco,Nice,0.0,-0.46957211779869296,-0.0,0.0,False,0.45454545454545453,0.5454545454545454
+F,Administrative frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,1.0,1.0792269536554384,1.0792269536554384,1.0792269536554384,True,0.4,0.6
+F,Administrative frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,-1.0,3.788547766916259,-3.788547766916259,3.788547766916259,False,0.4,0.6
+F,Administrative frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,1.0,2.4329249435212477,2.4329249435212477,2.4329249435212477,True,0.4,0.6
+F,Administrative frictions,Residential,El Paso–Juarez,El Paso,Juarez,0.0,-0.6248247172822836,-0.0,0.0,False,0.4,0.6
+F,Administrative frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,0.4184463739471992,-0.4184463739471992,0.4184463739471992,False,0.4,0.6
+F,Administrative frictions,Residential,Monaco–Nice,Monaco,Nice,0.0,0.7735959541807056,0.0,0.0,False,0.4,0.6
+F,Administrative frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,1.0,2.9819477040603384,2.9819477040603384,2.9819477040603384,True,0.4,0.6
+F,Administrative frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,-1.0,6.825740766127952,-6.825740766127952,6.825740766127952,False,0.4,0.6
+F,Administrative frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,1.0,1.2466608422434875,1.2466608422434875,1.2466608422434875,True,0.4,0.6
+F,Administrative frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,0.0,-0.16875702662152722,-0.0,0.0,False,0.4,0.6
+F,Administrative frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,-1.210452137173381,1.210452137173381,1.210452137173381,True,0.4,0.6
+F,Administrative frictions,Non-residential,Monaco–Nice,Monaco,Nice,0.0,-0.46957211779869296,-0.0,0.0,False,0.4,0.6
+G,Administrative frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,-1.0,1.0792269536554384,-1.0792269536554384,1.0792269536554384,False,0.375,0.625
+G,Administrative frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,2.0,3.788547766916259,7.577095533832518,7.577095533832518,True,0.375,0.625
+G,Administrative frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,0.0,2.4329249435212477,0.0,0.0,False,0.375,0.625
+G,Administrative frictions,Residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.6248247172822836,0.6248247172822836,0.6248247172822836,True,0.375,0.625
+G,Administrative frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,0.4184463739471992,-0.4184463739471992,0.4184463739471992,False,0.375,0.625
+G,Administrative frictions,Residential,Monaco–Nice,Monaco,Nice,-1.0,0.7735959541807056,-0.7735959541807056,0.7735959541807056,False,0.375,0.625
+G,Administrative frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,-1.0,2.9819477040603384,-2.9819477040603384,2.9819477040603384,False,0.375,0.625
+G,Administrative frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,2.0,6.825740766127952,13.651481532255904,13.651481532255904,True,0.375,0.625
+G,Administrative frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,0.0,1.2466608422434875,0.0,0.0,False,0.375,0.625
+G,Administrative frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,-1.0,-0.16875702662152722,0.16875702662152722,0.16875702662152722,True,0.375,0.625
+G,Administrative frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,-1.210452137173381,1.210452137173381,1.210452137173381,True,0.375,0.625
+G,Administrative frictions,Non-residential,Monaco–Nice,Monaco,Nice,-1.0,-0.46957211779869296,0.46957211779869296,0.46957211779869296,True,0.375,0.625
+H,Administrative frictions,Residential,Vienna–Bratislava,Vienna,Bratislava,-1.0,1.0792269536554384,-1.0792269536554384,1.0792269536554384,False,0.4,0.6
+H,Administrative frictions,Residential,Singapore–Johor Bahru,Singapore,Johor Bahru,1.0,3.788547766916259,3.788547766916259,3.788547766916259,True,0.4,0.6
+H,Administrative frictions,Residential,San Diego–Tijuana,San Diego,Tijuana,1.0,2.4329249435212477,2.4329249435212477,2.4329249435212477,True,0.4,0.6
+H,Administrative frictions,Residential,El Paso–Juarez,El Paso,Juarez,0.0,-0.6248247172822836,-0.0,0.0,False,0.4,0.6
+H,Administrative frictions,Residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,0.4184463739471992,-0.4184463739471992,0.4184463739471992,False,0.4,0.6
+H,Administrative frictions,Residential,Monaco–Nice,Monaco,Nice,0.0,0.7735959541807056,0.0,0.0,False,0.4,0.6
+H,Administrative frictions,Non-residential,Vienna–Bratislava,Vienna,Bratislava,-1.0,2.9819477040603384,-2.9819477040603384,2.9819477040603384,False,0.4,0.6
+H,Administrative frictions,Non-residential,Singapore–Johor Bahru,Singapore,Johor Bahru,1.0,6.825740766127952,6.825740766127952,6.825740766127952,True,0.4,0.6
+H,Administrative frictions,Non-residential,San Diego–Tijuana,San Diego,Tijuana,1.0,1.2466608422434875,1.2466608422434875,1.2466608422434875,True,0.4,0.6
+H,Administrative frictions,Non-residential,El Paso–Juarez,El Paso,Juarez,0.0,-0.16875702662152722,-0.0,0.0,False,0.4,0.6
+H,Administrative frictions,Non-residential,Hong Kong–Shenzhen,Hong Kong,Shenzhen,-1.0,-1.210452137173381,1.210452137173381,1.210452137173381,True,0.4,0.6
+H,Administrative frictions,Non-residential,Monaco–Nice,Monaco,Nice,0.0,-0.46957211779869296,-0.0,0.0,False,0.4,0.6

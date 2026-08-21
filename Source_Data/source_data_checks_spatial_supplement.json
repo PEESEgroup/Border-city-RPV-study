@@ -1,0 +1,38 @@
+{
+  "status": "pass",
+  "primary_city_count": 12,
+  "primary_pair_count": 6,
+  "scenario_count": 10,
+  "base_eligible_cell_count": 5238,
+  "maximum_base_eligible_count_error": 0,
+  "maximum_base_median_error_percentage_points": 4.440892098500626e-16,
+  "base_direction_disagreement_count": 3,
+  "base_direction_disagreement_pairs": [
+    "El Paso--Juarez",
+    "Hong Kong--Shenzhen",
+    "Monaco--Nice"
+  ],
+  "direction_disagreement_scenario_count_by_pair": {
+    "Vienna--Bratislava": 0,
+    "Singapore--Johor Bahru": 0,
+    "San Diego--Tijuana": 0,
+    "El Paso--Juarez": 10,
+    "Hong Kong--Shenzhen": 10,
+    "Monaco--Nice": 6
+  },
+  "all_scenario_pair_comparisons_available": true,
+  "minimum_eligible_cells_in_any_city_scenario": 2,
+  "all_scenario_concentration_summaries_available": true,
+  "zero_pv_cells_retained_in_atlas": true,
+  "atlas_plotted_cell_count": 5238,
+  "atlas_zero_pv_eligible_cell_count": 582,
+  "scenario_pair_rows": 60,
+  "scenario_city_rows": 120,
+  "current_supplementary_numbers": {
+    "grid_atlas_figure": "S1",
+    "grid_sensitivity_figure": "S2",
+    "scenario_definition_table": "S25",
+    "direction_sensitivity_table": "S26",
+    "concentration_sensitivity_table": "S27"
+  }
+}
