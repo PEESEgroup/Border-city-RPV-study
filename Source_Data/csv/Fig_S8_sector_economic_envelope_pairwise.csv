@@ -1,0 +1,29 @@
+pair,scope,sector,support_case,scenario_count,economic_leader_count,economic_leaders,stable_economic_direction,observed_pv_leader,aligned_scenario_count,alignment_share,irr_gap_min_city1_minus_city2_pp,irr_gap_max_city1_minus_city2_pp
+Vienna--Bratislava,primary,Residential,no_capital_support,9,1,Vienna,True,Vienna,9,1.0,2.007957549932625,3.2660880159175463
+Vienna--Bratislava,primary,Residential,policy_realized,9,1,Vienna,True,Vienna,9,1.0,3.971650565833757,5.583733519255754
+Vienna--Bratislava,primary,Small commercial,no_capital_support,9,1,Vienna,True,Vienna,9,1.0,5.021913905302238,5.139142053866733
+Vienna--Bratislava,primary,Small commercial,policy_realized,9,1,Vienna,True,Vienna,9,1.0,7.929256476422152,8.128951056792344
+Singapore--Johor Bahru,primary,Residential,no_capital_support,9,1,Singapore,True,Singapore,9,1.0,8.46987150318381,9.08207630452458
+Singapore--Johor Bahru,primary,Residential,policy_realized,9,1,Singapore,True,Singapore,9,1.0,8.46987150318381,9.08207630452458
+Singapore--Johor Bahru,primary,Small commercial,no_capital_support,9,1,Singapore,True,Singapore,9,1.0,4.08809112830512,14.516242215070797
+Singapore--Johor Bahru,primary,Small commercial,policy_realized,9,1,Singapore,True,Singapore,9,1.0,4.08809112830512,14.516242215070797
+San Diego--Tijuana,primary,Residential,no_capital_support,9,2,San Diego; Tijuana,False,San Diego,3,0.3333333333333333,-6.666497590611876,2.4752349570362195
+San Diego--Tijuana,primary,Residential,policy_realized,9,2,San Diego; Tijuana,False,San Diego,6,0.6666666666666666,-4.42120331610507,7.297888141611667
+San Diego--Tijuana,primary,Small commercial,no_capital_support,9,1,San Diego,True,San Diego,9,1.0,5.0197567659491344,12.629194255113635
+San Diego--Tijuana,primary,Small commercial,policy_realized,9,1,San Diego,True,San Diego,9,1.0,8.863023378549652,18.965415686196742
+El Paso--Ciudad Juarez,primary,Residential,no_capital_support,9,1,Ciudad Juarez,True,Ciudad Juarez,9,1.0,-12.83806682782808,-6.3227797502729
+El Paso--Ciudad Juarez,primary,Residential,policy_realized,9,1,Ciudad Juarez,True,Ciudad Juarez,9,1.0,-11.624007172728389,-3.869124079693593
+El Paso--Ciudad Juarez,primary,Small commercial,no_capital_support,9,1,Ciudad Juarez,True,Ciudad Juarez,9,1.0,-9.820919779190376,-5.951405731354458
+El Paso--Ciudad Juarez,primary,Small commercial,policy_realized,9,1,Ciudad Juarez,True,Ciudad Juarez,9,1.0,-8.262583474019852,-3.654293090471909
+Hong Kong--Shenzhen,primary,Residential,no_capital_support,9,1,Hong Kong,True,Hong Kong,9,1.0,7.929425262296064,10.46419680304569
+Hong Kong--Shenzhen,primary,Residential,policy_realized,9,1,Hong Kong,True,Hong Kong,9,1.0,4.475074183481354,7.394058066565943
+Hong Kong--Shenzhen,primary,Small commercial,no_capital_support,9,1,Hong Kong,True,Shenzhen,0,0.0,0.4575630488283586,4.687776076673305
+Hong Kong--Shenzhen,primary,Small commercial,policy_realized,9,2,Hong Kong; Shenzhen,False,Shenzhen,6,0.6666666666666666,-3.919478913285136,0.9999715338589787
+Monaco--Nice,primary,Residential,no_capital_support,9,1,Nice,True,Monaco,0,0.0,-2.383072365494224,-2.290999768866202
+Monaco--Nice,primary,Residential,policy_realized,9,1,Nice,True,Monaco,0,0.0,-2.819555598622115,-2.6855014767625374
+Monaco--Nice,primary,Small commercial,no_capital_support,9,2,Monaco; Nice,False,Nice,6,0.6666666666666666,-0.9146783469174712,0.3579153055728277
+Monaco--Nice,primary,Small commercial,policy_realized,9,2,Monaco; Nice,False,Nice,6,0.6666666666666666,-1.0930366703433627,0.4299886509714739
+Detroit--Windsor,supplementary candidate,Residential,no_capital_support,9,1,Windsor,True,Windsor,9,1.0,-2.622577625650873,-0.4628129947662954
+Detroit--Windsor,supplementary candidate,Residential,policy_realized,9,1,Windsor,True,Windsor,9,1.0,-2.8168975854199205,-0.3287684553700756
+Detroit--Windsor,supplementary candidate,Small commercial,no_capital_support,9,1,Windsor,True,Windsor,9,1.0,-2.922706461934684,-1.8488294433342616
+Detroit--Windsor,supplementary candidate,Small commercial,policy_realized,9,2,Detroit; Windsor,False,Windsor,3,0.3333333333333333,-0.0421611751409922,1.2078430007612708

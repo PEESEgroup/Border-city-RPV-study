@@ -1,0 +1,253 @@
+pair,scope,city_1,city_2,sector,support_case,self_consumption_case,export_case,city_1_irr_pct,city_2_irr_pct,economic_leader,observed_pv_leader,aligned_with_observed_sector_leader
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,low,low,10.403107426159234,8.39514987622661,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,low,middle,10.403107426159234,8.39514987622661,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,low,high,10.403107426159234,8.39514987622661,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,middle,low,11.564575370205372,8.91883414112927,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,middle,middle,11.564575370205372,8.91883414112927,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,middle,high,11.564575370205372,8.91883414112927,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,high,low,12.701297458546252,9.435209442628706,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,high,middle,12.701297458546252,9.435209442628706,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,no_capital_support,high,high,12.701297458546252,9.435209442628706,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,low,low,13.705918075476738,9.73426750964298,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,low,middle,13.705918075476738,9.73426750964298,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,low,high,13.705918075476738,9.73426750964298,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,middle,low,15.081050928028176,10.296424165736472,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,middle,middle,15.081050928028176,10.296424165736472,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,middle,high,15.081050928028176,10.296424165736472,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,high,low,16.43532603781709,10.851592518561338,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,high,middle,16.43532603781709,10.851592518561338,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,high,high,16.43532603781709,10.851592518561338,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,low,low,16.285171387550278,11.26325748224804,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,low,middle,16.285171387550278,11.26325748224804,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,low,high,16.285171387550278,11.26325748224804,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,middle,low,16.559905414382385,11.479483692811725,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,middle,middle,16.559905414382385,11.479483692811725,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,middle,high,16.559905414382385,11.479483692811725,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,high,low,16.833970978549097,11.694828924682364,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,high,middle,16.833970978549097,11.694828924682364,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,no_capital_support,high,high,16.833970978549097,11.694828924682364,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,low,low,20.752808004503223,12.82355152808107,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,low,middle,20.752808004503223,12.82355152808107,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,low,high,20.752808004503223,12.82355152808107,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,middle,low,21.08638737305755,13.057451323421184,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,middle,middle,21.08638737305755,13.057451323421184,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,middle,high,21.08638737305755,13.057451323421184,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,high,low,21.419480789305176,13.290529732512832,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,high,middle,21.419480789305176,13.290529732512832,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,high,high,21.419480789305176,13.290529732512832,Vienna,Vienna,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,low,low,25.31525838328253,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,low,middle,25.31525838328253,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,low,high,25.31525838328253,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,middle,low,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,middle,middle,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,middle,high,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,high,low,25.9274631846233,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,high,middle,25.9274631846233,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,no_capital_support,high,high,25.9274631846233,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,low,low,25.31525838328253,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,low,middle,25.31525838328253,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,low,high,25.31525838328253,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,middle,low,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,middle,middle,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,middle,high,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,high,low,25.9274631846233,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,high,middle,25.9274631846233,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,high,high,25.9274631846233,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,low,low,20.23095807240137,16.14286694409625,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,low,middle,25.47603881722488,16.14286694409625,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,low,high,30.65910915916705,16.14286694409625,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,middle,low,24.38769797040444,18.348201479597268,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,middle,middle,27.50824983225449,18.348201479597268,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,middle,high,30.6135229472421,18.348201479597268,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,high,low,28.49897610735592,20.52098666495085,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,high,middle,29.53405076099143,20.52098666495085,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,no_capital_support,high,high,30.567934799382595,20.52098666495085,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,low,low,20.23095807240137,16.14286694409625,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,low,middle,25.47603881722488,16.14286694409625,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,low,high,30.65910915916705,16.14286694409625,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,middle,low,24.38769797040444,18.348201479597268,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,middle,middle,27.50824983225449,18.348201479597268,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,middle,high,30.6135229472421,18.348201479597268,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,high,low,28.49897610735592,20.52098666495085,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,high,middle,29.53405076099143,20.52098666495085,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,high,high,30.567934799382595,20.52098666495085,Singapore,Singapore,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,low,low,3.4771467167945964,10.143644307406472,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,low,middle,3.4771467167945964,10.143644307406472,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,low,high,3.4771467167945964,10.143644307406472,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,middle,low,8.364877605267841,10.143644307406475,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,middle,middle,8.364877605267841,10.143644307406475,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,middle,high,8.364877605267841,10.143644307406475,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,high,low,12.618879264442691,10.143644307406472,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,high,middle,12.618879264442691,10.143644307406472,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,no_capital_support,high,high,12.618879264442691,10.143644307406472,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,low,low,7.193399747781524,11.614603063886594,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,low,middle,7.193399747781524,11.614603063886594,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,low,high,7.193399747781524,11.614603063886594,Tijuana,San Diego,False
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,middle,low,13.321015872748996,11.614603063886602,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,middle,middle,13.321015872748996,11.614603063886602,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,middle,high,13.321015872748996,11.614603063886602,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,high,low,18.912491205498263,11.614603063886594,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,high,middle,18.912491205498263,11.614603063886594,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,high,high,18.912491205498263,11.614603063886594,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,low,low,7.94240556178362,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,low,middle,7.94240556178362,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,low,high,7.94240556178362,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,middle,low,11.880359729803372,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,middle,middle,11.880359729803372,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,middle,high,11.880359729803372,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,high,low,15.551843050948122,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,high,middle,15.551843050948122,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,no_capital_support,high,high,15.551843050948122,2.9226487958344856,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,low,low,12.778132163024956,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,low,middle,12.778132163024956,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,low,high,12.778132163024956,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,middle,low,17.926629782500907,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,middle,middle,17.926629782500907,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,middle,high,17.926629782500907,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,high,low,22.880524470672047,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,high,middle,22.880524470672047,3.9151087844753016,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,high,high,22.880524470672047,3.9151087844753016,San Diego,San Diego,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,low,low,-1.81491596245272,11.023150865375362,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,low,middle,-1.81491596245272,11.023150865375362,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,low,high,-1.81491596245272,11.023150865375362,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,middle,low,1.7889670699616642,11.023150865375364,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,middle,middle,1.7889670699616642,11.023150865375364,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,middle,high,1.7889670699616642,11.023150865375364,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,high,low,4.700371115102462,11.023150865375362,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,high,middle,4.700371115102462,11.023150865375362,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,no_capital_support,high,high,4.700371115102462,11.023150865375362,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,low,low,0.939969346725956,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,low,middle,0.939969346725956,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,low,high,0.939969346725956,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,middle,low,5.156625730493325,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,middle,middle,5.156625730493325,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,middle,high,5.156625730493325,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,high,low,8.69485243976075,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,high,middle,8.69485243976075,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,high,high,8.69485243976075,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,low,low,-0.4152549653057999,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,low,middle,-0.4152549653057999,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,low,high,-0.4152549653057999,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,middle,low,1.6422591922451115,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,middle,middle,1.6422591922451115,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,middle,high,1.6422591922451115,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,high,low,3.4542590825301174,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,high,middle,3.4542590825301174,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,no_capital_support,high,high,3.4542590825301174,9.405664813884576,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,low,low,2.557222180982588,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,low,middle,2.557222180982588,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,low,high,2.557222180982588,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,middle,low,4.981536984577482,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,middle,middle,4.981536984577482,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,middle,high,4.981536984577482,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,high,low,7.165512564530531,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,high,middle,7.165512564530531,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,high,high,7.165512564530531,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,low,low,26.102134008201343,15.637937205155652,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,low,middle,26.102134008201343,15.637937205155652,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,low,high,26.102134008201343,15.637937205155652,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,middle,low,26.102134008201343,16.91209823926904,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,middle,middle,26.102134008201343,16.91209823926904,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,middle,high,26.102134008201343,16.91209823926904,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,high,low,26.102134008201343,18.17270874590528,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,high,middle,26.102134008201343,18.17270874590528,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,no_capital_support,high,high,26.102134008201343,18.17270874590528,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,low,low,26.102134008201343,18.7080759416354,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,low,middle,26.102134008201343,18.7080759416354,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,low,high,26.102134008201343,18.7080759416354,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,middle,low,26.102134008201343,20.172973163884016,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,middle,middle,26.102134008201343,20.172973163884016,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,middle,high,26.102134008201343,20.172973163884016,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,high,low,26.102134008201343,21.62705982471999,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,high,middle,26.102134008201343,21.62705982471999,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,high,high,26.102134008201343,21.62705982471999,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,low,low,24.346758594825666,19.65898251815236,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,low,middle,24.346758594825666,19.65898251815236,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,low,high,24.346758594825666,19.65898251815236,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,middle,low,24.346758594825666,21.78289179946627,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,middle,middle,24.346758594825666,21.78289179946627,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,middle,high,24.346758594825666,21.78289179946627,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,high,low,24.346758594825666,23.889195545997307,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,high,middle,24.346758594825666,23.889195545997307,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,no_capital_support,high,high,24.346758594825666,23.889195545997307,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,low,low,24.346758594825666,23.346787060966687,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,low,middle,24.346758594825666,23.346787060966687,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,low,high,24.346758594825666,23.346787060966687,Hong Kong,Shenzhen,False
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,middle,low,24.346758594825666,25.812767039251,Shenzhen,Shenzhen,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,middle,middle,24.346758594825666,25.812767039251,Shenzhen,Shenzhen,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,middle,high,24.346758594825666,25.812767039251,Shenzhen,Shenzhen,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,high,low,24.346758594825666,28.2662375081108,Shenzhen,Shenzhen,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,high,middle,24.346758594825666,28.2662375081108,Shenzhen,Shenzhen,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,high,high,24.346758594825666,28.2662375081108,Shenzhen,Shenzhen,True
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,low,low,8.162879500704987,10.453879269571187,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,low,middle,8.162879500704987,10.453879269571187,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,low,high,8.162879500704987,10.453879269571187,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,middle,low,8.93076845732107,11.26635007418247,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,middle,middle,8.93076845732107,11.26635007418247,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,middle,high,8.93076845732107,11.26635007418247,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,high,low,9.683058304817528,12.06613067031175,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,high,middle,9.683058304817528,12.06613067031175,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,no_capital_support,high,high,9.683058304817528,12.06613067031175,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,low,low,11.080338019409282,13.76583949617182,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,low,middle,11.080338019409282,13.76583949617182,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,low,high,11.080338019409282,13.76583949617182,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,middle,low,11.976177982690851,14.727107553043348,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,middle,middle,11.976177982690851,14.727107553043348,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,middle,high,11.976177982690851,14.727107553043348,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,high,low,12.85804770864617,15.677603307268283,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,high,middle,12.85804770864617,15.677603307268283,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,high,high,12.85804770864617,15.677603307268283,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,low,low,12.265396415077277,13.180074761994748,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,low,middle,12.265396415077277,13.180074761994748,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,low,high,12.265396415077277,13.180074761994748,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,middle,low,13.142783003610198,13.41590411737958,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,middle,middle,13.142783003610198,13.41590411737958,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,middle,high,13.142783003610198,13.41590411737958,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,high,low,14.0088574114319,13.650942105859071,Monaco,Nice,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,high,middle,14.0088574114319,13.650942105859071,Monaco,Nice,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,no_capital_support,high,high,14.0088574114319,13.650942105859071,Monaco,Nice,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,low,low,15.91505078795107,17.008087458294433,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,low,middle,15.91505078795107,17.008087458294433,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,low,high,15.91505078795107,17.008087458294433,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,middle,low,16.9634270665476,17.290700795069704,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,middle,middle,16.9634270665476,17.290700795069704,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,middle,high,16.9634270665476,17.290700795069704,Nice,Nice,True
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,high,low,18.00266908254517,17.572680431573698,Monaco,Nice,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,high,middle,18.00266908254517,17.572680431573698,Monaco,Nice,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,high,high,18.00266908254517,17.572680431573698,Monaco,Nice,False
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,low,low,-2.471855464741895,0.1507221609089783,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,low,middle,-2.471855464741895,0.1507221609089783,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,low,high,-2.471855464741895,0.1507221609089783,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,middle,low,-1.3408846431004406,0.1507221609089783,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,middle,middle,-1.3408846431004406,0.1507221609089783,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,middle,high,-1.3408846431004406,0.1507221609089783,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,high,low,-0.3120908338573134,0.150722160908982,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,high,middle,-0.3120908338573134,0.150722160908982,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,no_capital_support,high,high,-0.3120908338573134,0.150722160908982,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,low,low,0.1892916221369744,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,low,middle,0.1892916221369744,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,low,high,0.1892916221369744,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,middle,low,1.4849176186442314,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,middle,middle,1.4849176186442314,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,middle,high,1.4849176186442314,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,high,low,2.677420752186824,3.0061892075568992,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,high,middle,2.677420752186824,3.0061892075568992,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,high,high,2.677420752186824,3.0061892075568992,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,low,low,-0.987232634149655,1.9354738277850287,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,low,middle,-0.987232634149655,1.9354738277850287,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,low,high,-0.987232634149655,1.9354738277850287,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,middle,low,-0.4386972276210104,1.9354738277850356,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,middle,middle,-0.4386972276210104,1.9354738277850356,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,middle,high,-0.4386972276210104,1.9354738277850356,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,high,low,0.0866443844507626,1.9354738277850243,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,high,middle,0.0866443844507626,1.9354738277850243,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,no_capital_support,high,high,0.0866443844507626,1.9354738277850243,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,low,low,1.8933126526440365,1.9354738277850287,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,low,middle,1.8933126526440365,1.9354738277850287,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,low,high,1.8933126526440365,1.9354738277850287,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,middle,low,2.529928601432049,1.9354738277850356,Detroit,Windsor,False
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,middle,middle,2.529928601432049,1.9354738277850356,Detroit,Windsor,False
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,middle,high,2.529928601432049,1.9354738277850356,Detroit,Windsor,False
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,high,low,3.143316828546295,1.9354738277850243,Detroit,Windsor,False
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,high,middle,3.143316828546295,1.9354738277850243,Detroit,Windsor,False
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,high,high,3.143316828546295,1.9354738277850243,Detroit,Windsor,False

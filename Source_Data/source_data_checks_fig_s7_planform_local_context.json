@@ -1,0 +1,11 @@
+{
+  "primary_city_count": 12,
+  "building_count": 4709656,
+  "pv_positive_buildings": 136718,
+  "model_eligible_buildings": 4671361,
+  "model_eligible_pv_positive": 134863,
+  "prevalence_model_sample": 686095,
+  "intensity_model_sample": 134863,
+  "all_coefficients_finite": true,
+  "all_sensitivity_directions_match_primary": true
+}

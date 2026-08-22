@@ -1,0 +1,15 @@
+pair,scope,city_1,city_2,sector,support_case,self_consumption_case,export_case,city_1_irr_pct,city_2_irr_pct,economic_leader,observed_pv_leader,aligned_with_observed_sector_leader
+Vienna--Bratislava,primary,Vienna,Bratislava,Residential,policy_realized,middle,middle,15.081050928028176,10.296424165736472,Vienna,Vienna,True
+Vienna--Bratislava,primary,Vienna,Bratislava,Small commercial,policy_realized,middle,middle,21.08638737305755,13.057451323421184,Vienna,Vienna,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Residential,policy_realized,middle,middle,25.621459000012564,16.84538688009872,Singapore,Singapore,True
+Singapore--Johor Bahru,primary,Singapore,Johor Bahru,Small commercial,policy_realized,middle,middle,27.50824983225449,18.348201479597268,Singapore,Singapore,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Residential,policy_realized,middle,middle,13.321015872748996,11.614603063886602,San Diego,San Diego,True
+San Diego--Tijuana,primary,San Diego,Tijuana,Small commercial,policy_realized,middle,middle,17.926629782500907,3.9151087844753016,San Diego,San Diego,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Residential,policy_realized,middle,middle,5.156625730493325,12.563976519454345,Ciudad Juarez,Ciudad Juarez,True
+El Paso--Ciudad Juarez,primary,El Paso,Ciudad Juarez,Small commercial,policy_realized,middle,middle,4.981536984577482,10.81980565500244,Ciudad Juarez,Ciudad Juarez,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Residential,policy_realized,middle,middle,26.102134008201343,20.172973163884016,Hong Kong,Hong Kong,True
+Hong Kong--Shenzhen,primary,Hong Kong,Shenzhen,Small commercial,policy_realized,middle,middle,24.346758594825666,25.812767039251,Shenzhen,Shenzhen,True
+Monaco--Nice,primary,Monaco,Nice,Residential,policy_realized,middle,middle,11.976177982690851,14.727107553043348,Nice,Monaco,False
+Monaco--Nice,primary,Monaco,Nice,Small commercial,policy_realized,middle,middle,16.9634270665476,17.290700795069704,Nice,Nice,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Residential,policy_realized,middle,middle,1.4849176186442314,3.006189207556895,Windsor,Windsor,True
+Detroit--Windsor,supplementary candidate,Detroit,Windsor,Small commercial,policy_realized,middle,middle,2.529928601432049,1.9354738277850356,Detroit,Windsor,False

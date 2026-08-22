@@ -4,7 +4,7 @@ This repository contains the redistributable numerical data, spatial summary dat
 
 ## Scope
 
-The primary analysis covers 12 cities in six border-city pairs. Detroit–Windsor is retained as a separately reported Supplementary sensitivity. The repository supports numerical verification of all six main figures, all six Supplementary figures and the machine-readable Supplementary tables. Economic-return and documented-policy indicators are contextual diagnostics, not causal estimates.
+The primary analysis covers 12 cities in six border-city pairs. Detroit–Windsor is retained as a separately reported Supplementary sensitivity. The repository supports numerical verification of all six main figures, all eight Supplementary figures and the machine-readable Supplementary tables. Economic-return and documented-policy indicators are contextual diagnostics, not causal estimates.
 
 ## Quick start
 

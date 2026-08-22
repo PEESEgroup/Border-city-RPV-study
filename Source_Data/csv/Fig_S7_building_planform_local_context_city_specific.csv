@@ -1,0 +1,133 @@
+city_key,City,outcome,feature,feature_label,coefficient,multiplicative_effect_per_sd,model_metric_name,model_metric,sample_size,positive_count
+vienna,Vienna,PV-positive prevalence,log_footprint_area,Footprint area,1.4109211938767714,4.099730311552816,weighted ROC AUC,0.7572030492894152,66535,16535
+vienna,Vienna,PV-positive prevalence,compactness,Planform compactness,0.26250144529861463,1.3001783473130972,weighted ROC AUC,0.7572030492894152,66535,16535
+vienna,Vienna,PV-positive prevalence,log_elongation,Planform elongation,-0.10777331387062848,0.8978310992206452,weighted ROC AUC,0.7572030492894152,66535,16535
+vienna,Vienna,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.15850816444821372,1.171761490972158,weighted ROC AUC,0.7572030492894152,66535,16535
+vienna,Vienna,PV-positive prevalence,log_local_building_density,Local building density,0.2806369500623845,1.323972848411386,weighted ROC AUC,0.7572030492894152,66535,16535
+vienna,Vienna,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.4694508020267991,0.6253456125350414,weighted ROC AUC,0.7572030492894152,66535,16535
+vienna,Vienna,Conditional intensity,log_footprint_area,Footprint area,-0.5321058846449144,0.5873667397530858,R-squared,0.2268119846031058,16535,16535
+vienna,Vienna,Conditional intensity,compactness,Planform compactness,0.2597334146353042,1.296584390166494,R-squared,0.2268119846031058,16535,16535
+vienna,Vienna,Conditional intensity,log_elongation,Planform elongation,0.10637077894606005,1.1122341930845379,R-squared,0.2268119846031058,16535,16535
+vienna,Vienna,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,0.02441535488859329,1.0247158502488511,R-squared,0.2268119846031058,16535,16535
+vienna,Vienna,Conditional intensity,log_local_building_density,Local building density,0.04673738716443188,1.0478467949257961,R-squared,0.2268119846031058,16535,16535
+vienna,Vienna,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,-0.1133074766571685,0.8928760793524462,R-squared,0.2268119846031058,16535,16535
+bratislava,Bratislava,PV-positive prevalence,log_footprint_area,Footprint area,1.1243135327964449,3.078103106661785,weighted ROC AUC,0.7901412301886394,52650,2650
+bratislava,Bratislava,PV-positive prevalence,compactness,Planform compactness,-0.0479182772573967,0.9532116829675421,weighted ROC AUC,0.7901412301886394,52650,2650
+bratislava,Bratislava,PV-positive prevalence,log_elongation,Planform elongation,-0.18303530087429637,0.8327387588119789,weighted ROC AUC,0.7901412301886394,52650,2650
+bratislava,Bratislava,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.11369468114469489,1.120409990361021,weighted ROC AUC,0.7901412301886394,52650,2650
+bratislava,Bratislava,PV-positive prevalence,log_local_building_density,Local building density,0.19088408348256666,1.2103191479690592,weighted ROC AUC,0.7901412301886394,52650,2650
+bratislava,Bratislava,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.33724558152627193,0.7137335386064587,weighted ROC AUC,0.7901412301886394,52650,2650
+bratislava,Bratislava,Conditional intensity,log_footprint_area,Footprint area,-0.7290045054260894,0.48238896674239395,R-squared,0.26713763429637494,2650,2650
+bratislava,Bratislava,Conditional intensity,compactness,Planform compactness,0.04870129893194826,1.0499066956464602,R-squared,0.26713763429637494,2650,2650
+bratislava,Bratislava,Conditional intensity,log_elongation,Planform elongation,0.005370324090276028,1.0053847701290863,R-squared,0.26713763429637494,2650,2650
+bratislava,Bratislava,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,-0.03336200389284487,0.967188370252759,R-squared,0.26713763429637494,2650,2650
+bratislava,Bratislava,Conditional intensity,log_local_building_density,Local building density,0.07825580790647158,1.081399253770135,R-squared,0.26713763429637494,2650,2650
+bratislava,Bratislava,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,-0.08499119749234106,0.9185203696484608,R-squared,0.26713763429637494,2650,2650
+singapore,Singapore,PV-positive prevalence,log_footprint_area,Footprint area,1.686679918373038,5.401517423096429,weighted ROC AUC,0.8834697242198438,62655,12655
+singapore,Singapore,PV-positive prevalence,compactness,Planform compactness,-0.09934370874701066,0.9054314498264063,weighted ROC AUC,0.8834697242198438,62655,12655
+singapore,Singapore,PV-positive prevalence,log_elongation,Planform elongation,0.08061755509135433,1.0839562637304472,weighted ROC AUC,0.8834697242198438,62655,12655
+singapore,Singapore,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,-0.04714533810276627,0.9539487424143164,weighted ROC AUC,0.8834697242198438,62655,12655
+singapore,Singapore,PV-positive prevalence,log_local_building_density,Local building density,-0.2853312576238767,0.7517651851196886,weighted ROC AUC,0.8834697242198438,62655,12655
+singapore,Singapore,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,0.32156916142904146,1.3792903964222945,weighted ROC AUC,0.8834697242198438,62655,12655
+singapore,Singapore,Conditional intensity,log_footprint_area,Footprint area,-0.4278065048703201,0.651937549335781,R-squared,0.13219216064749184,12655,12655
+singapore,Singapore,Conditional intensity,compactness,Planform compactness,0.10602104915450888,1.1118452796633032,R-squared,0.13219216064749184,12655,12655
+singapore,Singapore,Conditional intensity,log_elongation,Planform elongation,0.1295644379786554,1.1383324609423342,R-squared,0.13219216064749184,12655,12655
+singapore,Singapore,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,-0.025620734388920145,0.9747046914861169,R-squared,0.13219216064749184,12655,12655
+singapore,Singapore,Conditional intensity,log_local_building_density,Local building density,-0.2682018432848266,0.7647534051841322,R-squared,0.13219216064749184,12655,12655
+singapore,Singapore,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,0.20360486014296228,1.2258136899009018,R-squared,0.13219216064749184,12655,12655
+johorbahru,Johor Bahru,PV-positive prevalence,log_footprint_area,Footprint area,1.1782205135764887,3.248588237728635,weighted ROC AUC,0.8183705412637743,54859,4859
+johorbahru,Johor Bahru,PV-positive prevalence,compactness,Planform compactness,0.0877674951741366,1.0917342590333696,weighted ROC AUC,0.8183705412637743,54859,4859
+johorbahru,Johor Bahru,PV-positive prevalence,log_elongation,Planform elongation,-0.16277504695415665,0.84978232803806,weighted ROC AUC,0.8183705412637743,54859,4859
+johorbahru,Johor Bahru,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.05770453574450182,1.059401934059581,weighted ROC AUC,0.8183705412637743,54859,4859
+johorbahru,Johor Bahru,PV-positive prevalence,log_local_building_density,Local building density,-0.11456607333128946,0.8917530153791124,weighted ROC AUC,0.8183705412637743,54859,4859
+johorbahru,Johor Bahru,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.06796967620523041,0.9342888043296215,weighted ROC AUC,0.8183705412637743,54859,4859
+johorbahru,Johor Bahru,Conditional intensity,log_footprint_area,Footprint area,-0.6440826302354615,0.5251440724962474,R-squared,0.2677042174938379,4859,4859
+johorbahru,Johor Bahru,Conditional intensity,compactness,Planform compactness,0.16584096192819803,1.1803853605829469,R-squared,0.2677042174938379,4859,4859
+johorbahru,Johor Bahru,Conditional intensity,log_elongation,Planform elongation,-0.04312862358120962,0.9577881879970743,R-squared,0.2677042174938379,4859,4859
+johorbahru,Johor Bahru,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,-0.013327462005695298,0.9867609553870572,R-squared,0.2677042174938379,4859,4859
+johorbahru,Johor Bahru,Conditional intensity,log_local_building_density,Local building density,-0.15536800755010843,0.8561000682171229,R-squared,0.2677042174938379,4859,4859
+johorbahru,Johor Bahru,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,0.12032274163220619,1.127860800481134,R-squared,0.2677042174938379,4859,4859
+sandiego,San Diego,PV-positive prevalence,log_footprint_area,Footprint area,0.8825317394056885,2.417011209309049,weighted ROC AUC,0.7484513315863793,109155,59155
+sandiego,San Diego,PV-positive prevalence,compactness,Planform compactness,0.05821388302831095,1.0599416750032793,weighted ROC AUC,0.7484513315863793,109155,59155
+sandiego,San Diego,PV-positive prevalence,log_elongation,Planform elongation,-0.22494078144256083,0.7985635071381048,weighted ROC AUC,0.7484513315863793,109155,59155
+sandiego,San Diego,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,-0.04587130512513785,0.9551648791057458,weighted ROC AUC,0.7484513315863793,109155,59155
+sandiego,San Diego,PV-positive prevalence,log_local_building_density,Local building density,0.01984688262534281,1.0200451414346134,weighted ROC AUC,0.7484513315863793,109155,59155
+sandiego,San Diego,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.276628173413955,0.7583364143351166,weighted ROC AUC,0.7484513315863793,109155,59155
+sandiego,San Diego,Conditional intensity,log_footprint_area,Footprint area,-0.22630357503603818,0.7974759711184671,R-squared,0.09502789098445841,59155,59155
+sandiego,San Diego,Conditional intensity,compactness,Planform compactness,0.05964728017621515,1.0614620817902274,R-squared,0.09502789098445841,59155,59155
+sandiego,San Diego,Conditional intensity,log_elongation,Planform elongation,0.021759409351897116,1.021997871759149,R-squared,0.09502789098445841,59155,59155
+sandiego,San Diego,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,0.011768120235966633,1.011837636989113,R-squared,0.09502789098445841,59155,59155
+sandiego,San Diego,Conditional intensity,log_local_building_density,Local building density,-0.025547474342163944,0.9747761010130894,R-squared,0.09502789098445841,59155,59155
+sandiego,San Diego,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,0.008810963592964535,1.0088498943879527,R-squared,0.09502789098445841,59155,59155
+tijuana,Tijuana,PV-positive prevalence,log_footprint_area,Footprint area,1.2760079189696056,3.5823102695528046,weighted ROC AUC,0.8366777033707634,54450,4450
+tijuana,Tijuana,PV-positive prevalence,compactness,Planform compactness,-0.15201057722232464,0.8589791950791544,weighted ROC AUC,0.8366777033707634,54450,4450
+tijuana,Tijuana,PV-positive prevalence,log_elongation,Planform elongation,-0.14967334302658375,0.8609891786134595,weighted ROC AUC,0.8366777033707634,54450,4450
+tijuana,Tijuana,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,-0.143328307170968,0.8664695540258964,weighted ROC AUC,0.8366777033707634,54450,4450
+tijuana,Tijuana,PV-positive prevalence,log_local_building_density,Local building density,-0.19888118472771596,0.8196472741617026,weighted ROC AUC,0.8366777033707634,54450,4450
+tijuana,Tijuana,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,0.27050269074613753,1.310623123280827,weighted ROC AUC,0.8366777033707634,54450,4450
+tijuana,Tijuana,Conditional intensity,log_footprint_area,Footprint area,-0.8062356089251834,0.4465358418775784,R-squared,0.35822462356492635,4450,4450
+tijuana,Tijuana,Conditional intensity,compactness,Planform compactness,0.0681644405074305,1.070541334365733,R-squared,0.35822462356492635,4450,4450
+tijuana,Tijuana,Conditional intensity,log_elongation,Planform elongation,0.040109654787053015,1.0409249103338676,R-squared,0.35822462356492635,4450,4450
+tijuana,Tijuana,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,-0.03090818139710275,0.9695645930554714,R-squared,0.35822462356492635,4450,4450
+tijuana,Tijuana,Conditional intensity,log_local_building_density,Local building density,-0.1797036063369456,0.8355178169014089,R-squared,0.35822462356492635,4450,4450
+tijuana,Tijuana,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,0.1320774223449073,1.141196669969221,R-squared,0.35822462356492635,4450,4450
+elpaso,El Paso,PV-positive prevalence,log_footprint_area,Footprint area,0.8572877507114209,2.3567598969974983,weighted ROC AUC,0.7166646971227275,60879,10879
+elpaso,El Paso,PV-positive prevalence,compactness,Planform compactness,-0.004482180184968589,0.9955278497936506,weighted ROC AUC,0.7166646971227275,60879,10879
+elpaso,El Paso,PV-positive prevalence,log_elongation,Planform elongation,-0.2909237070458268,0.7475727103730135,weighted ROC AUC,0.7166646971227275,60879,10879
+elpaso,El Paso,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.07739976021830094,1.0804739205601415,weighted ROC AUC,0.7166646971227275,60879,10879
+elpaso,El Paso,PV-positive prevalence,log_local_building_density,Local building density,0.017828164308225893,1.0179880346814523,weighted ROC AUC,0.7166646971227275,60879,10879
+elpaso,El Paso,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.11070026763366686,0.8952070312424085,weighted ROC AUC,0.7166646971227275,60879,10879
+elpaso,El Paso,Conditional intensity,log_footprint_area,Footprint area,-0.3586798978757425,0.6985979382483793,R-squared,0.17367812189503817,10879,10879
+elpaso,El Paso,Conditional intensity,compactness,Planform compactness,0.00043128629290335615,1.0004313793102084,R-squared,0.17367812189503817,10879,10879
+elpaso,El Paso,Conditional intensity,log_elongation,Planform elongation,0.009038356553186707,1.0090793258364168,R-squared,0.17367812189503817,10879,10879
+elpaso,El Paso,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,0.0029737180460320156,1.0029781439315653,R-squared,0.17367812189503817,10879,10879
+elpaso,El Paso,Conditional intensity,log_local_building_density,Local building density,-0.00624356442253321,0.9937758861245152,R-squared,0.17367812189503817,10879,10879
+elpaso,El Paso,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,-0.008466053844422311,0.9915696822703602,R-squared,0.17367812189503817,10879,10879
+juarez,Juarez,PV-positive prevalence,log_footprint_area,Footprint area,0.9552031705499215,2.599198609888867,weighted ROC AUC,0.8376369045529692,57973,7973
+juarez,Juarez,PV-positive prevalence,compactness,Planform compactness,-0.07082146667072985,0.9316282039659433,weighted ROC AUC,0.8376369045529692,57973,7973
+juarez,Juarez,PV-positive prevalence,log_elongation,Planform elongation,-0.10945011263699357,0.8963268786311279,weighted ROC AUC,0.8376369045529692,57973,7973
+juarez,Juarez,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.12512800563459292,1.1332935117376146,weighted ROC AUC,0.8376369045529692,57973,7973
+juarez,Juarez,PV-positive prevalence,log_local_building_density,Local building density,-0.6751067566367939,0.5091020676818024,weighted ROC AUC,0.8376369045529692,57973,7973
+juarez,Juarez,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,0.46481174670594994,1.591714515180035,weighted ROC AUC,0.8376369045529692,57973,7973
+juarez,Juarez,Conditional intensity,log_footprint_area,Footprint area,-0.6242965790721023,0.5356380750647078,R-squared,0.3858748025641887,7973,7973
+juarez,Juarez,Conditional intensity,compactness,Planform compactness,0.19154528283441632,1.2111196748299835,R-squared,0.3858748025641887,7973,7973
+juarez,Juarez,Conditional intensity,log_elongation,Planform elongation,0.0441314498461034,1.0451197266867276,R-squared,0.3858748025641887,7973,7973
+juarez,Juarez,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,0.04628673888555966,1.0473746909555517,R-squared,0.3858748025641887,7973,7973
+juarez,Juarez,Conditional intensity,log_local_building_density,Local building density,-0.11358503885273873,0.8926282850982384,R-squared,0.3858748025641887,7973,7973
+juarez,Juarez,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,0.06775162274727053,1.0700994870973963,R-squared,0.3858748025641887,7973,7973
+hongkong,Hong Kong,PV-positive prevalence,log_footprint_area,Footprint area,1.2195923432509588,3.385807205091459,weighted ROC AUC,0.7896073491986634,62102,12102
+hongkong,Hong Kong,PV-positive prevalence,compactness,Planform compactness,0.2284949573038749,1.2567071879234526,weighted ROC AUC,0.7896073491986634,62102,12102
+hongkong,Hong Kong,PV-positive prevalence,log_elongation,Planform elongation,-0.1477205356170416,0.8626721674026466,weighted ROC AUC,0.7896073491986634,62102,12102
+hongkong,Hong Kong,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,-0.024716392731428952,0.975586556235793,weighted ROC AUC,0.7896073491986634,62102,12102
+hongkong,Hong Kong,PV-positive prevalence,log_local_building_density,Local building density,0.48756625026199857,1.6283484010802955,weighted ROC AUC,0.7896073491986634,62102,12102
+hongkong,Hong Kong,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.4830165965433977,0.6169195845559252,weighted ROC AUC,0.7896073491986634,62102,12102
+hongkong,Hong Kong,Conditional intensity,log_footprint_area,Footprint area,-0.9852878670482896,0.3733317415601784,R-squared,0.5226230223351229,12102,12102
+hongkong,Hong Kong,Conditional intensity,compactness,Planform compactness,0.14661269259909773,1.1579054108365086,R-squared,0.5226230223351229,12102,12102
+hongkong,Hong Kong,Conditional intensity,log_elongation,Planform elongation,0.05743228826417401,1.0591135538095584,R-squared,0.5226230223351229,12102,12102
+hongkong,Hong Kong,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,-0.005492900198610812,0.9945221581936539,R-squared,0.5226230223351229,12102,12102
+hongkong,Hong Kong,Conditional intensity,log_local_building_density,Local building density,0.07947726601311032,1.0827209446858814,R-squared,0.5226230223351229,12102,12102
+hongkong,Hong Kong,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,-0.062064007678886327,0.9398227289943815,R-squared,0.5226230223351229,12102,12102
+shenzhen,Shenzhen,PV-positive prevalence,log_footprint_area,Footprint area,0.8418280212710595,2.3206052175030925,weighted ROC AUC,0.7993892027863577,52584,2584
+shenzhen,Shenzhen,PV-positive prevalence,compactness,Planform compactness,-0.09952636363451726,0.9052660834497416,weighted ROC AUC,0.7993892027863577,52584,2584
+shenzhen,Shenzhen,PV-positive prevalence,log_elongation,Planform elongation,-0.09670751857875298,0.9078214882262051,weighted ROC AUC,0.7993892027863577,52584,2584
+shenzhen,Shenzhen,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.07962939698421061,1.0828856726044185,weighted ROC AUC,0.7993892027863577,52584,2584
+shenzhen,Shenzhen,PV-positive prevalence,log_local_building_density,Local building density,-0.26426977547258773,0.767766387175696,weighted ROC AUC,0.7993892027863577,52584,2584
+shenzhen,Shenzhen,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,0.04416120199886654,1.0451508217110614,weighted ROC AUC,0.7993892027863577,52584,2584
+shenzhen,Shenzhen,Conditional intensity,log_footprint_area,Footprint area,-0.5147825434818588,0.5976305391452607,R-squared,0.19517518150630098,2584,2584
+shenzhen,Shenzhen,Conditional intensity,compactness,Planform compactness,0.2457577743419071,1.2785898287664827,R-squared,0.19517518150630098,2584,2584
+shenzhen,Shenzhen,Conditional intensity,log_elongation,Planform elongation,0.10612250296125,1.111958086321668,R-squared,0.19517518150630098,2584,2584
+shenzhen,Shenzhen,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,0.003010458601621091,1.0030149945827695,R-squared,0.19517518150630098,2584,2584
+shenzhen,Shenzhen,Conditional intensity,log_local_building_density,Local building density,-0.07319687314048652,0.9294178346050193,R-squared,0.19517518150630098,2584,2584
+shenzhen,Shenzhen,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,-0.1618283079056667,0.8505872311071927,R-squared,0.19517518150630098,2584,2584
+nice,Nice,PV-positive prevalence,log_footprint_area,Footprint area,1.1576167500258776,3.182339919745728,weighted ROC AUC,0.7831000606673936,50989,989
+nice,Nice,PV-positive prevalence,compactness,Planform compactness,0.006201323272500208,1.0062205912861344,weighted ROC AUC,0.7831000606673936,50989,989
+nice,Nice,PV-positive prevalence,log_elongation,Planform elongation,-0.19320403003060813,0.8243137722163939,weighted ROC AUC,0.7831000606673936,50989,989
+nice,Nice,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,0.01451425617832929,1.0146200994533685,weighted ROC AUC,0.7831000606673936,50989,989
+nice,Nice,PV-positive prevalence,log_local_building_density,Local building density,0.2153759189939548,1.2403280722195886,weighted ROC AUC,0.7831000606673936,50989,989
+nice,Nice,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,-0.6396285325274608,0.5274883324116374,weighted ROC AUC,0.7831000606673936,50989,989
+nice,Nice,Conditional intensity,log_footprint_area,Footprint area,-0.6712641550592371,0.5110621075045104,R-squared,0.3368236685397097,989,989
+nice,Nice,Conditional intensity,compactness,Planform compactness,0.08063026439570495,1.0839700401480499,R-squared,0.3368236685397097,989,989
+nice,Nice,Conditional intensity,log_elongation,Planform elongation,0.10419376455103246,1.109815476980709,R-squared,0.3368236685397097,989,989
+nice,Nice,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,0.01183514922050604,1.011905461711525,R-squared,0.3368236685397097,989,989
+nice,Nice,Conditional intensity,log_local_building_density,Local building density,-0.15853353724355043,0.8533943428170827,R-squared,0.3368236685397097,989,989
+nice,Nice,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,-0.05147631493541243,0.949826146389408,R-squared,0.3368236685397097,989,989

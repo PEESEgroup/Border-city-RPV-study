@@ -42,9 +42,21 @@ required = [
     ROOT / "Source_Data/csv/Fig_S_large_roof.csv",
     ROOT / "Source_Data/csv/Fig_S_detroit_windsor.csv",
     ROOT / "Source_Data/csv/Fig_S_economic_uncertainty.csv",
+    ROOT / "Source_Data/csv/Fig_S7_building_planform_local_context_quality.csv",
+    ROOT / "Source_Data/csv/Fig_S7_building_planform_local_context_pooled.csv",
+    ROOT / "Source_Data/csv/Fig_S7_building_planform_local_context_city_specific.csv",
+    ROOT / "Source_Data/csv/Fig_S7_building_planform_local_context_sensitivities.csv",
+    ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_inputs.csv",
+    ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_city.csv",
+    ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_pairwise.csv",
+    ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_central.csv",
+    ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_comparisons.csv",
+    ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_provenance.csv",
     ROOT / "Source_Data/Source_Data.xlsx",
     ROOT / "Source_Data/Source_Data_CSV.zip",
     *(ROOT / "figures/main" / f"Fig_{i}.pdf" for i in range(1, 7)),
+    ROOT / "figures/supplementary/Fig_S_planform_local_context.pdf",
+    ROOT / "figures/supplementary/Fig_S_sector_economic_envelope.pdf",
 ]
 for path in required:
     if not path.exists() or path.stat().st_size == 0:
@@ -72,6 +84,27 @@ if len(uncertainty) != 12:
     errors.append("Supplementary economic uncertainty must contain 12 primary cities")
 if any(row.get("City") in {"Detroit", "Windsor"} for row in uncertainty):
     errors.append("Detroit or Windsor found in primary economic uncertainty table")
+
+sector_central = rows(ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_central.csv")
+primary_sector_central = [row for row in sector_central if row.get("scope") == "primary"]
+primary_sector_aligned = sum(
+    row.get("aligned_with_observed_sector_leader", "").lower() == "true"
+    for row in primary_sector_central
+)
+if len(primary_sector_central) != 12 or primary_sector_aligned != 11:
+    errors.append(
+        f"sector-envelope central comparison expected 11/12 primary alignments, found {primary_sector_aligned}/{len(primary_sector_central)}"
+    )
+
+sector_summary = rows(ROOT / "Source_Data/csv/Fig_S8_sector_economic_envelope_pairwise.csv")
+primary_sector_summary = [row for row in sector_summary if row.get("scope") == "primary"]
+stable_count = sum(row.get("stable_economic_direction", "").lower() == "true" for row in primary_sector_summary)
+fully_aligned_count = sum(math.isclose(float(row.get("alignment_share", "nan")), 1.0) for row in primary_sector_summary)
+if len(primary_sector_summary) != 24 or stable_count != 19 or fully_aligned_count != 16:
+    errors.append(
+        "sector-envelope primary summary expected 24 rows, 19 stable directions and 16 fully aligned summaries; "
+        f"found {len(primary_sector_summary)}, {stable_count} and {fully_aligned_count}"
+    )
 
 grid = rows(ROOT / "Source_Data/csv/Fig_S_grid_atlas.csv")
 if len(grid) != 5238:

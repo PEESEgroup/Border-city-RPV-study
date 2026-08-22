@@ -1,0 +1,19 @@
+scenario,outcome,feature,feature_label,sample_size,multiplicative_effect_per_sd,primary_effect_per_sd,direction_matches_primary
+Exclude Monaco,PV-positive prevalence,log_footprint_area,Footprint area,684831,3.434632708562731,3.463405472431729,True
+Exclude Monaco,PV-positive prevalence,compactness,Planform compactness,684831,1.0053739232912153,1.0050981129860228,True
+Exclude Monaco,PV-positive prevalence,log_elongation,Planform elongation,684831,0.8578728147755209,0.8626036768415454,True
+Exclude Monaco,PV-positive prevalence,cardinal_alignment,Cardinal-axis alignment,684831,1.0338051573481077,1.010877413506748,True
+Exclude Monaco,PV-positive prevalence,log_local_building_density,Local building density,684831,1.1434747092664592,1.1861506663379449,True
+Exclude Monaco,PV-positive prevalence,log_local_footprint_coverage,Local footprint coverage,684831,0.7533870132640167,0.7516758921542659,True
+Exclude Monaco,Conditional intensity,log_footprint_area,Footprint area,134831,0.5622146521311834,0.5561992904299969,True
+Exclude Monaco,Conditional intensity,compactness,Planform compactness,134831,1.128296489857546,1.1411260579898188,True
+Exclude Monaco,Conditional intensity,log_elongation,Planform elongation,134831,1.0529975510893375,1.095269508149424,True
+Exclude Monaco,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,134831,0.9949839272812727,0.9774048547197216,True
+Exclude Monaco,Conditional intensity,log_local_building_density,Local building density,134831,0.9591677277557584,0.9465574904055695,True
+Exclude Monaco,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,134831,0.9655156680763788,0.9908678205288663,True
+Exclude building-level linked-PV ratios above one,Conditional intensity,log_footprint_area,Footprint area,131764,0.6050750870246805,0.5561992904299969,True
+Exclude building-level linked-PV ratios above one,Conditional intensity,compactness,Planform compactness,131764,1.1473073521792891,1.1411260579898188,True
+Exclude building-level linked-PV ratios above one,Conditional intensity,log_elongation,Planform elongation,131764,1.0798709452961168,1.095269508149424,True
+Exclude building-level linked-PV ratios above one,Conditional intensity,cardinal_alignment,Cardinal-axis alignment,131764,0.9778618491520124,0.9774048547197216,True
+Exclude building-level linked-PV ratios above one,Conditional intensity,log_local_building_density,Local building density,131764,0.9746617857351233,0.9465574904055695,True
+Exclude building-level linked-PV ratios above one,Conditional intensity,log_local_footprint_coverage,Local footprint coverage,131764,0.9723498904270366,0.9908678205288663,True
